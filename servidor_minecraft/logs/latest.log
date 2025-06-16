@@ -789,3 +789,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [16Jun2025 21:21:40.438] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/1625, l='ServerLevel[world]', x=398.66, y=135.00, z=-402.51] died, message: 'Unemployed was impaled on a stalagmite whilst fighting shockwave'
 [16Jun2025 21:21:40.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1681, l='ServerLevel[world]', x=352.46, y=121.00, z=-439.28] died, message: 'Fletcher was impaled on a stalagmite whilst fighting shockwave'
 [16Jun2025 21:23:06.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Life turned out to be a comedy]
+[16Jun2025 21:24:30.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Stay dead]
+[16Jun2025 21:24:33.640] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/1682, l='ServerLevel[world]', x=351.37, y=121.33, z=-400.90] died, message: 'Fletcher was impaled on a stalagmite whilst fighting shockwave'
+[16Jun2025 21:27:39.659] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-618, y=15, z=-630}
+[16Jun2025 21:28:20.714] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-500, y=22, z=-534}
+[16Jun2025 21:28:20.714] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-500, y=22, z=-532}
+[16Jun2025 21:28:37.234] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11765, l='ServerLevel[world]', x=-347.50, y=77.00, z=-611.50]
+[16Jun2025 21:30:38.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 4.510122276273904,10.380107758015782,3.532590656841819

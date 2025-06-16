@@ -651,7 +651,8 @@
       "minecraft:spider": "2025-06-09 22:03:07 +0000",
       "minecraft:creeper": "2025-06-09 22:48:35 +0000",
       "minecraft:enderman": "2025-06-09 23:22:49 +0000",
-      "minecraft:zombie": "2025-06-09 22:00:00 +0000"
+      "minecraft:zombie": "2025-06-09 22:00:00 +0000",
+      "minecraft:zombie_villager": "2025-06-16 21:22:45 +0000"
     },
     "done": false
   },
@@ -4667,9 +4668,21 @@
     },
     "done": true
   },
+  "undead_revamp2:oneskelly": {
+    "criteria": {
+      "oneskelly_0": "2025-06-16 21:21:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2025-06-16 21:13:12 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:thineded": {
+    "criteria": {
+      "thineded_0": "2025-06-16 21:21:05 +0000"
     },
     "done": true
   },
@@ -4682,6 +4695,30 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-06-16 21:19:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-06-16 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-06-16 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-06-16 21:23:06 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-06-16 21:21:06 +0000"
     },
     "done": true
   },
