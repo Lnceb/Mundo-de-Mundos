@@ -587,6 +587,7 @@
       "porkchop": "2025-06-11 17:56:46 +0000",
       "tropical_fish": "2025-06-11 22:33:41 +0000",
       "beetroot_soup": "2025-06-14 03:27:45 +0000",
+      "apple": "2025-06-16 21:47:37 +0000",
       "cooked_cod": "2025-06-11 18:13:21 +0000",
       "pumpkin_pie": "2025-06-12 22:25:22 +0000",
       "mutton": "2025-06-09 21:59:51 +0000",
@@ -594,6 +595,7 @@
       "golden_apple": "2025-06-12 22:53:41 +0000",
       "rotten_flesh": "2025-06-11 22:35:43 +0000",
       "cookie": "2025-06-12 20:41:18 +0000",
+      "glow_berries": "2025-06-16 21:43:36 +0000",
       "melon_slice": "2025-06-11 21:53:45 +0000",
       "beetroot": "2025-06-12 23:04:59 +0000",
       "cooked_chicken": "2025-06-09 23:26:11 +0000",
@@ -2136,6 +2138,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "glow_berries": "2025-06-16 21:43:38 +0000",
       "sweet_berries": "2025-06-12 21:02:46 +0000",
       "rice": "2025-06-09 23:24:56 +0000",
       "potato": "2025-06-12 15:04:47 +0000"
@@ -7052,6 +7055,24 @@
   "create:recipes/misc/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2025-06-15 06:07:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-06-16 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-06-16 21:43:33 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-06-16 21:43:33 +0000"
     },
     "done": true
   },
