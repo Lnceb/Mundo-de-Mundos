@@ -7055,5 +7055,11 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-06-16 21:40:28 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -4650,6 +4650,18 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-06-16 21:38:56 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/bloom_boat": {
+    "criteria": {
+      "in_water": "2025-06-16 21:38:56 +0000"
+    },
+    "done": true
+  },
   "create:root": {
     "criteria": {
       "0": "2025-06-16 21:13:12 +0000"
@@ -4680,9 +4692,21 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
+    "criteria": {
+      "has_item": "2025-06-16 21:34:00 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2025-06-16 21:21:05 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/coarse_lunar_dirt": {
+    "criteria": {
+      "has_item": "2025-06-16 21:34:00 +0000"
     },
     "done": true
   },
@@ -4719,6 +4743,12 @@
   "undead_revamp2:legendaryweapon": {
     "criteria": {
       "legendaryweapon_0": "2025-06-16 21:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sniper_duel": {
+    "criteria": {
+      "killed_skeleton": "2025-06-16 21:40:09 +0000"
     },
     "done": true
   },

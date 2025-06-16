@@ -796,3 +796,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [16Jun2025 21:28:20.714] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-500, y=22, z=-532}
 [16Jun2025 21:28:37.234] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/11765, l='ServerLevel[world]', x=-347.50, y=77.00, z=-611.50]
 [16Jun2025 21:30:38.276] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 4.510122276273904,10.380107758015782,3.532590656841819
+[16Jun2025 21:40:09.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has completed the challenge [Sniper Duel]
