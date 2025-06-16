@@ -4682,6 +4682,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-16 21:50:46 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-06-16 21:43:58 +0000"
@@ -4709,6 +4715,12 @@
   "undead_revamp2:oneskelly": {
     "criteria": {
       "oneskelly_0": "2025-06-16 21:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-16 21:50:46 +0000"
     },
     "done": true
   },

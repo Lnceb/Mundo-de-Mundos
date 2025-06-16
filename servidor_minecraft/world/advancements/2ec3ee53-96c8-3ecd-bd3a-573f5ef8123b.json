@@ -7058,9 +7058,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/apple_cider": {
+  "create:recipes/building_blocks/spruce_window": {
     "criteria": {
-      "has_apple": "2025-06-16 21:47:34 +0000"
+      "has_ingredient": "2025-06-16 21:40:28 +0000"
     },
     "done": true
   },
@@ -7076,9 +7076,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/spruce_window": {
+  "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
-      "has_ingredient": "2025-06-16 21:40:28 +0000"
+      "has_apple": "2025-06-16 21:47:34 +0000"
     },
     "done": true
   },
