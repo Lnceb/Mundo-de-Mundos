@@ -8612,6 +8612,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:naughty_child": {
+    "criteria": {
+      "naughty_child_0": "2025-06-18 19:21:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:wrong_santa": {
     "criteria": {
       "wrong_santa_0": "2025-06-18 19:21:21 +0000"
@@ -8624,9 +8630,9 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:naughty_child": {
+  "dummmmmmy:recipes/dummy_crafting": {
     "criteria": {
-      "naughty_child_0": "2025-06-18 19:21:10 +0000"
+      "has_hay_block": "2025-06-18 19:34:47 +0000"
     },
     "done": true
   },
