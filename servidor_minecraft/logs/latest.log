@@ -756,3 +756,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 17:56:51.287] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [18Jun2025 17:59:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Best Friends Forever]
 [18Jun2025 18:07:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz
+[18Jun2025 18:15:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Double Trouble]
+[18Jun2025 18:19:16.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/779, l='ServerLevel[world]', x=-710.67, y=172.00, z=-2022.31] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie'

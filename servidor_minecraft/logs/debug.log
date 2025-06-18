@@ -9499,3 +9499,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 18:06:10.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18Jun2025 18:06:10.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 18:07:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz
+[18Jun2025 18:11:11.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:11:11.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:15:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Double Trouble]
+[18Jun2025 18:16:10.652] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:16:10.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:19:16.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/779, l='ServerLevel[world]', x=-710.67, y=172.00, z=-2022.31] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie'
+[18Jun2025 18:19:47.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 18:19:47.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/325, l='ServerLevel[world]', x=-772.08, y=208.00, z=-1969.31], To: ThebeartamerEntity['The Bruin'/11561, l='ServerLevel[world]', x=-770.17, y=208.00, z=-1966.81] [5.575001]
+[18Jun2025 18:19:47.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.375
