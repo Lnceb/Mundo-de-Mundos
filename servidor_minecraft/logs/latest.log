@@ -758,3 +758,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 18:07:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz
 [18Jun2025 18:15:08.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Double Trouble]
 [18Jun2025 18:19:16.441] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/779, l='ServerLevel[world]', x=-710.67, y=172.00, z=-2022.31] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie'
+[18Jun2025 18:23:13.590] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/817, l='ServerLevel[world]', x=-802.31, y=201.00, z=-2053.39] died, message: 'Weaponsmith hit the ground too hard whilst trying to escape shockwave'
+[18Jun2025 18:23:14.641] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/813, l='ServerLevel[world]', x=-796.82, y=200.00, z=-2053.03] died, message: 'Unemployed was impaled on a stalagmite whilst fighting shockwave'
+[18Jun2025 18:23:18.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Fighting Nightmares]
+[18Jun2025 18:25:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzzz
+[18Jun2025 18:25:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz
