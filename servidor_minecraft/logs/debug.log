@@ -9503,3 +9503,45 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 06:08:19.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 06:08:42.205] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-987, y=62, z=-2056} at Chest with:minecraft:chests/simple_dungeon
 [18Jun2025 06:10:12.641] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1019, y=-21, z=-1940} at Chest with:minecraft:chests/simple_dungeon
+[18Jun2025 06:13:19.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 06:13:19.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 06:13:25.712] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1067, y=-17, z=-2127} at Chest with:minecraft:chests/simple_dungeon
+[18Jun2025 06:14:13.588] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1114, y=-36, z=-2223} at Coffin with:graveyard:chests/crypt_loot
+[18Jun2025 06:14:19.518] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1141, y=-10, z=-1905} at Coffin with:graveyard:chests/crypt_loot
+[18Jun2025 06:14:23.465] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1119, y=-2, z=-1781} at Chest with:minecraft:chests/simple_dungeon
+[18Jun2025 06:15:28.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:15:28.190] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-981.40, y=120.00, z=-1865.55], To: CorpseFlyEntity['Corpse Fly'/6862, l='ServerLevel[world]', x=-980.79, y=120.00, z=-1864.88] [9.5]
+[18Jun2025 06:15:28.191] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[18Jun2025 06:17:42.036] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:17:42.037] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-976.77, y=149.00, z=-1821.78], To: Zombie['Zombie'/7276, l='ServerLevel[world]', x=-977.70, y=149.00, z=-1820.83] [7.252963]
+[18Jun2025 06:17:42.037] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[18Jun2025 06:18:19.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 06:18:19.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 06:18:34.087] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:18:34.088] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-985.82, y=148.12, z=-1778.32], To: SiameseSkeletonsEntity['Siamese Skeletons'/7499, l='ServerLevel[world]', x=-986.09, y=148.00, z=-1777.93] [19.29875]
+[18Jun2025 06:18:34.088] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[18Jun2025 06:18:35.896] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:18:35.896] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-987.37, y=148.00, z=-1781.40], To: SiameseSkeletonsrightEntity['Siamese Skeleton'/7598, l='ServerLevel[world]', x=-986.83, y=148.00, z=-1780.99] [9.515]
+[18Jun2025 06:18:35.896] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[18Jun2025 06:18:36.441] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:18:36.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-987.70, y=148.00, z=-1782.52], To: SiameseSkeletonsrightEntity['Siamese Skeleton'/7598, l='ServerLevel[world]', x=-987.07, y=148.00, z=-1781.82] [8.530001]
+[18Jun2025 06:18:36.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[18Jun2025 06:18:48.196] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:18:48.197] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-1002.39, y=149.00, z=-1763.84], To: DarkVortexEntity['Dark Vortex'/7497, l='ServerLevel[world]', x=-1006.51, y=148.00, z=-1764.39] [34.25]
+[18Jun2025 06:18:48.197] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[18Jun2025 06:18:53.141] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:18:53.142] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-1004.70, y=148.00, z=-1767.45], To: DarkVortexEntity['Dark Vortex'/7497, l='ServerLevel[world]', x=-1004.94, y=148.00, z=-1765.29] [16.825665]
+[18Jun2025 06:18:53.142] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[18Jun2025 06:18:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [The Wind Darkening]
+[18Jun2025 06:18:59.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:18:59.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-1006.26, y=148.00, z=-1763.24], To: PhantomCreeperCopyEntity['Phantom Creeper'/7679, l='ServerLevel[world]', x=-1002.05, y=148.52, z=-1763.65] [8.277077]
+[18Jun2025 06:18:59.702] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[18Jun2025 06:21:39.885] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:21:39.885] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-1053.96, y=230.00, z=-1812.61], To: DecrepitSkeletonEntity['Decrepit Skeleton'/7871, l='ServerLevel[world]', x=-1053.51, y=229.50, z=-1811.99] [11.3]
+[18Jun2025 06:21:39.885] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[18Jun2025 06:21:42.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:21:42.180] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-1050.71, y=229.18, z=-1808.05], To: DecrepitSkeletonEntity['Decrepit Skeleton'/7871, l='ServerLevel[world]', x=-1050.96, y=229.00, z=-1808.98] [7.6949997]
+[18Jun2025 06:21:42.180] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[18Jun2025 06:21:47.234] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:21:47.234] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-1052.20, y=228.00, z=-1807.49], To: SpiritofChaosEntity['Spirit of Chaos'/8239, l='ServerLevel[world]', x=-1052.93, y=228.00, z=-1808.33] [4.8]
+[18Jun2025 06:21:47.234] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75

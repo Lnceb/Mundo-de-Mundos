@@ -763,3 +763,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 05:58:48.696] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [18Jun2025 05:58:48.696] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [18Jun2025 05:59:57.942] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-421, y=30, z=-1734}
+[18Jun2025 06:18:54.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [The Wind Darkening]
