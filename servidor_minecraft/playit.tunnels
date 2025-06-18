@@ -100,7 +100,7 @@
       "tunnel_type": "minecraft-java"
     },
     {
-      "active": true,
+      "active": false,
       "alloc": {
         "data": {
           "assigned_domain": "clear-connecting.gl.joinmc.link",
@@ -147,7 +147,7 @@
       "tunnel_type": "minecraft-java"
     },
     {
-      "active": true,
+      "active": false,
       "alloc": {
         "data": {
           "assigned_domain": "community-rabbit.gl.joinmc.link",

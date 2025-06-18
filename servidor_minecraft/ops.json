@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "18b77034-e1f6-3c04-a43b-8a62e748d4a3",
+    "name": "[lance]",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b",
+    "name": "Lance",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
