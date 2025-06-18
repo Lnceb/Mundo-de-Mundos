@@ -9463,3 +9463,39 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 17:46:10.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18Jun2025 17:47:11.083] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [18Jun2025 17:47:11.083] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.elysium_api.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Jun2025 17:51:04.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2718, l='ServerLevel[world]', x=-401.12, y=125.46, z=-2038.68] died, message: 'Nitwit was squashed by a falling anvil'
+[18Jun2025 17:51:10.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:51:10.754] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:51:22.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2717, l='ServerLevel[world]', x=-406.42, y=126.00, z=-2034.83] died, message: 'Unemployed was squashed by a falling anvil'
+[18Jun2025 17:52:52.011] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@5ba785b2 for service interface com.blamejared.clumps.platform.IEventHelper
+[18Jun2025 17:52:52.012] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@291ca5ef for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18Jun2025 17:56:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lance> waa
+[18Jun2025 17:56:10.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 17:56:10.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 17:56:50.149] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[18Jun2025 17:56:50.336] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 17:56:50.337] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 17:56:50.337] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 17:56:50.337] [Worker-Main-1/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[18Jun2025 17:56:50.337] [Worker-Main-1/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[18Jun2025 17:56:50.338] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Jun2025 17:56:50.338] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[18Jun2025 17:56:50.338] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Jun2025 17:56:50.338] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Jun2025 17:56:50.338] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[18Jun2025 17:56:50.747] [Worker-Main-30/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Jun2025 17:56:50.750] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Jun2025 17:56:50.751] [Worker-Main-30/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[18Jun2025 17:56:50.759] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Jun2025 17:56:50.759] [Worker-Main-30/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[18Jun2025 17:56:51.286] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[18Jun2025 17:56:51.287] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[18Jun2025 17:56:51.287] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[18Jun2025 17:56:56.535] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-750, y=-10, z=-2289} at Coffin with:graveyard:chests/crypt_loot
+[18Jun2025 17:57:37.032] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-953, y=66, z=-2337} at Chest with:minecraft:chests/simple_dungeon
+[18Jun2025 17:59:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Best Friends Forever]
+[18Jun2025 18:01:10.686] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:01:10.707] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:06:10.660] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 18:06:10.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 18:07:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz

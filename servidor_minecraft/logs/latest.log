@@ -748,3 +748,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 17:42:45.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
 [18Jun2025 17:42:45.322] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
 [18Jun2025 17:45:30.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lance> -767 208 -1973
+[18Jun2025 17:51:04.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/2718, l='ServerLevel[world]', x=-401.12, y=125.46, z=-2038.68] died, message: 'Nitwit was squashed by a falling anvil'
+[18Jun2025 17:51:22.506] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/2717, l='ServerLevel[world]', x=-406.42, y=126.00, z=-2034.83] died, message: 'Unemployed was squashed by a falling anvil'
+[18Jun2025 17:56:08.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lance> waa
+[18Jun2025 17:56:51.286] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[18Jun2025 17:56:51.287] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[18Jun2025 17:56:51.287] [Worker-Main-30/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[18Jun2025 17:59:11.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Best Friends Forever]
+[18Jun2025 18:07:57.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz
