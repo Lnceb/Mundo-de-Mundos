@@ -9481,3 +9481,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 06:00:13.650] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to md709f27$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [18Jun2025 06:00:33.442] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@719c94f3 for service interface com.blamejared.clumps.platform.IEventHelper
 [18Jun2025 06:00:33.443] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@702edae9 for service interface com.blamejared.clumps.platform.IPlatformHelper
+[18Jun2025 06:03:19.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 06:03:19.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 06:03:30.466] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[18Jun2025 06:03:44.938] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-781, y=-20, z=-2237} at Coffin with:graveyard:chests/crypt_loot
+[18Jun2025 06:04:17.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:04:17.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-670.79, y=109.00, z=-2013.88], To: CloggerEntity['The Clogger'/3832, l='ServerLevel[world]', x=-668.12, y=113.14, z=-2017.29] [207.34375]
+[18Jun2025 06:04:17.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.65625
+[18Jun2025 06:04:20.589] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:04:20.590] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-670.38, y=110.00, z=-2015.82], To: CloggerEntity['The Clogger'/3832, l='ServerLevel[world]', x=-669.44, y=111.00, z=-2016.16] [162.79376]
+[18Jun2025 06:04:20.590] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.65625
+[18Jun2025 06:04:27.043] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:04:27.044] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-666.71, y=109.00, z=-2012.47], To: CloggerEntity['The Clogger'/3832, l='ServerLevel[world]', x=-664.94, y=111.00, z=-2015.91] [107.23489]
+[18Jun2025 06:04:27.044] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: -1.0
+[18Jun2025 06:04:32.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 06:04:32.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/568, l='ServerLevel[world]', x=-667.33, y=110.80, z=-2013.19], To: CloggerEntity['The Clogger'/3832, l='ServerLevel[world]', x=-664.76, y=110.00, z=-2016.16] [33.334892]
+[18Jun2025 06:04:32.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[18Jun2025 06:05:52.262] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Jun2025 06:05:52.262] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.elysium_api.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[18Jun2025 06:08:19.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 06:08:19.466] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 06:08:42.205] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-987, y=62, z=-2056} at Chest with:minecraft:chests/simple_dungeon
+[18Jun2025 06:10:12.641] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1019, y=-21, z=-1940} at Chest with:minecraft:chests/simple_dungeon
