@@ -763,3 +763,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 18:23:18.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Fighting Nightmares]
 [18Jun2025 18:25:35.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzzz
 [18Jun2025 18:25:46.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <shockwave> zzzz
+[18Jun2025 18:36:46.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has reached the goal [Naughty Child]
+[18Jun2025 18:36:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lance> zzz
+[18Jun2025 18:36:59.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shockwave lost connection: Disconnected
+[18Jun2025 18:36:59.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave left the game
+[18Jun2025 18:37:36.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shockwave[/127.193.75.75:39357] logged in with entity id 16092 at (-793.0075847684233, 63.53651934553899, -2062.101287563719)
+[18Jun2025 18:37:36.081] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to shockwave
+[18Jun2025 18:37:36.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to shockwave
+[18Jun2025 18:37:36.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to shockwave
+[18Jun2025 18:37:36.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to shockwave
+[18Jun2025 18:37:36.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to shockwave
+[18Jun2025 18:37:36.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to shockwave
+[18Jun2025 18:37:36.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to shockwave
+[18Jun2025 18:37:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave joined the game
+[18Jun2025 18:37:36.175] [Server thread/INFO] [Jade/]: Syncing config to shockwave (a7855198-0ae0-396d-815f-3a19e008024f)
+[18Jun2025 18:40:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Creepie Crawly]
