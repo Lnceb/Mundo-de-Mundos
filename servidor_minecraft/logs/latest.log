@@ -818,3 +818,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 19:21:03.051] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/25936, l='ServerLevel[world]', x=-803.72, y=204.06, z=-2052.34] died, message: 'Golem Healer was slain by Lance'
 [18Jun2025 19:21:03.052] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/25936, l='ServerLevel[world]', x=-803.72, y=204.06, z=-2052.34] died: Golem Healer was slain by Lance
 [18Jun2025 19:21:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Naughty Child]
+[18Jun2025 19:21:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Wrong Santa]

@@ -10814,3 +10814,46 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 19:21:10.501] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [18Jun2025 19:21:10.502] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-802.98, y=201.77, z=-2053.70], To: KrampusEntity['Krampus'/26927, l='ServerLevel[world]', x=-802.50, y=201.00, z=-2053.50] [250.0]
 [18Jun2025 19:21:10.502] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.53125
+[18Jun2025 19:21:12.100] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:21:12.100] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-802.47, y=201.00, z=-2053.70], To: KrampusEntity['Krampus'/26927, l='ServerLevel[world]', x=-803.60, y=202.50, z=-2053.55] [250.0]
+[18Jun2025 19:21:12.100] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[18Jun2025 19:21:12.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 19:21:12.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 19:21:14.099] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:21:14.099] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-802.30, y=201.00, z=-2053.70], To: KrampusEntity['Krampus'/26927, l='ServerLevel[world]', x=-803.45, y=202.50, z=-2053.49] [198.09167]
+[18Jun2025 19:21:14.099] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.53125
+[18Jun2025 19:21:16.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:21:16.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-802.30, y=201.00, z=-2053.70], To: KrampusEntity['Krampus'/26927, l='ServerLevel[world]', x=-803.35, y=202.00, z=-2053.45] [118.629585]
+[18Jun2025 19:21:16.900] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.53125
+[18Jun2025 19:21:19.097] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:21:19.097] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-802.30, y=201.42, z=-2053.70], To: KrampusEntity['Krampus'/26927, l='ServerLevel[world]', x=-803.63, y=202.50, z=-2053.54] [84.14015]
+[18Jun2025 19:21:19.097] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[18Jun2025 19:21:21.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Wrong Santa]
+[18Jun2025 19:22:03.235] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:22:03.236] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-801.36, y=200.00, z=-2052.70], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-798.57, y=200.00, z=-2052.70] [94.90625]
+[18Jun2025 19:22:03.236] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.09375
+[18Jun2025 19:22:11.239] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:22:11.240] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-801.47, y=200.04, z=-2052.69], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-798.57, y=200.00, z=-2052.70] [100.0]
+[18Jun2025 19:22:11.240] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.46875
+[18Jun2025 19:22:37.686] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:22:37.686] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-801.44, y=200.00, z=-2052.69], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-798.57, y=200.00, z=-2052.70] [100.0]
+[18Jun2025 19:22:37.686] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[18Jun2025 19:26:12.635] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 19:26:12.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Jun2025 19:28:14.136] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:28:14.136] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-736.21, y=200.00, z=-2013.31], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-734.98, y=199.00, z=-2015.72] [96.53125]
+[18Jun2025 19:28:14.136] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.46875
+[18Jun2025 19:28:15.135] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:28:15.135] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-736.80, y=200.03, z=-2012.18], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-735.88, y=200.00, z=-2013.46] [93.8125]
+[18Jun2025 19:28:15.135] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.71875
+[18Jun2025 19:28:20.436] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:28:20.436] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-744.60, y=200.00, z=-2011.66], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-741.98, y=200.00, z=-2010.49] [57.788223]
+[18Jun2025 19:28:20.436] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.34375
+[18Jun2025 19:28:21.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:28:21.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=-745.46, y=200.63, z=-2010.93], To: IronGolem['Iron Golem'/26032, l='ServerLevel[world]', x=-743.32, y=200.00, z=-2010.50] [17.087914]
+[18Jun2025 19:28:21.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.34375
+[18Jun2025 19:30:40.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[18Jun2025 19:30:40.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/22541, l='ServerLevel[world]', x=163.57, y=131.00, z=-2113.40], To: Husk['Husk'/28765, l='ServerLevel[world]', x=162.27, y=131.06, z=-2113.83] [38.536232]
+[18Jun2025 19:30:40.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.03125
+[18Jun2025 19:31:12.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Jun2025 19:31:12.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
