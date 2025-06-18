@@ -778,3 +778,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'mofus_better_end_:deleted_mod
 [18Jun2025 18:37:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave joined the game
 [18Jun2025 18:37:36.175] [Server thread/INFO] [Jade/]: Syncing config to shockwave (a7855198-0ae0-396d-815f-3a19e008024f)
 [18Jun2025 18:40:19.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Creepie Crawly]
+[18Jun2025 18:42:36.108] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/818, l='ServerLevel[world]', x=-775.30, y=31.00, z=-2073.25] died: Uzsahe the Endborn was slain by Lance
+[18Jun2025 18:51:34.437] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[18Jun2025 18:54:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has made the advancement [Sneak 100]
+[18Jun2025 19:00:21.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Into Darkness]
+[18Jun2025 19:01:10.959] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity CaveSpider['Arag the Lurker'/16100, l='ServerLevel[world]', x=-727.54, y=-10.50, z=-2186.35] died: Arag the Lurker was slain by Lance
+[18Jun2025 19:02:48.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Taking from the Dead]
+[18Jun2025 19:03:57.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Iron, but dark]
+[18Jun2025 19:04:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave has completed the challenge [It Spreads]
+[18Jun2025 19:04:03.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Source of Evil]
+[18Jun2025 19:06:17.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave was shot by Missionary
+[18Jun2025 19:06:57.700] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: shockwave lost connection: Disconnected
+[18Jun2025 19:06:57.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave left the game
+[18Jun2025 19:07:11.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
+[18Jun2025 19:07:11.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[18Jun2025 19:07:19.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: shockwave[/127.193.75.75:36763] logged in with entity id 22316 at (61.5, 74.0, -72.5)
+[18Jun2025 19:07:19.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to shockwave
+[18Jun2025 19:07:19.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to shockwave
+[18Jun2025 19:07:19.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to shockwave
+[18Jun2025 19:07:19.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to shockwave
+[18Jun2025 19:07:19.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to shockwave
+[18Jun2025 19:07:19.859] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to shockwave
+[18Jun2025 19:07:19.860] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to shockwave
+[18Jun2025 19:07:19.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: shockwave joined the game
+[18Jun2025 19:07:19.929] [Server thread/INFO] [Jade/]: Syncing config to shockwave (a7855198-0ae0-396d-815f-3a19e008024f)
+[18Jun2025 19:07:34.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:52673] logged in with entity id 22541 at (-795.4891441894313, -18.0, -2233.0478057432797)
+[18Jun2025 19:07:34.562] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[18Jun2025 19:07:34.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[18Jun2025 19:07:34.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[18Jun2025 19:07:34.563] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[18Jun2025 19:07:34.565] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[18Jun2025 19:07:34.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[18Jun2025 19:07:34.567] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[18Jun2025 19:07:34.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[18Jun2025 19:07:34.613] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[18Jun2025 19:08:57.431] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
