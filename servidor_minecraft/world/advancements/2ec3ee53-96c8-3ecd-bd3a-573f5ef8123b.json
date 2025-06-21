@@ -8793,9 +8793,27 @@
     },
     "done": true
   },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-06-21 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_frostbright_log": "2025-06-21 23:04:24 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/shroud_key": {
     "criteria": {
       "has_template": "2025-06-21 22:49:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_chest": {
+    "criteria": {
+      "has_item": "2025-06-21 23:04:40 +0000"
     },
     "done": true
   },
@@ -8835,6 +8853,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/frostbright_planks": {
+    "criteria": {
+      "has_item": "2025-06-21 23:04:24 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
       "has_planks": "2025-06-21 22:49:28 +0000"
@@ -8844,6 +8868,12 @@
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
       "has_planks": "2025-06-21 22:49:28 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_ladder": {
+    "criteria": {
+      "has_item": "2025-06-21 23:04:40 +0000"
     },
     "done": true
   },
