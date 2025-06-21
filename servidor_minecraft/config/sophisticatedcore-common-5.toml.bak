@@ -1,0 +1,5 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedstorage:barrel|true", "sophisticatedstorage:magnet_upgrade|true", "sophisticatedstorage:filter_upgrade|true", "sophisticatedstorage:auto_smelting_upgrade|true", "sophisticatedstorage:advanced_jukebox_upgrade|true", "sophisticatedbackpacks:advanced_feeding_upgrade|true", "sophisticatedstorage:jukebox_upgrade|true", "sophisticatedbackpacks:diamond_backpack|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedstorage:auto_smoking_upgrade|true", "sophisticatedstorage:chest|true", "sophisticatedbackpacks:inception_upgrade|true", "sophisticatedbackpacks:advanced_jukebox_upgrade|true", "sophisticatedstorage:stack_upgrade_tier_1_plus|true", "sophisticatedbackpacks:stonecutter_upgrade|true", "sophisticatedbackpacks:crafting_upgrade|true"]
+
