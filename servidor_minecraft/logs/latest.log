@@ -1272,3 +1272,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jun2025 04:45:27.095] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/199, l='ServerLevel[world]', x=-693.20, y=155.00, z=-2012.84] died: Golem Healer was slain by Zombie Bruiser
 [23Jun2025 04:45:33.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Let's Get To Work]
 [23Jun2025 04:46:30.889] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/165, l='ServerLevel[world]', x=-733.61, y=193.00, z=-2046.85] died, message: 'Nitwit was slain by The Wolf'
+[23Jun2025 04:47:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Thine end is here.]
+[23Jun2025 04:47:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [One eyed big skelly]
+[23Jun2025 04:47:58.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/213, l='ServerLevel[world]', x=-763.50, y=202.00, z=-2044.30] died, message: 'Unemployed was slain by Zombie'
+[23Jun2025 04:50:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Stay dead]
+[23Jun2025 04:54:06.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/154, l='ServerLevel[world]', x=-800.70, y=186.42, z=-1973.31] died, message: 'Golem Healer was slain by The Hunter'
+[23Jun2025 04:54:06.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/154, l='ServerLevel[world]', x=-800.70, y=186.42, z=-1973.31] died: Golem Healer was slain by The Hunter

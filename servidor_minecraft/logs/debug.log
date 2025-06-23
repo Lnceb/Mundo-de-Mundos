@@ -10614,3 +10614,28 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jun2025 04:46:57.490] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [23Jun2025 04:46:57.490] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-780.86, y=206.00, z=-1982.44], To: SlavemanEntity['The Royal'/1649, l='ServerLevel[world]', x=-779.99, y=206.00, z=-1982.54] [9.933833]
 [23Jun2025 04:46:57.490] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[23Jun2025 04:47:00.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Thine end is here.]
+[23Jun2025 04:47:01.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [One eyed big skelly]
+[23Jun2025 04:47:58.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/213, l='ServerLevel[world]', x=-763.50, y=202.00, z=-2044.30] died, message: 'Unemployed was slain by Zombie'
+[23Jun2025 04:48:23.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 04:48:23.498] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 04:48:40.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jun2025 04:48:40.537] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-760.44, y=206.00, z=-1981.70], To: ThehunterEntity['The Hunter'/2095, l='ServerLevel[world]', x=-760.64, y=206.00, z=-1982.45] [14.75]
+[23Jun2025 04:48:40.538] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[23Jun2025 04:48:43.193] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jun2025 04:48:43.193] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-759.87, y=206.00, z=-1980.88], To: ThehunterEntity['The Hunter'/2095, l='ServerLevel[world]', x=-760.57, y=206.00, z=-1981.57] [14.75]
+[23Jun2025 04:48:43.194] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[23Jun2025 04:49:30.243] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jun2025 04:49:30.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-783.11, y=207.00, z=-1953.79], To: Skeleton['Skeleton'/2222, l='ServerLevel[world]', x=-795.04, y=208.00, z=-1949.12] [19.0]
+[23Jun2025 04:49:30.244] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[23Jun2025 04:50:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Stay dead]
+[23Jun2025 04:50:54.439] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jun2025 04:50:54.439] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-777.01, y=207.42, z=-1958.58], To: RestlessSpiritEntity['Restless Spirit'/2656, l='ServerLevel[world]', x=-777.02, y=208.95, z=-1958.60] [23.5]
+[23Jun2025 04:50:54.439] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[23Jun2025 04:50:55.137] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[23Jun2025 04:50:55.137] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-776.49, y=207.93, z=-1957.68], To: RestlessSpiritEntity['Restless Spirit'/2656, l='ServerLevel[world]', x=-776.91, y=207.03, z=-1958.38] [9.125]
+[23Jun2025 04:50:55.137] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[23Jun2025 04:53:23.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jun2025 04:53:23.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jun2025 04:54:06.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/154, l='ServerLevel[world]', x=-800.70, y=186.42, z=-1973.31] died, message: 'Golem Healer was slain by The Hunter'
+[23Jun2025 04:54:06.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/154, l='ServerLevel[world]', x=-800.70, y=186.42, z=-1973.31] died: Golem Healer was slain by The Hunter
