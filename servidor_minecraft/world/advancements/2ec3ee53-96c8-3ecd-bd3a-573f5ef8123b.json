@@ -8938,6 +8938,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "toolsmith": "2025-06-23 04:58:21 +0000"
+    },
+    "done": false
+  },
   "undead_revamp2:oneskelly": {
     "criteria": {
       "oneskelly_0": "2025-06-23 04:47:01 +0000"
@@ -8946,6 +8952,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "smithingtable": "2025-06-23 04:59:02 +0000",
       "blastfurnace": "2025-06-23 04:45:33 +0000"
     },
     "done": false
@@ -8959,6 +8966,12 @@
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2025-06-23 04:47:00 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-06-23 04:58:21 +0000"
     },
     "done": true
   },

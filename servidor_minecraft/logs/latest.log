@@ -1278,3 +1278,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [23Jun2025 04:50:32.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Stay dead]
 [23Jun2025 04:54:06.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/154, l='ServerLevel[world]', x=-800.70, y=186.42, z=-1973.31] died, message: 'Golem Healer was slain by The Hunter'
 [23Jun2025 04:54:06.389] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/154, l='ServerLevel[world]', x=-800.70, y=186.42, z=-1973.31] died: Golem Healer was slain by The Hunter
+[23Jun2025 04:58:21.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [First Trade]
