@@ -1423,7 +1423,8 @@
       "minecraft:endermite": "2025-06-17 23:07:24 +0000",
       "minecraft:vex": "2025-06-17 22:54:01 +0000",
       "minecraft:zombie": "2025-06-09 22:37:00 +0000",
-      "minecraft:drowned": "2025-06-09 23:13:45 +0000"
+      "minecraft:drowned": "2025-06-09 23:13:45 +0000",
+      "minecraft:zombie_villager": "2025-06-21 23:13:31 +0000"
     },
     "done": false
   },
@@ -8793,27 +8794,9 @@
     },
     "done": true
   },
-  "morevillagers:recipes/gardening_table": {
-    "criteria": {
-      "has_flower": "2025-06-21 23:08:31 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:everbright/get_wood": {
-    "criteria": {
-      "has_frostbright_log": "2025-06-21 23:04:24 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/shroud_key": {
     "criteria": {
       "has_template": "2025-06-21 22:49:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/frostbright_chest": {
-    "criteria": {
-      "has_item": "2025-06-21 23:04:40 +0000"
     },
     "done": true
   },
@@ -8841,21 +8824,9 @@
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/packing_tape": {
-    "criteria": {
-      "has_slime": "2025-06-21 22:51:04 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/personal_key": {
     "criteria": {
       "has_template": "2025-06-21 22:49:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/frostbright_planks": {
-    "criteria": {
-      "has_item": "2025-06-21 23:04:24 +0000"
     },
     "done": true
   },
@@ -8868,12 +8839,6 @@
   "storagedrawers:recipes/storagedrawers/jungle_trim": {
     "criteria": {
       "has_planks": "2025-06-21 22:49:28 +0000"
-    },
-    "done": true
-  },
-  "blue_skies:recipes/building_blocks/frostbright_ladder": {
-    "criteria": {
-      "has_item": "2025-06-21 23:04:40 +0000"
     },
     "done": true
   },
@@ -8907,12 +8872,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-06-21 22:52:23 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/quantify_key": {
     "criteria": {
       "has_template": "2025-06-21 22:49:28 +0000"
@@ -8928,6 +8887,54 @@
   "storagedrawers:recipes/storagedrawers/balance_fill_upgrade": {
     "criteria": {
       "has_template": "2025-06-21 22:49:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/packing_tape": {
+    "criteria": {
+      "has_slime": "2025-06-21 22:51:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-06-21 22:52:23 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_wood": {
+    "criteria": {
+      "has_frostbright_log": "2025-06-21 23:04:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_planks": {
+    "criteria": {
+      "has_item": "2025-06-21 23:04:24 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_chest": {
+    "criteria": {
+      "has_item": "2025-06-21 23:04:40 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/frostbright_ladder": {
+    "criteria": {
+      "has_item": "2025-06-21 23:04:40 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-06-21 23:08:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-06-21 23:13:52 +0000"
     },
     "done": true
   },
