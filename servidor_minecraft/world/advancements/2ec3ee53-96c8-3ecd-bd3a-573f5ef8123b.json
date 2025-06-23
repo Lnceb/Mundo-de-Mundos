@@ -598,6 +598,7 @@
       "glow_berries": "2025-06-16 21:43:36 +0000",
       "melon_slice": "2025-06-11 21:53:45 +0000",
       "beetroot": "2025-06-12 23:04:59 +0000",
+      "golden_carrot": "2025-06-23 05:06:04 +0000",
       "cooked_rabbit": "2025-06-16 22:35:41 +0000",
       "cooked_chicken": "2025-06-09 23:26:11 +0000",
       "mushroom_stew": "2025-06-14 03:28:08 +0000",
@@ -8943,6 +8944,12 @@
       "toolsmith": "2025-06-23 04:58:21 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-06-23 05:06:02 +0000"
+    },
+    "done": true
   },
   "undead_revamp2:oneskelly": {
     "criteria": {
