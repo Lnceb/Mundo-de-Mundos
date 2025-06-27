@@ -10069,3 +10069,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 04:16:09.112] [Server thread/DEBUG] [mixin/]: Mixing BlockCollisionsMixin from whisperwoods.mixins.json into net.minecraft.world.level.BlockCollisions
 [27Jun2025 04:21:08.923] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 04:21:08.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:26:08.882] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 04:26:08.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:31:08.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 04:31:08.886] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
