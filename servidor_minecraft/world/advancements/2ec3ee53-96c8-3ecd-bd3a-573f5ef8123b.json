@@ -8994,15 +8994,27 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-06-27 05:54:05 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/decorations/copper_cup": {
     "criteria": {
       "has_copper": "2025-06-27 05:51:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/copper_carrot": {
+    "criteria": {
+      "has_copper": "2025-06-27 05:51:23 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/copper_pot": {
+    "criteria": {
+      "has_copper": "2025-06-27 05:51:23 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-06-27 05:54:05 +0000"
     },
     "done": true
   },
@@ -9024,21 +9036,117 @@
     },
     "done": true
   },
-  "miners_delight:recipes/food/copper_carrot": {
-    "criteria": {
-      "has_copper": "2025-06-27 05:51:23 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/decorations/copper_pot": {
-    "criteria": {
-      "has_copper": "2025-06-27 05:51:23 +0000"
-    },
-    "done": true
-  },
   "ribbits:recipes/mossy_oak_planks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-06-27 05:54:05 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/skeleton_skull_candle": {
+    "criteria": {
+      "has_item": "2025-06-27 05:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-06-27 05:59:33 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/sanctum/skull_on_a_stick": {
+    "criteria": {
+      "item": "2025-06-27 05:58:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_1": {
+    "criteria": {
+      "has_oak_plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_2": {
+    "criteria": {
+      "has_oak_plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_3": {
+    "criteria": {
+      "has_oak_plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_limited_barrel_4": {
+    "criteria": {
+      "has_oak_plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_barrel": {
+    "criteria": {
+      "has _plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-06-27 06:10:53 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_chest": {
+    "criteria": {
+      "has _plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_chest": {
+    "criteria": {
+      "has_oak_plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/decorations/sticky_basket": {
+    "criteria": {
+      "has_cobweb": "2025-06-27 06:04:50 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-06-27 06:07:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/oak_barrel": {
+    "criteria": {
+      "has_oak_plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_2": {
+    "criteria": {
+      "has _plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_3": {
+    "criteria": {
+      "has _plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_1": {
+    "criteria": {
+      "has _plank": "2025-06-27 06:04:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/generic_limited_barrel_4": {
+    "criteria": {
+      "has _plank": "2025-06-27 06:04:16 +0000"
     },
     "done": true
   },

@@ -1123,3 +1123,21 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 05:51:22.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/6761, l='ServerLevel[world]', x=-789.30, y=-19.00, z=-2230.89] died: Yomach the Toxic was slain by Lance
 [27Jun2025 05:54:50.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
 [27Jun2025 05:54:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[27Jun2025 05:55:32.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:48671] logged in with entity id 14558 at (-751.7646132814816, -21.0, -2247.936758210676)
+[27Jun2025 05:55:32.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[27Jun2025 05:55:32.082] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[27Jun2025 05:55:32.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[27Jun2025 05:55:32.083] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[27Jun2025 05:55:32.084] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[27Jun2025 05:55:32.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[27Jun2025 05:55:32.087] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[27Jun2025 05:55:32.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[27Jun2025 05:55:32.133] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[27Jun2025 05:59:20.388] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 10.361568325183384,0.41999998688697815,-0.5371999014205358
+[27Jun2025 05:59:33.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Cover Me with Diamonds]
+[27Jun2025 06:00:50.317] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/14637, l='ServerLevel[world]', x=-736.33, y=-21.00, z=-2304.74] died: Yomach the Toxic was slain by Lance
+[27Jun2025 06:07:35.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Who turned the lights off?]
+[27Jun2025 06:10:43.890] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/14632, l='ServerLevel[world]', x=-762.58, y=-12.58, z=-2303.57] died: Corvin the Rotten was slain by Lance
+[27Jun2025 06:10:53.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Serious Dedication]
+[27Jun2025 06:15:20.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-754, y=-4, z=-2239} BlockPos{x=-753, y=-5, z=-2238}
+[27Jun2025 06:15:20.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-753, y=-5, z=-2238} BlockPos{x=-754, y=-6, z=-2237}
