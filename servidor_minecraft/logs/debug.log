@@ -10410,3 +10410,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 04:39:03.676] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@5c2cb26c for service interface com.blamejared.clumps.platform.IPlatformHelper
 [27Jun2025 04:41:11.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 04:41:11.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:46:11.184] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 04:46:11.209] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:46:51.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:46:51.622] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-802.61, y=35.25, z=-2061.13], To: Skeleton['Skeleton'/1893, l='ServerLevel[world]', x=-798.31, y=34.00, z=-2059.02] [18.0]
+[27Jun2025 04:46:51.622] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[27Jun2025 04:47:24.169] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:47:24.170] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-783.26, y=41.00, z=-2052.52], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/1883, l='ServerLevel[world]', x=-784.46, y=42.00, z=-2054.03] [48.53875]
+[27Jun2025 04:47:24.170] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[27Jun2025 04:47:43.182] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[27Jun2025 04:47:52.080] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:47:52.081] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-773.37, y=48.00, z=-2058.98], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/2126, l='ServerLevel[world]', x=-773.55, y=48.00, z=-2059.63] [48.53875]
+[27Jun2025 04:47:52.081] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[27Jun2025 04:48:14.472] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:48:14.473] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-773.96, y=48.00, z=-2057.42], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/2165, l='ServerLevel[world]', x=-772.95, y=48.00, z=-2058.44] [48.53875]
+[27Jun2025 04:48:14.473] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[27Jun2025 04:48:16.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:48:16.975] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-774.70, y=48.00, z=-2057.67], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/2165, l='ServerLevel[world]', x=-773.89, y=48.00, z=-2057.95] [34.68595]
+[27Jun2025 04:48:16.975] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[27Jun2025 04:48:19.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:48:19.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-774.08, y=48.80, z=-2059.71], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/2165, l='ServerLevel[world]', x=-773.94, y=48.00, z=-2057.76] [12.445505]
+[27Jun2025 04:48:19.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[27Jun2025 04:48:37.173] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:48:37.174] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-773.57, y=48.00, z=-2056.78], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/2206, l='ServerLevel[world]', x=-774.41, y=48.00, z=-2058.37] [48.53875]
+[27Jun2025 04:48:37.174] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.75
+[27Jun2025 04:50:20.019] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:50:20.019] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-777.35, y=20.25, z=-2095.77], To: ThesomnolenceEntity['The Somnolence'/2505, l='ServerLevel[world]', x=-777.59, y=20.46, z=-2095.20] [11.0]
+[27Jun2025 04:50:20.019] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[27Jun2025 04:50:27.668] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:50:27.668] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-769.60, y=22.00, z=-2099.32], To: ThesomnolenceEntity['The Somnolence'/2506, l='ServerLevel[world]', x=-770.37, y=23.63, z=-2099.26] [0.0]
+[27Jun2025 04:50:27.668] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[27Jun2025 04:50:30.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:50:30.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-768.54, y=23.00, z=-2099.98], To: ThesomnolenceEntity['The Somnolence'/2505, l='ServerLevel[world]', x=-768.78, y=24.46, z=-2100.10] [1.0]
+[27Jun2025 04:50:30.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[27Jun2025 04:51:11.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 04:51:11.194] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 04:53:29.662] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 04:53:29.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-788.34, y=21.00, z=-2091.05], To: ThesomnolenceEntity['The Somnolence'/2510, l='ServerLevel[world]', x=-788.39, y=22.63, z=-2091.15] [15.0]
+[27Jun2025 04:53:29.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
