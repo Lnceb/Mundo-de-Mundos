@@ -1116,3 +1116,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 05:29:09.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=2, z=-2082} BlockPos{x=-824, y=2, z=-2081}
 [27Jun2025 05:29:09.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=2, z=-2082} BlockPos{x=-824, y=2, z=-2081}
 [27Jun2025 05:29:09.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=2, z=-2082} BlockPos{x=-824, y=2, z=-2081}
+[27Jun2025 05:41:28.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-750, y=29, z=-2124} BlockPos{x=-729, y=27, z=-2160}
+[27Jun2025 05:41:28.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=27, z=-2160} BlockPos{x=-729, y=26, z=-2159}
+[27Jun2025 05:41:28.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=27, z=-2160} BlockPos{x=-729, y=26, z=-2159}
+[27Jun2025 05:41:28.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=27, z=-2160} BlockPos{x=-729, y=26, z=-2159}
+[27Jun2025 05:51:22.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/6761, l='ServerLevel[world]', x=-789.30, y=-19.00, z=-2230.89] died: Yomach the Toxic was slain by Lance
+[27Jun2025 05:54:50.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
+[27Jun2025 05:54:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game

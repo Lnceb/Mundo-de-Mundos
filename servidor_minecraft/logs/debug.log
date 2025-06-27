@@ -10936,3 +10936,136 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 05:30:05.931] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
 [27Jun2025 05:31:11.172] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jun2025 05:31:11.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 05:36:11.160] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 05:36:11.179] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 05:39:34.321] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:39:34.322] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-806.63, y=14.54, z=-2117.99], To: NecromancerEntity['Necromancer'/10856, l='ServerLevel[world]', x=-803.30, y=14.96, z=-2116.30] [12.96316]
+[27Jun2025 05:39:34.322] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.4375
+[27Jun2025 05:39:38.530] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:39:38.530] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-805.34, y=13.00, z=-2118.65], To: NecromancerEntity['Necromancer'/10856, l='ServerLevel[world]', x=-803.30, y=14.96, z=-2116.35] [1.188715]
+[27Jun2025 05:39:38.530] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5625
+[27Jun2025 05:39:41.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:39:41.975] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-805.88, y=12.00, z=-2124.08], To: NecromancerEntity['Necromancer'/10856, l='ServerLevel[world]', x=-803.40, y=13.00, z=-2121.13, removed=KILLED] [0.0]
+[27Jun2025 05:39:41.975] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5625
+[27Jun2025 05:39:43.272] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:39:43.272] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-808.14, y=12.00, z=-2125.07], To: NecromancerEntity['Necromancer'/10856, l='ServerLevel[world]', x=-803.40, y=13.00, z=-2121.13, removed=KILLED] [0.0]
+[27Jun2025 05:39:43.272] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5625
+[27Jun2025 05:39:47.375] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:39:47.375] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-809.52, y=12.92, z=-2124.53], To: NecromancerEntity['Necromancer'/10856, l='ServerLevel[world]', x=-803.40, y=13.00, z=-2121.13, removed=KILLED] [0.0]
+[27Jun2025 05:39:47.375] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:39:49.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:39:49.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-804.79, y=12.80, z=-2121.30], To: SummonedSkeleton['Summoned Skeleton'/11044, l='ServerLevel[world]', x=-803.46, y=13.36, z=-2119.30] [0.0]
+[27Jun2025 05:39:49.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:41:11.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 05:41:11.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 05:41:28.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-750, y=29, z=-2124} BlockPos{x=-729, y=27, z=-2160}
+[27Jun2025 05:41:28.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=27, z=-2160} BlockPos{x=-729, y=26, z=-2159}
+[27Jun2025 05:41:28.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=27, z=-2160} BlockPos{x=-729, y=26, z=-2159}
+[27Jun2025 05:41:28.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-729, y=27, z=-2160} BlockPos{x=-729, y=26, z=-2159}
+[27Jun2025 05:42:34.424] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:42:34.424] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-723.23, y=-15.00, z=-2152.00], To: CaveSpider['Cave Spider'/11687, l='ServerLevel[world]', x=-723.47, y=-15.00, z=-2151.07] [12.0]
+[27Jun2025 05:42:34.424] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[27Jun2025 05:43:35.172] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:43:35.173] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-729.30, y=-18.00, z=-2217.84], To: CorruptedPillager['Corrupted Pillager'/11857, l='ServerLevel[world]', x=-729.66, y=-18.00, z=-2219.08] [3.5100002]
+[27Jun2025 05:43:35.173] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:43:36.219] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:43:36.220] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-729.19, y=-17.50, z=-2217.30], To: CorruptedPillager['Corrupted Pillager'/11859, l='ServerLevel[world]', x=-729.52, y=-18.00, z=-2218.41] [23.25]
+[27Jun2025 05:43:36.220] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:43:36.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:43:36.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-728.90, y=-17.50, z=-2216.80], To: CorruptedPillager['Corrupted Pillager'/11859, l='ServerLevel[world]', x=-729.76, y=-17.50, z=-2217.54] [5.227501]
+[27Jun2025 05:43:36.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:43:40.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:43:40.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-729.41, y=-19.00, z=-2221.93], To: CorruptedPillager['Corrupted Pillager'/11858, l='ServerLevel[world]', x=-729.27, y=-19.50, z=-2223.18] [5.67]
+[27Jun2025 05:43:40.922] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[27Jun2025 05:44:24.572] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:24.573] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-752.55, y=-21.00, z=-2224.17], To: CorruptedVindicator['Corrupted Vindicator'/12002, l='ServerLevel[world]', x=-753.50, y=-21.00, z=-2225.00] [22.81875]
+[27Jun2025 05:44:24.573] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:44:34.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:34.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-752.38, y=-20.00, z=-2234.18], To: CorruptedPillager['Corrupted Pillager'/12053, l='ServerLevel[world]', x=-752.52, y=-19.08, z=-2233.49] [5.67]
+[27Jun2025 05:44:34.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:44:39.764] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:39.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-749.70, y=-21.00, z=-2237.29], To: CorruptedVindicator['Corrupted Vindicator'/12109, l='ServerLevel[world]', x=-749.45, y=-20.00, z=-2236.41] [22.81875]
+[27Jun2025 05:44:39.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:44:43.018] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:43.019] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-749.40, y=-20.00, z=-2236.16], To: CorruptedPillager['Corrupted Pillager'/12137, l='ServerLevel[world]', x=-749.52, y=-20.46, z=-2236.84] [14.27]
+[27Jun2025 05:44:43.019] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:44:47.966] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:47.967] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-742.64, y=-21.00, z=-2236.77], To: CorruptedPillager['Corrupted Pillager'/12137, l='ServerLevel[world]', x=-743.32, y=-21.00, z=-2235.69] [4.5749607]
+[27Jun2025 05:44:47.967] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:44:50.067] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:50.068] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-740.17, y=-21.00, z=-2234.61], To: CorruptedVindicator['Corrupted Vindicator'/12145, l='ServerLevel[world]', x=-741.43, y=-21.00, z=-2234.42] [22.81875]
+[27Jun2025 05:44:50.068] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:44:51.116] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:51.116] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-740.12, y=-21.00, z=-2233.51], To: CorruptedVindicator['Corrupted Vindicator'/12145, l='ServerLevel[world]', x=-739.77, y=-21.00, z=-2234.70] [5.3350806]
+[27Jun2025 05:44:51.116] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:44:54.416] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:44:54.416] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-750.22, y=-20.00, z=-2235.93], To: CorruptedPillager['Corrupted Pillager'/12156, l='ServerLevel[world]', x=-751.33, y=-20.00, z=-2235.48] [23.25]
+[27Jun2025 05:44:54.416] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:45:03.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:45:03.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-756.79, y=-20.00, z=-2233.80], To: CorruptedPillager['Corrupted Pillager'/12191, l='ServerLevel[world]', x=-756.39, y=-20.00, z=-2233.01] [23.25]
+[27Jun2025 05:45:03.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:46:11.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 05:46:11.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 05:46:20.962] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:46:20.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-739.52, y=-21.00, z=-2237.29], To: CorruptedVindicator['Corrupted Vindicator'/12394, l='ServerLevel[world]', x=-740.56, y=-21.00, z=-2237.40] [22.81875]
+[27Jun2025 05:46:20.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:46:22.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:46:22.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-739.76, y=-21.00, z=-2236.84], To: CorruptedVindicator['Corrupted Vindicator'/12394, l='ServerLevel[world]', x=-739.84, y=-21.00, z=-2237.49] [17.52572]
+[27Jun2025 05:46:22.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:46:25.816] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:46:25.816] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-742.42, y=-21.00, z=-2232.61], To: CorruptedPillager['Corrupted Pillager'/12439, l='ServerLevel[world]', x=-741.48, y=-21.00, z=-2233.58] [23.25]
+[27Jun2025 05:46:25.816] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:46:38.112] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:46:38.112] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-764.06, y=-21.00, z=-2246.70], To: CorruptedVindicator['Corrupted Vindicator'/12415, l='ServerLevel[world]', x=-764.20, y=-21.00, z=-2245.40] [22.81875]
+[27Jun2025 05:46:38.112] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:46:40.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:46:40.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-761.14, y=-21.00, z=-2245.71], To: CorruptedVindicator['Corrupted Vindicator'/12415, l='ServerLevel[world]', x=-762.26, y=-21.00, z=-2246.50] [3.4022717]
+[27Jun2025 05:46:40.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:46:50.014] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:46:50.014] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-754.01, y=-21.00, z=-2240.92], To: CorruptedPillager['Corrupted Pillager'/12531, l='ServerLevel[world]', x=-754.21, y=-21.00, z=-2240.96] [23.25]
+[27Jun2025 05:46:50.014] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:47:05.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:47:05.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-750.98, y=-18.00, z=-2238.55], To: CorruptedPillager['Corrupted Pillager'/12623, l='ServerLevel[world]', x=-750.31, y=-18.83, z=-2237.70] [23.25]
+[27Jun2025 05:47:05.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:47:34.213] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:47:34.213] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-744.46, y=-21.00, z=-2234.90], To: CorruptedPillager['Corrupted Pillager'/12755, l='ServerLevel[world]', x=-743.57, y=-21.00, z=-2233.85] [13.52]
+[27Jun2025 05:47:34.213] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[27Jun2025 05:50:36.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:50:36.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-770.45, y=-21.00, z=-2233.32], To: WraithEntity['Wraith'/13704, l='ServerLevel[world]', x=-769.81, y=-21.00, z=-2233.51] [25.875]
+[27Jun2025 05:50:36.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[27Jun2025 05:50:37.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:50:37.369] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-771.41, y=-21.00, z=-2233.04], To: WraithEntity['Wraith'/13704, l='ServerLevel[world]', x=-770.16, y=-21.00, z=-2233.55] [24.25]
+[27Jun2025 05:50:37.369] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[27Jun2025 05:50:52.867] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:50:52.868] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-772.83, y=-21.00, z=-2233.52], To: WraithEntity['Wraith'/13740, l='ServerLevel[world]', x=-773.40, y=-20.14, z=-2232.57] [25.875]
+[27Jun2025 05:50:52.868] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[27Jun2025 05:50:53.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:50:53.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-772.33, y=-21.00, z=-2234.34], To: WraithEntity['Wraith'/13740, l='ServerLevel[world]', x=-772.57, y=-21.00, z=-2233.42] [24.25]
+[27Jun2025 05:50:53.666] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[27Jun2025 05:50:54.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:50:54.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-771.72, y=-21.00, z=-2234.38], To: WraithEntity['Wraith'/13740, l='ServerLevel[world]', x=-772.51, y=-21.00, z=-2234.00] [22.625]
+[27Jun2025 05:50:54.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[27Jun2025 05:51:11.161] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jun2025 05:51:11.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jun2025 05:51:22.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/6761, l='ServerLevel[world]', x=-789.30, y=-19.00, z=-2230.89] died: Yomach the Toxic was slain by Lance
+[27Jun2025 05:53:22.215] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:53:22.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-795.46, y=-18.00, z=-2233.12], To: WraithEntity['Wraith'/13992, l='ServerLevel[world]', x=-795.52, y=-18.00, z=-2233.77] [25.875]
+[27Jun2025 05:53:22.216] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.625
+[27Jun2025 05:54:00.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:54:00.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-761.24, y=-19.98, z=-2245.40], To: CorruptedVindicator['Corrupted Vindicator'/14020, l='ServerLevel[world]', x=-760.48, y=-21.00, z=-2245.89] [22.81875]
+[27Jun2025 05:54:00.012] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:54:01.810] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:54:01.810] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-761.47, y=-21.00, z=-2245.93], To: CorruptedVindicator['Corrupted Vindicator'/13957, l='ServerLevel[world]', x=-761.49, y=-21.00, z=-2244.56] [22.81875]
+[27Jun2025 05:54:01.810] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:54:22.865] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:54:22.865] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-751.63, y=-21.00, z=-2261.81], To: CorruptedVindicator['Corrupted Vindicator'/14031, l='ServerLevel[world]', x=-751.52, y=-21.00, z=-2263.05] [9.570623]
+[27Jun2025 05:54:22.865] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.525
+[27Jun2025 05:54:23.915] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:54:23.915] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-751.89, y=-21.00, z=-2262.04], To: CorruptedVindicator['Corrupted Vindicator'/14031, l='ServerLevel[world]', x=-751.61, y=-21.00, z=-2263.15] [8.380695]
+[27Jun2025 05:54:23.915] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.525
+[27Jun2025 05:54:27.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[27Jun2025 05:54:27.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/4270, l='ServerLevel[world]', x=-751.38, y=-21.00, z=-2256.30], To: CorruptedVindicator['Corrupted Vindicator'/14019, l='ServerLevel[world]', x=-751.43, y=-21.00, z=-2257.59] [22.81875]
+[27Jun2025 05:54:27.461] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[27Jun2025 05:54:46.059] [Worker-Main-65/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-734, y=-28, z=-2488} at Chest with:minecraft:chests/simple_dungeon
+[27Jun2025 05:54:50.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
+[27Jun2025 05:54:50.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
