@@ -1091,3 +1091,15 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 04:37:16.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
 [27Jun2025 04:37:16.589] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
 [27Jun2025 04:37:16.589] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[27Jun2025 05:01:21.567] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
+[27Jun2025 05:01:21.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[27Jun2025 05:01:52.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:56827] logged in with entity id 4270 at (-797.5771851959728, -19.0, -2069.694461872155)
+[27Jun2025 05:01:52.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[27Jun2025 05:01:52.894] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[27Jun2025 05:01:52.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[27Jun2025 05:01:52.895] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[27Jun2025 05:01:52.897] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[27Jun2025 05:01:52.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[27Jun2025 05:01:52.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[27Jun2025 05:01:52.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[27Jun2025 05:01:52.956] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
