@@ -1077,3 +1077,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 04:16:08.626] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14807 ms
 [27Jun2025 04:16:08.627] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (24.141s)! For help, type "help"
 [27Jun2025 04:16:08.805] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Jun2025 04:37:14.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class net.minecraft.world.entity.player.Player from class tschipp.carryon.common.carry.CarryOnDataManager
+[27Jun2025 04:37:14.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:36129] logged in with entity id 55 at (-770.1827887492843, 209.0, -1972.7567019516732)
+[27Jun2025 04:37:14.214] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[27Jun2025 04:37:14.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[27Jun2025 04:37:14.215] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[27Jun2025 04:37:14.216] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[27Jun2025 04:37:14.219] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[27Jun2025 04:37:14.223] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[27Jun2025 04:37:14.224] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[27Jun2025 04:37:14.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[27Jun2025 04:37:14.444] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[27Jun2025 04:37:16.439] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[27Jun2025 04:37:16.589] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[27Jun2025 04:37:16.589] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
