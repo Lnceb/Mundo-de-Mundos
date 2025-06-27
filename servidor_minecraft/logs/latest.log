@@ -1103,3 +1103,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [27Jun2025 05:01:52.903] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
 [27Jun2025 05:01:52.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
 [27Jun2025 05:01:52.956] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[27Jun2025 05:05:12.992] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-786, y=-11, z=-2069} BlockPos{x=-786, y=-11, z=-2070}
+[27Jun2025 05:07:24.092] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=-15, z=-2074} BlockPos{x=-823, y=-16, z=-2073}
+[27Jun2025 05:07:27.182] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-831, y=-16, z=-2077} BlockPos{x=-828, y=-17, z=-2078}
+[27Jun2025 05:07:36.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=-14, z=-2076} BlockPos{x=-822, y=-13, z=-2076}
+[27Jun2025 05:09:24.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-860, y=-10, z=-2108} BlockPos{x=-861, y=-10, z=-2108}
+[27Jun2025 05:09:28.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-855, y=-12, z=-2101} BlockPos{x=-855, y=-12, z=-2100}
+[27Jun2025 05:09:45.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-830, y=-12, z=-2081} BlockPos{x=-830, y=-12, z=-2082}
+[27Jun2025 05:09:46.639] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-829, y=-12, z=-2082} BlockPos{x=-829, y=-12, z=-2081}
