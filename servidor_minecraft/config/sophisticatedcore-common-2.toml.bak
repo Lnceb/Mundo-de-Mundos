@@ -1,5 +1,0 @@
-
-#Common Settings
-[common]
-	enabledItems = ["sophisticatedstorage:pickup_upgrade|true", "sophisticatedbackpacks:magnet_upgrade|true", "sophisticatedstorage:magnet_upgrade|true", "sophisticatedstorage:shulker_box|true", "sophisticatedbackpacks:void_upgrade|true", "sophisticatedstorage:auto_smelting_upgrade|true", "sophisticatedstorage:advanced_jukebox_upgrade|true", "sophisticatedbackpacks:advanced_feeding_upgrade|true", "sophisticatedstorage:jukebox_upgrade|true", "sophisticatedbackpacks:diamond_backpack|true", "sophisticatedbackpacks:auto_smoking_upgrade|true", "sophisticatedstorage:auto_smoking_upgrade|true", "sophisticatedstorage:chest|true"]
-
