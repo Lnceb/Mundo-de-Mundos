@@ -14802,3 +14802,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [02Jul2025 06:55:17.681] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-790.36, y=205.00, z=-1980.61], To: ThehunterEntity['The Hunter'/4321, l='ServerLevel[world]', x=-791.17, y=205.00, z=-1980.56] [14.75]
 [02Jul2025 06:55:17.681] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
 [02Jul2025 06:55:58.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Big Boy]
+[02Jul2025 06:58:33.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 06:58:33.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jul2025 06:59:18.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Unfunny dad jokes]
+[02Jul2025 07:01:37.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[02Jul2025 07:01:37.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-751.23, y=204.00, z=-1982.70], To: MaggotEntity['Corpse Maggot'/5237, l='ServerLevel[world]', x=-751.77, y=204.00, z=-1982.40] [1.75]
+[02Jul2025 07:01:37.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.25
+[02Jul2025 07:03:33.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jul2025 07:03:33.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
