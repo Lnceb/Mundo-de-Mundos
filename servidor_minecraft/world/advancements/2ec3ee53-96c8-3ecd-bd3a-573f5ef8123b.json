@@ -9150,15 +9150,51 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_1": "2025-07-02 06:44:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cherry_planks": {
+    "criteria": {
+      "has_log": "2025-07-02 06:44:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-07-02 06:53:12 +0000"
+    },
+    "done": true
+  },
   "numismatics:root": {
     "criteria": {
       "0": "2025-07-02 06:39:29 +0000"
     },
     "done": true
   },
+  "vinery:recipes/big_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-02 06:44:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hat_for_dark_deeds": {
+    "criteria": {
+      "hat_for_dark_deeds_0": "2025-07-02 06:44:46 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/dark_cherry_fence": {
     "criteria": {
       "has_stick": "2025-07-02 06:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cherry_wood": {
+    "criteria": {
+      "has_log": "2025-07-02 06:44:37 +0000"
     },
     "done": true
   },
@@ -9186,6 +9222,18 @@
     },
     "done": true
   },
+  "dungeonsdelight:recipes/combat/iron_cleaver": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-02 06:44:33 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:hatman": {
+    "criteria": {
+      "hatman_1": "2025-07-02 06:44:46 +0000"
+    },
+    "done": false
+  },
   "pizzadelight:root": {
     "criteria": {
       "tick": "2025-07-02 06:39:29 +0000"
@@ -9195,6 +9243,12 @@
   "vinery:recipes/campfire": {
     "criteria": {
       "has_stick": "2025-07-02 06:39:29 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-07-02 06:44:29 +0000"
     },
     "done": true
   },
