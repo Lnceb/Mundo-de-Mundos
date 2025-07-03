@@ -1,5 +1,0 @@
-
-#Common Settings
-[common]
-	enabledItems = ["sophisticatedbackpacks:crafting_upgrade|true", "sophisticatedbackpacks:void_upgrade|true", "sophisticatedstorage:chest|true", "sophisticatedstorage:shulker_box|true", "sophisticatedstorage:smoking_upgrade|true"]
-
