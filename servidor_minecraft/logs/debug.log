@@ -12486,3 +12486,41 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [03Jul2025 05:36:32.815] [Server thread/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
 [03Jul2025 05:38:31.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Jul2025 05:38:31.354] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:41:17.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:41:17.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-798.08, y=11.00, z=-2096.45], To: BabySkeletonMinionEntity['Baby Skeleton'/1840, l='ServerLevel[world]', x=-798.97, y=11.00, z=-2096.50] [9.515]
+[03Jul2025 05:41:17.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[03Jul2025 05:43:23.168] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-851, y=-14, z=-2061} BlockPos{x=-852, y=-14, z=-2062}
+[03Jul2025 05:43:23.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-851, y=-14, z=-2060} BlockPos{x=-852, y=-14, z=-2061}
+[03Jul2025 05:43:29.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:43:29.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-854.97, y=-6.82, z=-2071.71], To: Skeleton['Skeleton'/2081, l='ServerLevel[world]', x=-857.37, y=-4.00, z=-2079.83] [19.0]
+[03Jul2025 05:43:29.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:43:31.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:43:31.280] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:45:16.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-847, y=-17, z=-2056} BlockPos{x=-848, y=-16, z=-2056}
+[03Jul2025 05:48:31.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Jul2025 05:48:31.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Jul2025 05:49:23.041] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[03Jul2025 05:49:23.209] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:23.209] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-777.55, y=206.00, z=-1981.30], To: TheMoonflowerEntity['The Moonflower'/3671, l='ServerLevel[world]', x=-777.40, y=206.00, z=-1980.60] [24.0]
+[03Jul2025 05:49:23.210] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:24.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:24.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-778.56, y=206.00, z=-1983.96], To: TheMoonflowerEntity['The Moonflower'/3671, l='ServerLevel[world]', x=-777.73, y=206.00, z=-1984.27] [23.0]
+[03Jul2025 05:49:24.554] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:27.093] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:27.093] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-778.56, y=206.00, z=-1980.28], To: TheMoonflowerEntity['The Moonflower'/3670, l='ServerLevel[world]', x=-778.57, y=206.00, z=-1980.96] [22.0]
+[03Jul2025 05:49:27.093] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:31.002] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:31.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-778.59, y=206.00, z=-1971.23], To: TheMoonflowerEntity['The Moonflower'/3669, l='ServerLevel[world]', x=-778.65, y=206.00, z=-1971.89] [0.68416023]
+[03Jul2025 05:49:31.003] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:31.605] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:31.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-778.44, y=206.00, z=-1970.30], To: TheMoonflowerEntity['The Moonflower'/3672, l='ServerLevel[world]', x=-778.30, y=206.00, z=-1970.30] [21.0]
+[03Jul2025 05:49:31.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:32.303] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:32.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-778.70, y=206.00, z=-1970.30], To: TheMoonflowerEntity['The Moonflower'/3670, l='ServerLevel[world]', x=-778.30, y=206.00, z=-1970.30] [21.0]
+[03Jul2025 05:49:32.304] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:48.919] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:48.919] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-771.56, y=208.00, z=-1969.40], To: SuckerEntity['Sucker'/3634, l='ServerLevel[world]', x=-771.79, y=209.78, z=-1969.41] [14.0]
+[03Jul2025 05:49:48.919] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[03Jul2025 05:49:49.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[03Jul2025 05:49:49.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-767.66, y=208.00, z=-1970.62], To: SuckerEntity['Sucker'/3634, l='ServerLevel[world]', x=-768.03, y=209.76, z=-1970.47] [13.0]
+[03Jul2025 05:49:49.704] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
