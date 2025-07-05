@@ -9673,5 +9673,11 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-05 04:11:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
