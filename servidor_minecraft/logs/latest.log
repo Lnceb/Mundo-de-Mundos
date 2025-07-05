@@ -2053,3 +2053,19 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Jul2025 05:06:18.384] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
 [05Jul2025 05:06:18.385] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
 [05Jul2025 05:06:36.007] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/217, l='ServerLevel[world]', x=-745.54, y=192.00, z=-2064.30] died, message: 'Toolsmith was slain by Zombie Bruiser'
+[05Jul2025 05:23:27.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-835, y=-18, z=-2054} BlockPos{x=-834, y=-18, z=-2055}
+[05Jul2025 05:23:45.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=-16, z=-2052} BlockPos{x=-824, y=-17, z=-2052}
+[05Jul2025 05:23:48.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-826, y=-23, z=-2045} BlockPos{x=-825, y=-24, z=-2044}
+[05Jul2025 05:23:49.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-825, y=-23, z=-2040} BlockPos{x=-824, y=-23, z=-2043}
+[05Jul2025 05:23:49.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-22, z=-2043} BlockPos{x=-824, y=-23, z=-2042}
+[05Jul2025 05:23:49.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-22, z=-2043} BlockPos{x=-824, y=-23, z=-2042}
+[05Jul2025 05:23:49.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-22, z=-2043} BlockPos{x=-824, y=-23, z=-2042}
+[05Jul2025 05:24:35.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-839, y=-23, z=-2039} BlockPos{x=-838, y=-19, z=-2038}
+[05Jul2025 05:24:36.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-839, y=-23, z=-2038} BlockPos{x=-840, y=-23, z=-2038}
+[05Jul2025 05:24:49.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=-21, z=-2051} BlockPos{x=-836, y=-21, z=-2049}
+[05Jul2025 05:25:07.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=-19, z=-2027} BlockPos{x=-832, y=-20, z=-2028}
+[05Jul2025 05:25:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Enchanter]
+[05Jul2025 05:30:59.211] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[05Jul2025 05:30:59.211] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[05Jul2025 05:30:59.211] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[05Jul2025 05:32:50.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1362, y=-5, z=-1498}

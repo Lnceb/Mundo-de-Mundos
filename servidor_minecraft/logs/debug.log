@@ -12714,3 +12714,50 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Jul2025 05:22:44.857] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [05Jul2025 05:22:44.857] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-833.70, y=-11.46, z=-2077.30], To: SummonedSkeleton['Summoned Skeleton'/2388, l='ServerLevel[world]', x=-833.21, y=-16.00, z=-2077.37] [9.5975]
 [05Jul2025 05:22:44.857] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[05Jul2025 05:23:27.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-835, y=-18, z=-2054} BlockPos{x=-834, y=-18, z=-2055}
+[05Jul2025 05:23:45.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-823, y=-16, z=-2052} BlockPos{x=-824, y=-17, z=-2052}
+[05Jul2025 05:23:48.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-826, y=-23, z=-2045} BlockPos{x=-825, y=-24, z=-2044}
+[05Jul2025 05:23:49.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-825, y=-23, z=-2040} BlockPos{x=-824, y=-23, z=-2043}
+[05Jul2025 05:23:49.787] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-22, z=-2043} BlockPos{x=-824, y=-23, z=-2042}
+[05Jul2025 05:23:49.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-22, z=-2043} BlockPos{x=-824, y=-23, z=-2042}
+[05Jul2025 05:23:49.908] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-824, y=-22, z=-2043} BlockPos{x=-824, y=-23, z=-2042}
+[05Jul2025 05:24:35.232] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-839, y=-23, z=-2039} BlockPos{x=-838, y=-19, z=-2038}
+[05Jul2025 05:24:36.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-839, y=-23, z=-2038} BlockPos{x=-840, y=-23, z=-2038}
+[05Jul2025 05:24:49.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-836, y=-21, z=-2051} BlockPos{x=-836, y=-21, z=-2049}
+[05Jul2025 05:25:06.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 05:25:06.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 05:25:07.505] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-832, y=-19, z=-2027} BlockPos{x=-832, y=-20, z=-2028}
+[05Jul2025 05:25:32.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Enchanter]
+[05Jul2025 05:30:06.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 05:30:06.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 05:30:57.203] [Worker-Main-38/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[05Jul2025 05:30:57.620] [Worker-Main-38/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 05:30:57.621] [Worker-Main-38/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 05:30:57.621] [Worker-Main-38/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mss-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 05:30:57.621] [Worker-Main-38/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 05:30:57.621] [Worker-Main-38/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[05Jul2025 05:30:57.621] [Worker-Main-38/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[05Jul2025 05:30:57.622] [Worker-Main-38/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jul2025 05:30:57.622] [Worker-Main-38/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jul2025 05:30:57.622] [Worker-Main-38/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jul2025 05:30:57.622] [Worker-Main-38/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jul2025 05:30:57.622] [Worker-Main-38/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jul2025 05:30:57.622] [Worker-Main-38/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[05Jul2025 05:30:58.069] [Worker-Main-31/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 05:30:58.071] [Worker-Main-31/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 05:30:58.071] [Worker-Main-31/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 05:30:58.072] [Worker-Main-31/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[05Jul2025 05:30:58.076] [Worker-Main-31/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[05Jul2025 05:30:58.076] [Worker-Main-31/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[05Jul2025 05:30:59.211] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[05Jul2025 05:30:59.211] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[05Jul2025 05:30:59.211] [Worker-Main-44/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[05Jul2025 05:31:02.844] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 05:31:02.845] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-1082.00, y=125.00, z=-1897.72], To: EntityGrizzlyBear['Grizzly Bear'/4423, l='ServerLevel[world]', x=-1079.88, y=124.00, z=-1897.15] [53.0]
+[05Jul2025 05:31:02.845] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0
+[05Jul2025 05:31:03.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 05:31:03.594] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/56, l='ServerLevel[world]', x=-1083.65, y=125.00, z=-1899.92], To: EntityGrizzlyBear['Grizzly Bear'/4423, l='ServerLevel[world]', x=-1081.97, y=124.00, z=-1896.17] [51.0]
+[05Jul2025 05:31:03.594] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0
+[05Jul2025 05:31:20.994] [Worker-Main-38/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[05Jul2025 05:31:33.865] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-1388, y=55, z=-2066} at Chest with:minecraft:chests/simple_dungeon
+[05Jul2025 05:32:50.616] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-1362, y=-5, z=-1498}
