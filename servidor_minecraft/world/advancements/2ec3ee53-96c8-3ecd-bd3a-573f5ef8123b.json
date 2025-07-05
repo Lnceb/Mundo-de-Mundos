@@ -10184,6 +10184,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/aurora_pie": {
+    "criteria": {
+      "has_aurora_block": "2025-07-05 07:01:34 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-07-05 06:33:52 +0000"
@@ -10311,6 +10317,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/campfired_meef": {
+    "criteria": {
+      "has_food": "2025-07-05 07:20:01 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
@@ -10413,6 +10425,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smelted_meef": {
+    "criteria": {
+      "has_food": "2025-07-05 07:20:01 +0000"
+    },
+    "done": true
+  },
   "ecologics:recipes/ecologics/snow_bricks": {
     "criteria": {
       "has_snow_block": "2025-07-05 06:33:26 +0000"
@@ -10426,15 +10444,39 @@
     },
     "done": true
   },
+  "twilightforest:recipes/food/food/smoked_meef": {
+    "criteria": {
+      "has_food": "2025-07-05 07:20:01 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
       "has_item": "2025-07-05 06:04:26 +0000"
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+    "criteria": {
+      "has_item": "2025-07-05 07:01:34 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/meef_wrap": {
+    "criteria": {
+      "has_raw_meef": "2025-07-05 07:20:01 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/rainbow_ice_cream": {
+    "criteria": {
+      "has_aurora_block": "2025-07-05 07:01:34 +0000"
     },
     "done": true
   },

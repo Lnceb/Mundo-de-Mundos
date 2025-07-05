@@ -15304,3 +15304,59 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05Jul2025 06:58:21.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
 [05Jul2025 07:00:23.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [05Jul2025 07:00:23.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:05:23.843] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:05:23.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:10:23.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:10:23.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:14:24.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:14:24.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7100.53, y=6.00, z=-15311.09], To: SkeletonDruid['Skeleton Druid'/81325, l='ServerLevel[world]', x=-7099.34, y=6.01, z=-15314.10] [19.5]
+[05Jul2025 07:14:24.350] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[05Jul2025 07:15:23.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:15:23.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:20:16.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:20:16.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7923.41, y=-13.00, z=-15861.03], To: Minotaur['Minotaur'/114291, l='ServerLevel[world]', x=-7924.74, y=-13.00, z=-15861.24] [28.0]
+[05Jul2025 07:20:16.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0
+[05Jul2025 07:20:17.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:20:17.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7922.68, y=-13.00, z=-15859.93], To: Minotaur['Minotaur'/114291, l='ServerLevel[world]', x=-7923.51, y=-13.00, z=-15860.51] [26.0]
+[05Jul2025 07:20:17.096] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0
+[05Jul2025 07:20:18.494] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:20:18.494] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7921.89, y=-13.00, z=-15857.34], To: Minotaur['Minotaur'/114291, l='ServerLevel[world]', x=-7922.50, y=-13.00, z=-15858.57] [9.802137]
+[05Jul2025 07:20:18.494] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0
+[05Jul2025 07:20:20.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:20:20.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7924.30, y=-12.25, z=-15856.51], To: FireBeetle['Fire Beetle'/114231, l='ServerLevel[world]', x=-7925.38, y=-13.00, z=-15858.25] [24.0]
+[05Jul2025 07:20:20.195] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[05Jul2025 07:20:23.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:20:23.872] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 07:20:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:20:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7922.16, y=-13.00, z=-15860.28], To: Minotaur['Minotaur'/114232, l='ServerLevel[world]', x=-7921.21, y=-13.00, z=-15859.94] [28.050312]
+[05Jul2025 07:20:56.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.29375
+[05Jul2025 07:20:58.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:20:58.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7922.14, y=-11.98, z=-15861.47], To: Minotaur['Minotaur'/114232, l='ServerLevel[world]', x=-7922.50, y=-13.00, z=-15860.56] [18.3916]
+[05Jul2025 07:20:58.897] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.29375
+[05Jul2025 07:21:36.348] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:36.529] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:37.766] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:40.033] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:43.102] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:43.251] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:43.401] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:43.569] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:43.735] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:47.189] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:47.356] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:47.525] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:47.705] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:47.876] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:48.023] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:48.201] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:48.356] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:21:48.543] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 07:22:12.198] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:22:12.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7940.75, y=-11.91, z=-15878.12], To: MazeSlime['Maze Slime'/114464, l='ServerLevel[world]', x=-7939.83, y=-12.50, z=-15880.24] [1.555006]
+[05Jul2025 07:22:12.199] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[05Jul2025 07:22:21.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:22:21.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7942.08, y=-11.82, z=-15881.27], To: SlimeBeetle['Slime Beetle'/114514, l='ServerLevel[world]', x=-7944.45, y=-13.00, z=-15880.49] [11.827639]
+[05Jul2025 07:22:21.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[05Jul2025 07:22:35.944] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 07:22:35.944] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-7935.54, y=-11.98, z=-15887.02], To: Minotaur['Minotaur'/114248, l='ServerLevel[world]', x=-7935.67, y=-13.00, z=-15887.66] [28.0]
+[05Jul2025 07:22:35.944] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0
