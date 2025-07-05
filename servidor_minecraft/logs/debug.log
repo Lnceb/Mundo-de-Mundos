@@ -15077,3 +15077,41 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05Jul2025 06:23:58.051] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [05Jul2025 06:23:58.052] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6444.06, y=5.00, z=-15481.54], To: SkeletonDruid['Skeleton Druid'/60142, l='ServerLevel[world]', x=-6441.70, y=5.00, z=-15481.30] [18.5]
 [05Jul2025 06:23:58.052] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[05Jul2025 06:25:23.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 06:25:23.901] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 06:27:01.359] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:27:01.360] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6676.00, y=-3.00, z=-15365.65], To: Yeti['Yeti'/60495, l='ServerLevel[world]', x=-6678.96, y=-2.00, z=-15362.45] [18.75]
+[05Jul2025 06:27:01.360] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[05Jul2025 06:27:20.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:27:20.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6678.05, y=-2.00, z=-15360.50], To: Yeti['Yeti'/60421, l='ServerLevel[world]', x=-6678.02, y=-3.00, z=-15367.54, removed=KILLED] [0.0]
+[05Jul2025 06:27:20.050] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[05Jul2025 06:28:20.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:28:20.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6671.72, y=-1.00, z=-15357.10], To: AlphaYeti['Alpha Yeti'/61058, l='ServerLevel[world]', x=-6694.89, y=-3.00, z=-15366.65] [51.08998]
+[05Jul2025 06:28:20.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.25
+[05Jul2025 06:28:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Alpha Fur]
+[05Jul2025 06:30:23.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 06:30:23.871] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 06:30:31.358] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:32.985] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.254] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.354] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.507] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.655] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:32:33.848] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:32:33.848] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6638.55, y=41.02, z=-15112.30], To: UnstableIceCore['Unstable Ice Core'/61780, l='ServerLevel[world]', x=-6639.50, y=41.00, z=-15110.85] [19.25]
+[05Jul2025 06:32:33.848] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[05Jul2025 06:32:40.302] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:32:40.302] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6636.87, y=41.50, z=-15106.03], To: SnowGuardian['Snow Guardian'/61810, l='ServerLevel[world]', x=-6636.76, y=41.00, z=-15104.71] [8.639235]
+[05Jul2025 06:32:40.302] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.28125
+[05Jul2025 06:33:28.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:33:28.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6647.94, y=39.25, z=-15102.78], To: StableIceCore['Stable Ice Core'/61830, l='ServerLevel[world]', x=-6645.40, y=38.00, z=-15102.60] [19.34125]
+[05Jul2025 06:33:28.250] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.775
+[05Jul2025 06:33:29.103] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:33:29.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6647.13, y=39.00, z=-15103.65], To: StableIceCore['Stable Ice Core'/61830, l='ServerLevel[world]', x=-6645.40, y=38.00, z=-15102.60] [18.682499]
+[05Jul2025 06:33:29.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.775
+[05Jul2025 06:33:41.957] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:33:41.957] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6655.79, y=46.25, z=-15104.60], To: StableIceCore['Stable Ice Core'/61925, l='ServerLevel[world]', x=-6659.87, y=48.00, z=-15104.26] [19.5]
+[05Jul2025 06:33:41.957] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[05Jul2025 06:33:43.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:33:43.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6657.89, y=47.00, z=-15104.17], To: StableIceCore['Stable Ice Core'/61925, l='ServerLevel[world]', x=-6659.87, y=48.00, z=-15104.26] [19.0]
+[05Jul2025 06:33:43.903] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5

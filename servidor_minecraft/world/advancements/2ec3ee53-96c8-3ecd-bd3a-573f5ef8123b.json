@@ -10124,6 +10124,18 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/glacier_ice_tea": {
+    "criteria": {
+      "has_ice_bomb": "2025-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/refreshing_ice_cream": {
+    "criteria": {
+      "has_ice_bomb": "2025-07-05 06:28:50 +0000"
+    },
+    "done": true
+  },
   "twilightforest:arborist": {
     "criteria": {
       "canopy_chest": "2025-07-05 06:03:44 +0000"
@@ -10203,6 +10215,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
     "criteria": {
       "has_item": "2025-07-05 06:03:53 +0000"
@@ -10263,6 +10281,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/tools/charm_of_life_2": {
     "criteria": {
       "has_item": "2025-07-05 06:06:14 +0000"
@@ -10293,9 +10317,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/arctic_block": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_leggings": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
     },
     "done": true
   },
@@ -10304,6 +10340,12 @@
       "has_chest": "2025-07-05 06:03:44 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_glacier": {
+    "criteria": {
+      "previous_progression": "2025-07-05 06:28:30 +0000"
+    },
+    "done": false
   },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
@@ -10425,6 +10467,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-05 06:28:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/berry_torch": {
     "criteria": {
       "has_item": "2025-07-05 05:48:46 +0000"
@@ -10439,9 +10487,16 @@
   },
   "twilightforest:progress_yeti": {
     "criteria": {
-      "previous_progression": "2025-07-05 06:16:31 +0000"
+      "previous_progression": "2025-07-05 06:16:31 +0000",
+      "yeti": "2025-07-05 06:28:30 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
+    },
+    "done": true
   },
   "twilightdelight:recipes/food/berry_stick": {
     "criteria": {

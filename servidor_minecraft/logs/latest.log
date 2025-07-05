@@ -2147,3 +2147,10 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05Jul2025 05:55:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [I Can See Forever]
 [05Jul2025 06:03:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Time To Even The Scales]
 [05Jul2025 06:16:31.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Bring Out Your Dead]
+[05Jul2025 06:28:30.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Alpha Fur]
+[05Jul2025 06:30:31.358] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:32.985] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.254] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.354] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.507] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:30:35.655] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
