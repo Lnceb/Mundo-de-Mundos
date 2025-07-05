@@ -10162,13 +10162,26 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-07-05 06:16:31 +0000",
       "kill_naga": "2025-07-05 06:03:08 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-05 06:17:14 +0000"
+    },
+    "done": true
   },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-07-05 06:17:26 +0000"
     },
     "done": true
   },
@@ -10334,11 +10347,23 @@
     },
     "done": true
   },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-05 06:16:31 +0000"
+    },
+    "done": false
+  },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
     "criteria": {
       "has_item": "2025-07-05 06:01:01 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-07-05 06:16:31 +0000"
+    },
+    "done": false
   },
   "brewinandchewin:recipes/fermenting/beer_from_water": {
     "criteria": {
@@ -10411,6 +10436,12 @@
       "has_torchberries": "2025-07-05 05:48:46 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-05 06:16:31 +0000"
+    },
+    "done": false
   },
   "twilightdelight:recipes/food/berry_stick": {
     "criteria": {
