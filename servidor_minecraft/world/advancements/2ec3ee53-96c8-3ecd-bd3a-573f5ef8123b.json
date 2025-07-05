@@ -9673,6 +9673,18 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
+    "criteria": {
+      "has_sweet_berries": "2025-07-05 04:11:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed": "2025-07-05 04:27:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/logistics/yellow_table_cloth": {
     "criteria": {
       "has_wool": "2025-07-05 04:27:40 +0000"
@@ -9805,12 +9817,6 @@
     },
     "done": true
   },
-  "brewinandchewin:recipes/cooking/sweet_berry_jam": {
-    "criteria": {
-      "has_sweet_berries": "2025-07-05 04:11:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/crafting/kinetics/green_seat": {
     "criteria": {
       "has_wool": "2025-07-05 04:27:40 +0000"
@@ -9862,12 +9868,6 @@
   "create:recipes/building_blocks/crafting/logistics/white_table_cloth": {
     "criteria": {
       "has_wool": "2025-07-05 04:27:40 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed": "2025-07-05 04:27:38 +0000"
     },
     "done": true
   },
