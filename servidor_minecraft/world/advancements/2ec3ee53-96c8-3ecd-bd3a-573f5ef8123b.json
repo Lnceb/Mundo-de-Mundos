@@ -10160,6 +10160,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_small": {
+    "criteria": {
+      "has_birch_planks": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
@@ -10251,6 +10257,12 @@
     },
     "done": true
   },
+  "vinery:recipes/birch_wine_rack_big": {
+    "criteria": {
+      "has_birch_planks": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
@@ -10281,6 +10293,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/arctic_boots": {
     "criteria": {
       "has_item": "2025-07-05 06:26:26 +0000"
@@ -10296,6 +10314,12 @@
   "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
     "criteria": {
       "has_item": "2025-07-05 06:04:26 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/chocolate_wafer": {
+    "criteria": {
+      "has_maze_wafer": "2025-07-05 06:34:23 +0000"
     },
     "done": true
   },
@@ -10323,9 +10347,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-07-05 06:33:51 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/magic_map_focus": {
     "criteria": {
       "has_berries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-07-05 06:32:18 +0000"
     },
     "done": true
   },
@@ -10338,6 +10374,12 @@
   "storagedrawers:recipes/storagedrawers/acacia_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/snow_bricks": {
+    "criteria": {
+      "has_snow_block": "2025-07-05 06:33:26 +0000"
     },
     "done": true
   },
@@ -10401,6 +10443,30 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_labyrinth": {
     "criteria": {
       "kill_lich": "2025-07-05 06:16:31 +0000"
@@ -10446,6 +10512,12 @@
   "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
     },
     "done": true
   },
@@ -10498,6 +10570,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-07-05 06:33:51 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/food/berry_stick": {
     "criteria": {
       "has_torchberries": "2025-07-05 05:48:46 +0000"
@@ -10513,6 +10591,12 @@
   "twilightforest:root": {
     "criteria": {
       "make_portal": "2025-07-05 05:46:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-07-05 06:32:18 +0000"
     },
     "done": true
   },
