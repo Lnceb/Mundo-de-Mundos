@@ -15291,3 +15291,16 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05Jul2025 06:54:03.953] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
 [05Jul2025 06:54:15.898] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
 [05Jul2025 06:54:23.698] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[05Jul2025 06:54:31.798] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[05Jul2025 06:54:40.495] [Server thread/DEBUG] [twilightforest/]: Found no spots, giving up
+[05Jul2025 06:54:53.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Clear Skies]
+[05Jul2025 06:55:23.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 06:55:23.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 06:58:20.048] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:58:20.049] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6663.67, y=122.00, z=-15108.30], To: StableIceCore['Stable Ice Core'/63662, l='ServerLevel[world]', x=-6664.64, y=121.00, z=-15108.40] [19.5]
+[05Jul2025 06:58:20.049] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[05Jul2025 06:58:21.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 06:58:21.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/9193, l='ServerLevel[world]', x=-6663.30, y=122.00, z=-15108.30], To: StableIceCore['Stable Ice Core'/63662, l='ServerLevel[world]', x=-6664.78, y=121.36, z=-15108.43] [4.4932604]
+[05Jul2025 06:58:21.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5
+[05Jul2025 07:00:23.838] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 07:00:23.860] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

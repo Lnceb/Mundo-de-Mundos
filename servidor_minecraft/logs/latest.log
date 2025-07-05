@@ -2154,3 +2154,4 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05Jul2025 06:30:35.354] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
 [05Jul2025 06:30:35.507] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
 [05Jul2025 06:30:35.655] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[05Jul2025 06:54:53.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Clear Skies]

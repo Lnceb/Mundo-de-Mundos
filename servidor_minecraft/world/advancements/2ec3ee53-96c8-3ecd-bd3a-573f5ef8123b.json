@@ -10136,6 +10136,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "snow_queen": "2025-07-05 06:54:53 +0000"
+    },
+    "done": false
+  },
   "refurbished_furniture:recipes/freezing/packed_ice": {
     "criteria": {
       "has_result": "2025-07-05 06:46:13 +0000"
@@ -10169,6 +10175,12 @@
   "storagedrawers:recipes/storagedrawers/cherry_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-05 06:55:11 +0000"
     },
     "done": true
   },
@@ -10409,9 +10421,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-07-05 06:28:30 +0000"
+      "previous_progression": "2025-07-05 06:28:30 +0000",
+      "queen": "2025-07-05 06:54:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
     "criteria": {
