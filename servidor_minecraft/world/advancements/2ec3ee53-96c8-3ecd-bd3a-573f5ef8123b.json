@@ -10221,6 +10221,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/maze_map": {
+    "criteria": {
+      "has_item": "2025-07-05 07:22:37 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/warped_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
@@ -10359,6 +10365,12 @@
     },
     "done": true
   },
+  "dungeonsdelight:recipes/food/slime_bar_from_shapeless": {
+    "criteria": {
+      "slime_ball": "2025-07-05 07:22:15 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/food/chocolate_wafer": {
     "criteria": {
       "has_maze_wafer": "2025-07-05 06:34:23 +0000"
@@ -10415,7 +10427,8 @@
   },
   "twilightforest:twilight_dinner": {
     "criteria": {
-      "maze_wafer": "2025-07-05 06:42:50 +0000"
+      "maze_wafer": "2025-07-05 06:42:50 +0000",
+      "cooked_meef": "2025-07-05 07:20:36 +0000"
     },
     "done": false
   },
