@@ -12548,3 +12548,107 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [05Jul2025 04:15:40.372] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-691.32, y=12.00, z=-2141.23], To: SuckerEntity['Sucker'/1394, l='ServerLevel[world]', x=-691.76, y=13.64, z=-2141.74] [13.0]
 [05Jul2025 04:15:40.372] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
 [05Jul2025 04:15:46.206] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityHidebehind from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[05Jul2025 04:17:27.237] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jul2025 04:17:49.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:17:49.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:19:17.256] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=-19, z=-2073} BlockPos{x=-702, y=-21, z=-2073}
+[05Jul2025 04:19:29.828] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:19:29.828] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-704.46, y=-20.00, z=-2086.23], To: Skeleton['Skeleton'/1878, l='ServerLevel[world]', x=-701.58, y=-13.00, z=-2089.04] [19.0]
+[05Jul2025 04:19:29.828] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[05Jul2025 04:19:30.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=-19, z=-2088} BlockPos{x=-708, y=-19, z=-2089}
+[05Jul2025 04:19:30.605] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-710, y=-19, z=-2088} BlockPos{x=-708, y=-19, z=-2089}
+[05Jul2025 04:19:54.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=-8, z=-2089} BlockPos{x=-693, y=-9, z=-2088}
+[05Jul2025 04:19:54.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-692, y=-8, z=-2089} BlockPos{x=-693, y=-9, z=-2088}
+[05Jul2025 04:20:13.174] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:20:13.175] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-695.10, y=1.00, z=-2098.65], To: Skeleton['Skeleton'/1879, l='ServerLevel[world]', x=-690.30, y=3.00, z=-2099.04] [20.0]
+[05Jul2025 04:20:13.175] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[05Jul2025 04:20:29.529] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=4, z=-2102} BlockPos{x=-700, y=4, z=-2102}
+[05Jul2025 04:20:29.551] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=4, z=-2102} BlockPos{x=-700, y=4, z=-2102}
+[05Jul2025 04:22:13.343] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-678, y=1, z=-2117} BlockPos{x=-677, y=0, z=-2118}
+[05Jul2025 04:22:40.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-658, y=1, z=-2137} BlockPos{x=-657, y=2, z=-2137}
+[05Jul2025 04:22:49.731] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:22:49.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:23:58.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-674, y=9, z=-2135} BlockPos{x=-719, y=-2, z=-2131}
+[05Jul2025 04:23:58.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-674, y=9, z=-2135} BlockPos{x=-719, y=-2, z=-2131}
+[05Jul2025 04:24:17.281] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jul2025 04:25:10.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-739, y=-15, z=-2126} BlockPos{x=-737, y=-15, z=-2124}
+[05Jul2025 04:25:10.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-737, y=-15, z=-2124} BlockPos{x=-737, y=-16, z=-2124}
+[05Jul2025 04:25:58.122] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jul2025 04:25:58.123] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/283, l='ServerLevel[world]', x=-692.88, y=-28.00, z=-2112.33] died: Brog the Bulwark was slain by Lance
+[05Jul2025 04:26:17.320] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:26:17.320] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-692.32, y=-32.00, z=-2117.32], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/3613, l='ServerLevel[world]', x=-693.06, y=-32.00, z=-2119.07] [7.034328]
+[05Jul2025 04:26:17.321] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.29375
+[05Jul2025 04:26:33.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jul2025 04:26:42.923] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jul2025 04:26:54.976] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[05Jul2025 04:26:56.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[05Jul2025 04:26:57.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_star - AttributeModifier{amount=0.5, operation=MULTIPLY_BASE, name='Tarot Card', id=745fc9db-6420-34da-8fea-9577e90329c9}
+[05Jul2025 04:27:04.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:27:04.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-698.87, y=-34.00, z=-2122.61], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/3758, l='ServerLevel[world]', x=-697.57, y=-33.13, z=-2123.81] [48.18201]
+[05Jul2025 04:27:04.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.15625
+[05Jul2025 04:27:05.723] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:27:05.723] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-700.22, y=-33.00, z=-2123.26], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/3759, l='ServerLevel[world]', x=-700.64, y=-34.00, z=-2123.69] [48.18201]
+[05Jul2025 04:27:05.723] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.15625
+[05Jul2025 04:27:32.611] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:27:32.611] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-693.04, y=-44.00, z=-2138.91], To: MimicEntity['Mimic'/284, l='ServerLevel[world]', x=-693.92, y=-43.20, z=-2139.03] [9.514786]
+[05Jul2025 04:27:32.611] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[05Jul2025 04:27:32.888] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:27:32.889] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-693.74, y=-44.00, z=-2139.19], To: MimicEntity['Mimic'/284, l='ServerLevel[world]', x=-693.73, y=-44.00, z=-2139.41] [0.0]
+[05Jul2025 04:27:32.889] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[05Jul2025 04:27:33.918] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:27:33.918] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-693.32, y=-44.00, z=-2141.14], To: EntityMurmurHead['Murmur'/3255, l='ServerLevel[world]', x=-693.90, y=-42.86, z=-2140.57] [30.0]
+[05Jul2025 04:27:33.918] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[05Jul2025 04:27:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Flexible Schedule]
+[05Jul2025 04:27:39.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:27:39.218] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-699.01, y=-43.00, z=-2127.68], To: EntityMurmurHead['Murmur'/3255, l='ServerLevel[world]', x=-697.67, y=-41.46, z=-2127.37] [28.75]
+[05Jul2025 04:27:39.218] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.25
+[05Jul2025 04:27:49.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:27:49.717] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:28:47.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-709, y=-45, z=-2161} BlockPos{x=-709, y=-46, z=-2161}
+[05Jul2025 04:29:07.835] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=-39, z=-2133} BlockPos{x=-715, y=-43, z=-2134}
+[05Jul2025 04:29:07.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=-39, z=-2133} BlockPos{x=-715, y=-43, z=-2134}
+[05Jul2025 04:29:07.892] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=-39, z=-2133} BlockPos{x=-715, y=-43, z=-2134}
+[05Jul2025 04:29:07.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-712, y=-39, z=-2133} BlockPos{x=-715, y=-43, z=-2134}
+[05Jul2025 04:29:28.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=-39, z=-2127} BlockPos{x=-707, y=-39, z=-2126}
+[05Jul2025 04:29:28.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-708, y=-39, z=-2127} BlockPos{x=-707, y=-39, z=-2126}
+[05Jul2025 04:29:43.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-693, y=-41, z=-2134} BlockPos{x=-692, y=-42, z=-2134}
+[05Jul2025 04:29:43.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-693, y=-41, z=-2134} BlockPos{x=-692, y=-42, z=-2134}
+[05Jul2025 04:29:43.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-693, y=-41, z=-2134} BlockPos{x=-692, y=-42, z=-2134}
+[05Jul2025 04:29:43.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-693, y=-41, z=-2134} BlockPos{x=-692, y=-42, z=-2134}
+[05Jul2025 04:30:17.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-693, y=-42, z=-2113} BlockPos{x=-694, y=-42, z=-2112}
+[05Jul2025 04:30:46.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=-37, z=-2110} BlockPos{x=-687, y=-36, z=-2109}
+[05Jul2025 04:30:46.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-684, y=-37, z=-2111} BlockPos{x=-685, y=-38, z=-2112}
+[05Jul2025 04:30:46.994] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-684, y=-37, z=-2111} BlockPos{x=-685, y=-38, z=-2112}
+[05Jul2025 04:31:04.592] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:31:04.592] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-691.97, y=-41.00, z=-2107.09], To: ThesomnolenceEntity['The Somnolence'/4964, l='ServerLevel[world]', x=-691.28, y=-39.60, z=-2106.61] [15.0]
+[05Jul2025 04:31:04.592] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0
+[05Jul2025 04:31:12.521] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:31:12.522] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-695.70, y=-42.00, z=-2123.44], To: TheskeeperEntity['The Skeeper'/4833, l='ServerLevel[world]', x=-695.35, y=-42.00, z=-2122.58] [0.42367148]
+[05Jul2025 04:31:12.522] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[05Jul2025 04:31:48.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-690, y=-40, z=-2105} BlockPos{x=-689, y=-41, z=-2105}
+[05Jul2025 04:32:02.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-685, y=-37, z=-2098} BlockPos{x=-684, y=-38, z=-2098}
+[05Jul2025 04:32:20.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=-36, z=-2099} BlockPos{x=-688, y=-35, z=-2100}
+[05Jul2025 04:32:20.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-688, y=-36, z=-2099} BlockPos{x=-688, y=-35, z=-2100}
+[05Jul2025 04:32:41.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-713, y=-39, z=-2142} BlockPos{x=-715, y=-39, z=-2141}
+[05Jul2025 04:32:49.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-713, y=-37, z=-2142} BlockPos{x=-693, y=-45, z=-2154}
+[05Jul2025 04:32:49.691] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[05Jul2025 04:32:49.719] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[05Jul2025 04:32:49.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-713, y=-37, z=-2142} BlockPos{x=-693, y=-45, z=-2154}
+[05Jul2025 04:32:49.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-713, y=-37, z=-2142} BlockPos{x=-693, y=-45, z=-2154}
+[05Jul2025 04:33:39.519] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:33:39.520] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-710.51, y=-44.20, z=-2140.92], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/4494, l='ServerLevel[world]', x=-708.16, y=-45.00, z=-2140.99] [0.0]
+[05Jul2025 04:33:39.520] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.15625
+[05Jul2025 04:33:45.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:33:45.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-709.77, y=-45.00, z=-2138.77], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/3799, l='ServerLevel[world]', x=-708.77, y=-45.00, z=-2138.80] [36.5476]
+[05Jul2025 04:33:45.833] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.15625
+[05Jul2025 04:34:12.318] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:34:12.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-698.89, y=-34.00, z=-2125.92], To: EyeGuardianCrawlerEntity['Eye Guardian Crawler'/5303, l='ServerLevel[world]', x=-698.35, y=-34.00, z=-2124.24] [16.968704]
+[05Jul2025 04:34:12.319] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.15625
+[05Jul2025 04:35:51.070] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:35:51.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-735.77, y=-15.00, z=-2118.67], To: EyeGuardianWalkerEntity['Eye Guardian Walker'/6015, l='ServerLevel[world]', x=-737.31, y=-14.46, z=-2117.72] [53.504463]
+[05Jul2025 04:35:51.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.55625
+[05Jul2025 04:35:53.372] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[05Jul2025 04:35:53.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/54, l='ServerLevel[world]', x=-736.13, y=-15.00, z=-2118.70], To: EyeGuardianWalkerEntity['Eye Guardian Walker'/6015, l='ServerLevel[world]', x=-737.65, y=-15.00, z=-2117.50] [38.262672]
+[05Jul2025 04:35:53.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.55625
+[05Jul2025 04:35:56.324] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[05Jul2025 04:36:03.244] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
