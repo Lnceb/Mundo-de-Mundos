@@ -2148,6 +2148,7 @@
       "glow_berries": "2025-06-16 21:43:38 +0000",
       "sweet_berries": "2025-06-12 21:02:46 +0000",
       "rice": "2025-06-09 23:24:56 +0000",
+      "sugar_cane": "2025-07-05 05:52:19 +0000",
       "potato": "2025-06-12 15:04:47 +0000"
     },
     "done": false
@@ -10123,6 +10124,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-07-05 05:51:02 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-07-05 05:48:36 +0000"
@@ -10132,6 +10139,12 @@
   "twilightforest:twilight_hunter": {
     "criteria": {
       "kobold": "2025-07-05 05:48:35 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-07-05 05:55:18 +0000"
     },
     "done": true
   },
@@ -10156,6 +10169,12 @@
   "twilightdelight:recipes/misc/torchberries_crate": {
     "criteria": {
       "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-07-05 05:51:02 +0000"
     },
     "done": true
   },

@@ -2144,3 +2144,5 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [05Jul2025 05:50:46.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 7.950517262476524,1.4199999868869781,5.947118222104564
 [05Jul2025 05:50:46.055] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12817ms or 256 ticks behind
 [05Jul2025 05:51:02.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [With Fire It Writes]
+[05Jul2025 05:55:18.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [I Can See Forever]
+[05Jul2025 06:03:08.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Time To Even The Scales]
