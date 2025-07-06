@@ -3647,3 +3647,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 04:27:46.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Hydra Slayer]
 [06Jul2025 04:32:52.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Trophied Champion]
 [06Jul2025 04:50:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Carminite Acclimation]
+[06Jul2025 05:29:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Into Fire]
+[06Jul2025 05:36:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Something Strange in Towerwood]

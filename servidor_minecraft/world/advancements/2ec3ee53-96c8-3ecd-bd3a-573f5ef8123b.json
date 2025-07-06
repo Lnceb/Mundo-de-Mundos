@@ -10793,6 +10793,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-07-06 05:29:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/dark_fence": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
@@ -10814,6 +10820,12 @@
   "twilightforest:recipes/building_blocks/wood/dark_slab": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/carminite_builder": {
+    "criteria": {
+      "has_item": "2025-07-06 05:31:21 +0000"
     },
     "done": true
   },
@@ -10845,6 +10857,12 @@
     "criteria": {
       "all_knights": "2025-07-06 04:50:39 +0000",
       "previous_progression": "2025-07-06 04:32:52 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-07-06 05:33:59 +0000"
     },
     "done": true
   },
@@ -10896,6 +10914,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/compressed_blocks/carminite_block": {
+    "criteria": {
+      "has_item": "2025-07-06 05:31:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-07-06 04:41:06 +0000"
@@ -10908,6 +10932,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-06 05:29:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/earplugs": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
@@ -10917,6 +10947,12 @@
   "twilightforest:recipes/decorations/wood/dark_sign": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-07-06 05:33:59 +0000"
     },
     "done": true
   },
@@ -10971,6 +11007,12 @@
   "mypersonaldelight:recipes/food/crafting/tear_popsicle": {
     "criteria": {
       "has_ghast": "2025-07-06 04:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-06 05:29:47 +0000"
     },
     "done": true
   },
@@ -11046,9 +11088,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/carminite_reactor": {
+    "criteria": {
+      "has_item": "2025-07-06 05:31:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-07-06 04:56:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/carminite": {
+    "criteria": {
+      "has_item": "2025-07-06 05:31:47 +0000"
     },
     "done": true
   },
@@ -11083,6 +11137,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/borer_tear_soup": {
+    "criteria": {
+      "has_borer_essence": "2025-07-06 05:31:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
       "previous_progression": "2025-07-06 04:50:39 +0000"
@@ -11104,6 +11164,18 @@
   "twilightforest:recipes/building_blocks/wood/dark_planks": {
     "criteria": {
       "has_item": "2025-07-06 05:07:51 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:ghast_trap": {
+    "criteria": {
+      "activate_ghast_trap": "2025-07-06 05:36:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-07-06 05:29:47 +0000"
     },
     "done": true
   },
