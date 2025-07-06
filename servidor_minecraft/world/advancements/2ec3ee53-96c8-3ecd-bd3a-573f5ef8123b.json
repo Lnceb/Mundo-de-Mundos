@@ -1409,6 +1409,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-06-11 21:48:13 +0000",
+      "minecraft:blaze": "2025-07-06 04:59:58 +0000",
       "minecraft:skeleton": "2025-06-09 23:20:12 +0000",
       "minecraft:vindicator": "2025-06-11 21:52:15 +0000",
       "minecraft:magma_cube": "2025-06-12 21:35:21 +0000",
@@ -10290,7 +10291,9 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "canopy_chest": "2025-07-05 06:03:44 +0000"
+      "canopy_chest": "2025-07-05 06:03:44 +0000",
+      "dark_planks": "2025-07-06 05:07:55 +0000",
+      "dark_log": "2025-07-06 05:07:51 +0000"
     },
     "done": false
   },
@@ -10764,6 +10767,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/food/ghast_burger": {
+    "criteria": {
+      "has_experiment_115": "2025-07-06 04:59:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
     "criteria": {
       "has_item": "2025-07-06 04:34:37 +0000"
@@ -10776,6 +10785,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/dark_stairs": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_fence": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
     "criteria": {
       "has_item": "2025-07-06 04:41:06 +0000"
@@ -10785,6 +10806,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-06 04:45:45 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_slab": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
     },
     "done": true
   },
@@ -10813,9 +10840,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_button": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
       "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_door": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
     },
     "done": true
   },
@@ -10852,6 +10891,18 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/earplugs": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/dark_sign": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
     },
     "done": true
   },
@@ -10909,6 +10960,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/redstone/wood/dark_gate": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_trapdoor": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-06 04:28:04 +0000"
@@ -10939,6 +11002,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/dark_wood": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:51 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-07-06 04:34:19 +0000"
@@ -10963,6 +11032,12 @@
     },
     "done": true
   },
+  "twilightdelight:recipes/cooking/grilled_ghast": {
+    "criteria": {
+      "has_experiment_115": "2025-07-06 04:59:30 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "kill_hydra": "2025-07-06 04:27:46 +0000",
@@ -10973,6 +11048,12 @@
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-07-06 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/redstone/wood/dark_plate": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
     },
     "done": true
   },
@@ -10988,9 +11069,21 @@
     },
     "done": false
   },
+  "twilightforest:recipes/decorations/wood/dark_chest": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-07-06 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/dark_planks": {
+    "criteria": {
+      "has_item": "2025-07-06 05:07:51 +0000"
     },
     "done": true
   },
