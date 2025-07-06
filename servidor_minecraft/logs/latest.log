@@ -3649,3 +3649,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 04:50:39.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Carminite Acclimation]
 [06Jul2025 05:29:47.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Into Fire]
 [06Jul2025 05:36:41.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Something Strange in Towerwood]
+[06Jul2025 05:42:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Tears of Fire]
+[06Jul2025 05:42:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Ultimate Showdown]

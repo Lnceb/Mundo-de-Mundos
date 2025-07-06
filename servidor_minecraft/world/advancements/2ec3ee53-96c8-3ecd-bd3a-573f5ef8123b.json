@@ -10651,9 +10651,10 @@
   "twilightforest:progress_merge": {
     "criteria": {
       "hydra": "2025-07-06 04:27:46 +0000",
-      "snow_queen": "2025-07-05 06:54:53 +0000"
+      "snow_queen": "2025-07-05 06:54:53 +0000",
+      "ur_ghast": "2025-07-06 05:42:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/misc/snow_queen_banner_pattern": {
     "criteria": {
@@ -10768,6 +10769,18 @@
       "has_fiery_blood": "2025-07-06 04:28:05 +0000"
     },
     "done": true
+  },
+  "twilightforest:recipes/misc/ur_ghast_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-06 05:43:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "previous_progression": "2025-07-06 05:42:30 +0000"
+    },
+    "done": false
   },
   "twilightdelight:recipes/food/ghast_burger": {
     "criteria": {
@@ -10929,6 +10942,12 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/tear_drink": {
+    "criteria": {
+      "has_fiery_tears": "2025-07-06 05:43:17 +0000"
     },
     "done": true
   },
@@ -11145,9 +11164,10 @@
   },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
-      "previous_progression": "2025-07-06 04:50:39 +0000"
+      "previous_progression": "2025-07-06 04:50:39 +0000",
+      "ghast": "2025-07-06 05:42:30 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/decorations/wood/dark_chest": {
     "criteria": {

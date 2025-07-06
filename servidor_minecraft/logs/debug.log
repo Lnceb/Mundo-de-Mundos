@@ -15680,3 +15680,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 05:41:52.781] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [06Jul2025 05:41:52.781] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-7677.20, y=190.00, z=-14869.58], To: CarminiteGhastling['Carminite Ghastling'/12258, l='ServerLevel[world]', x=-7675.26, y=191.02, z=-14870.99] [4.5]
 [06Jul2025 05:41:52.781] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5
+[06Jul2025 05:42:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Tears of Fire]
+[06Jul2025 05:42:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Ultimate Showdown]
+[06Jul2025 05:42:54.737] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[06Jul2025 05:42:54.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-7660.18, y=202.25, z=-14870.56], To: CarminiteGhastguard['Carminite Ghastguard'/12291, l='ServerLevel[world]', x=-7663.54, y=180.58, z=-14894.84] [28.27875]
+[06Jul2025 05:42:54.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.025
+[06Jul2025 05:43:04.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 05:43:04.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 05:48:04.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 05:48:04.542] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
