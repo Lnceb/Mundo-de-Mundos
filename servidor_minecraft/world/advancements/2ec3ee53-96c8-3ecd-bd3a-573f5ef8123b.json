@@ -10297,7 +10297,8 @@
       "towerwood": "2025-07-06 05:13:07 +0000",
       "dark_log": "2025-07-06 05:07:51 +0000",
       "giant_leaves": "2025-07-06 06:06:56 +0000",
-      "giant_log": "2025-07-06 06:06:46 +0000"
+      "giant_log": "2025-07-06 06:06:46 +0000",
+      "thorn_rose": "2025-07-06 06:12:42 +0000"
     },
     "done": false
   },
@@ -10780,9 +10781,10 @@
   },
   "twilightforest:progress_troll": {
     "criteria": {
-      "previous_progression": "2025-07-06 05:42:30 +0000"
+      "previous_progression": "2025-07-06 05:42:30 +0000",
+      "lamp": "2025-07-06 06:09:00 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightdelight:recipes/food/ghast_burger": {
     "criteria": {
@@ -10908,6 +10910,12 @@
   "twilightforest:recipes/redstone/wood/dark_door": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/thorn_rose_tea": {
+    "criteria": {
+      "has_thorn_rose": "2025-07-06 06:12:42 +0000"
     },
     "done": true
   },
@@ -11164,6 +11172,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/thorn_rose_to_red": {
+    "criteria": {
+      "has_item": "2025-07-06 06:12:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-07-06 04:56:19 +0000"
@@ -11266,6 +11280,13 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-06 05:29:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progression_end": {
+    "criteria": {
+      "previous_progression": "2025-07-06 06:09:00 +0000",
+      "plateau": "2025-07-06 06:13:19 +0000"
     },
     "done": true
   },
