@@ -10617,7 +10617,8 @@
       "meef_stroganoff": "2025-07-06 04:24:43 +0000",
       "maze_wafer": "2025-07-05 06:42:50 +0000",
       "hydra_chop": "2025-07-06 04:28:08 +0000",
-      "cooked_meef": "2025-07-05 07:20:36 +0000"
+      "cooked_meef": "2025-07-05 07:20:36 +0000",
+      "experiment_115": "2025-07-06 06:59:52 +0000"
     },
     "done": false
   },
@@ -10973,6 +10974,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-07-06 07:02:39 +0000"
+    },
+    "done": true
+  },
   "twilightforest:troll": {
     "criteria": {
       "troll": "2025-07-06 05:53:46 +0000"
@@ -11316,6 +11323,12 @@
   "rusticdelight:recipes/syrup": {
     "criteria": {
       "has_any_ingredient": "2025-07-06 05:55:11 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:experiment_115": {
+    "criteria": {
+      "eat_experiment_115": "2025-07-06 06:59:52 +0000"
     },
     "done": true
   },
