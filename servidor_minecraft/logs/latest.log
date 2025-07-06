@@ -3667,3 +3667,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 06:24:11.603] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
 [06Jul2025 06:38:20.490] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/33558, l='ServerLevel[world]', x=-796.12, y=199.00, z=-2058.46] died, message: 'Toolsmith was slain by The Wheezer'
 [06Jul2025 06:38:28.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/33561, l='ServerLevel[world]', x=-789.80, y=199.00, z=-2069.07] died, message: 'Weaponsmith was slain by The Wheezer'
+[06Jul2025 06:51:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Pseudo Archaeologist]
+[06Jul2025 06:53:00.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Forbidden Fruit]

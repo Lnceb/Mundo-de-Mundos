@@ -15882,3 +15882,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 06:38:21.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 06:38:21.896] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 06:38:28.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/33561, l='ServerLevel[world]', x=-789.80, y=199.00, z=-2069.07] died, message: 'Weaponsmith was slain by The Wheezer'
+[06Jul2025 06:43:21.851] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 06:43:21.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 06:48:21.852] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 06:48:21.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 06:51:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Pseudo Archaeologist]
+[06Jul2025 06:53:00.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Forbidden Fruit]
