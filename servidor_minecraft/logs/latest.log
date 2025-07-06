@@ -3669,3 +3669,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 06:38:28.300] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/33561, l='ServerLevel[world]', x=-789.80, y=199.00, z=-2069.07] died, message: 'Weaponsmith was slain by The Wheezer'
 [06Jul2025 06:51:39.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Pseudo Archaeologist]
 [06Jul2025 06:53:00.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Forbidden Fruit]
+[06Jul2025 06:54:18.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Beginner Breadsmithing]
+[06Jul2025 06:59:52.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Mystery Meat?]
+[06Jul2025 07:02:35.881] [Server thread/WARN] [sophisticatedcore/]: Too much loot to add to container. Overflow is voided.
