@@ -10933,6 +10933,12 @@
     },
     "done": true
   },
+  "twilightforest:troll": {
+    "criteria": {
+      "troll": "2025-07-06 05:53:46 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
     "criteria": {
       "has_item": "2025-07-06 04:41:06 +0000"
@@ -11172,6 +11178,12 @@
   "twilightforest:recipes/decorations/wood/dark_chest": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/syrup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 05:55:11 +0000"
     },
     "done": true
   },
