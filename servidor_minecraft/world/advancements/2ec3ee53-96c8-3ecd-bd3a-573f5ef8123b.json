@@ -10124,27 +10124,166 @@
     },
     "done": true
   },
-  "twilightdelight:recipes/food/glacier_ice_tea": {
+  "dungeonsdelight:recipes/combat/diamond_cleaver": {
     "criteria": {
-      "has_ice_bomb": "2025-07-05 06:28:50 +0000"
+      "has_diamond": "2025-07-05 05:45:53 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/refreshing_ice_cream": {
+  "twilightforest:root": {
     "criteria": {
-      "has_ice_bomb": "2025-07-05 06:28:50 +0000"
+      "make_portal": "2025-07-05 05:46:15 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_merge": {
+  "morevillagers:recipes/blueprint_table": {
     "criteria": {
-      "snow_queen": "2025-07-05 06:54:53 +0000"
+      "has_paper": "2025-07-05 05:48:16 +0000"
     },
-    "done": false
+    "done": true
   },
-  "refurbished_furniture:recipes/freezing/packed_ice": {
+  "twilightforest:twilight_hunter": {
     "criteria": {
-      "has_result": "2025-07-05 06:46:13 +0000"
+      "kobold": "2025-07-05 05:48:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/basket": {
+    "criteria": {
+      "has_wheat": "2025-07-05 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
+    "criteria": {
+      "has_wheat": "2025-07-05 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/beer_from_water": {
+    "criteria": {
+      "has_wheat": "2025-07-05 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/straw_hat": {
+    "criteria": {
+      "has_wheat": "2025-07-05 05:48:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/torchberries_crate": {
+    "criteria": {
+      "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/torchberry_juice": {
+    "criteria": {
+      "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/twilight_ice_cream": {
+    "criteria": {
+      "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/berry_torch": {
+    "criteria": {
+      "has_item": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_cookie": {
+    "criteria": {
+      "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/berry_stick": {
+    "criteria": {
+      "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/torchberry_pie": {
+    "criteria": {
+      "has_torchberries": "2025-07-05 05:48:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-07-05 05:51:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map": {
+    "criteria": {
+      "has_item": "2025-07-05 05:51:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "magic_map": "2025-07-05 05:55:18 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-07-05 06:01:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-07-05 06:01:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-07-05 06:01:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-07-05 06:01:01 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_lich": {
+    "criteria": {
+      "kill_lich": "2025-07-05 06:16:31 +0000",
+      "kill_naga": "2025-07-05 06:03:08 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "was_in_fight": "2025-07-05 06:03:08 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-05 06:03:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/naga_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-05 06:03:27 +0000"
     },
     "done": true
   },
@@ -10153,18 +10292,6 @@
       "canopy_chest": "2025-07-05 06:03:44 +0000"
     },
     "done": false
-  },
-  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-07-05 06:03:56 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/decorations/ice_crate": {
-    "criteria": {
-      "has_ice": "2025-07-05 06:46:13 +0000"
-    },
-    "done": true
   },
   "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
     "criteria": {
@@ -10178,25 +10305,55 @@
     },
     "done": true
   },
-  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-07-05 06:55:11 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/food/aurora_pie": {
-    "criteria": {
-      "has_aurora_block": "2025-07-05 07:01:34 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/birch_wine_rack_small": {
-    "criteria": {
-      "has_birch_planks": "2025-07-05 06:33:52 +0000"
-    },
-    "done": true
-  },
   "storagedrawers:recipes/storagedrawers/bamboo_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-05 06:03:44 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
     "criteria": {
       "has_chest": "2025-07-05 06:03:44 +0000"
     },
@@ -10208,172 +10365,9 @@
     },
     "done": true
   },
-  "twilightforest:progress_lich": {
-    "criteria": {
-      "kill_lich": "2025-07-05 06:16:31 +0000",
-      "kill_naga": "2025-07-05 06:03:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/lich_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-07-05 06:17:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/maze_map": {
-    "criteria": {
-      "has_item": "2025-07-05 07:22:37 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/warped_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/twilight_scepter": {
-    "criteria": {
-      "has_item": "2025-07-05 06:17:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map_focus": {
-    "criteria": {
-      "focus": "2025-07-05 05:51:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-07-05 06:03:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_naga": {
-    "criteria": {
-      "was_in_fight": "2025-07-05 06:03:08 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
-    "criteria": {
-      "has_item": "2025-07-05 06:26:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-07-05 06:03:53 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/naga_banner_pattern": {
-    "criteria": {
-      "has_trophy": "2025-07-05 06:03:27 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/basket": {
-    "criteria": {
-      "has_wheat": "2025-07-05 05:48:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "kobold": "2025-07-05 05:48:35 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:magic_map": {
-    "criteria": {
-      "magic_map": "2025-07-05 05:55:18 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/birch_wine_rack_big": {
-    "criteria": {
-      "has_birch_planks": "2025-07-05 06:33:52 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
-    "criteria": {
-      "has_wheat": "2025-07-05 05:48:36 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/spicy_noodle_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-05 06:03:10 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/frozen/obsidian": {
-    "criteria": {
-      "has_magma_block": "2025-07-05 06:04:29 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/campfired_meef": {
-    "criteria": {
-      "has_food": "2025-07-05 07:20:01 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-07-05 06:46:13 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedstorage:recipes/misc/birch_chest": {
-    "criteria": {
-      "has_birch_plank": "2025-07-05 06:33:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/combat/equipment/arctic_boots": {
-    "criteria": {
-      "has_item": "2025-07-05 06:26:26 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/tools/charm_of_life_2": {
-    "criteria": {
-      "has_item": "2025-07-05 06:06:14 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
-    "criteria": {
-      "has_item": "2025-07-05 06:04:26 +0000"
-    },
-    "done": true
-  },
-  "dungeonsdelight:recipes/food/slime_bar_from_shapeless": {
-    "criteria": {
-      "slime_ball": "2025-07-05 07:22:15 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/food/chocolate_wafer": {
-    "criteria": {
-      "has_maze_wafer": "2025-07-05 06:34:23 +0000"
     },
     "done": true
   },
@@ -10383,15 +10377,102 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-07-05 06:03:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-07-05 06:03:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+    "criteria": {
+      "has_item": "2025-07-05 06:03:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-07-05 06:03:56 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/cracked_nagastone_stairs_left": {
     "criteria": {
       "has_item": "2025-07-05 06:03:56 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
+  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_pillar": {
     "criteria": {
-      "has_item": "2025-07-05 06:01:01 +0000"
+      "has_item": "2025-07-05 06:04:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+    "criteria": {
+      "has_item": "2025-07-05 06:04:26 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/frozen/obsidian": {
+    "criteria": {
+      "has_magma_block": "2025-07-05 06:04:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/charm_of_life_2": {
+    "criteria": {
+      "has_item": "2025-07-05 06:06:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-07-05 06:16:31 +0000",
+      "trophy_pedestal": "2025-07-06 04:32:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "meef": "2025-07-06 04:24:43 +0000",
+      "kill_lich": "2025-07-05 06:16:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-07-05 06:16:31 +0000",
+      "yeti": "2025-07-05 06:28:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/lich_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-05 06:17:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/twilight_scepter": {
+    "criteria": {
+      "has_item": "2025-07-05 06:17:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/arctic_boots": {
+    "criteria": {
+      "has_item": "2025-07-05 06:26:26 +0000"
     },
     "done": true
   },
@@ -10401,52 +10482,15 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-07-05 06:33:51 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/misc/magic_map_focus": {
-    "criteria": {
-      "has_berries": "2025-07-05 05:48:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-07-05 06:32:18 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/combat/equipment/arctic_leggings": {
     "criteria": {
       "has_item": "2025-07-05 06:26:26 +0000"
     },
     "done": true
   },
-  "twilightforest:twilight_dinner": {
+  "twilightforest:recipes/combat/equipment/arctic_helmet": {
     "criteria": {
-      "maze_wafer": "2025-07-05 06:42:50 +0000",
-      "cooked_meef": "2025-07-05 07:20:36 +0000"
-    },
-    "done": false
-  },
-  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/food/food/smelted_meef": {
-    "criteria": {
-      "has_food": "2025-07-05 07:20:01 +0000"
-    },
-    "done": true
-  },
-  "ecologics:recipes/ecologics/snow_bricks": {
-    "criteria": {
-      "has_snow_block": "2025-07-05 06:33:26 +0000"
+      "has_item": "2025-07-05 06:26:26 +0000"
     },
     "done": true
   },
@@ -10457,81 +10501,69 @@
     },
     "done": true
   },
-  "twilightforest:recipes/food/food/smoked_meef": {
+  "twilightdelight:recipes/food/glacier_ice_tea": {
     "criteria": {
-      "has_food": "2025-07-05 07:20:01 +0000"
+      "has_ice_bomb": "2025-07-05 06:28:50 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_nagastone_pillar": {
+  "twilightdelight:recipes/food/refreshing_ice_cream": {
     "criteria": {
-      "has_item": "2025-07-05 06:04:26 +0000"
+      "has_ice_bomb": "2025-07-05 06:28:50 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
+  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
     "criteria": {
-      "has_item": "2025-07-05 07:01:34 +0000"
+      "has_trophy": "2025-07-05 06:28:53 +0000"
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+  "minecraft:recipes/decorations/snow": {
     "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
+      "has_snowball": "2025-07-05 06:32:18 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/meef_wrap": {
+  "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
-      "has_raw_meef": "2025-07-05 07:20:01 +0000"
+      "has_snowball": "2025-07-05 06:32:18 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/rainbow_ice_cream": {
+  "ecologics:recipes/ecologics/snow_bricks": {
     "criteria": {
-      "has_aurora_block": "2025-07-05 07:01:34 +0000"
+      "has_snow_block": "2025-07-05 06:33:26 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_nagastone_stairs_left": {
+  "twilightforest:recipes/decorations/wood/birch_banister": {
     "criteria": {
-      "has_item": "2025-07-05 06:03:53 +0000"
+      "has_item": "2025-07-05 06:33:51 +0000"
     },
     "done": true
   },
-  "dungeonsdelight:recipes/combat/diamond_cleaver": {
+  "blue_skies:recipes/building_blocks/trough": {
     "criteria": {
-      "has_diamond": "2025-07-05 05:45:53 +0000"
+      "has_item": "2025-07-05 06:33:51 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/misc/torchberries_crate": {
+  "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
-      "has_torchberries": "2025-07-05 05:48:46 +0000"
+      "has_birch_planks": "2025-07-05 06:33:52 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map": {
+  "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
-      "has_item": "2025-07-05 05:51:02 +0000"
+      "has_birch_planks": "2025-07-05 06:33:52 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/cooking/torchberry_juice": {
+  "sophisticatedstorage:recipes/misc/birch_chest": {
     "criteria": {
-      "has_torchberries": "2025-07-05 05:48:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:progress_trophy_pedestal": {
-    "criteria": {
-      "kill_lich": "2025-07-05 06:16:31 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-07-05 06:01:01 +0000"
+      "has_birch_plank": "2025-07-05 06:33:52 +0000"
     },
     "done": true
   },
@@ -10559,69 +10591,48 @@
     },
     "done": true
   },
-  "twilightforest:progress_labyrinth": {
-    "criteria": {
-      "kill_lich": "2025-07-05 06:16:31 +0000"
-    },
-    "done": false
-  },
-  "brewinandchewin:recipes/fermenting/beer_from_water": {
-    "criteria": {
-      "has_wheat": "2025-07-05 05:48:36 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-07-05 06:01:01 +0000"
-    },
-    "done": true
-  },
-  "twilightdelight:recipes/food/twilight_ice_cream": {
-    "criteria": {
-      "has_torchberries": "2025-07-05 05:48:46 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-07-05 06:01:01 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/mangrove_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/birch_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
-    "criteria": {
-      "has_chest": "2025-07-05 06:03:44 +0000"
-    },
-    "done": true
-  },
   "sophisticatedstorage:recipes/misc/birch_barrel": {
     "criteria": {
       "has_birch_plank": "2025-07-05 06:33:52 +0000"
     },
     "done": true
   },
-  "morevillagers:recipes/blueprint_table": {
+  "twilightdelight:recipes/food/chocolate_wafer": {
     "criteria": {
-      "has_paper": "2025-07-05 05:48:16 +0000"
+      "has_maze_wafer": "2025-07-05 06:34:23 +0000"
     },
     "done": true
   },
-  "vinery:recipes/straw_hat": {
+  "twilightforest:twilight_dinner": {
     "criteria": {
-      "has_wheat": "2025-07-05 05:48:36 +0000"
+      "meef_stroganoff": "2025-07-06 04:24:43 +0000",
+      "maze_wafer": "2025-07-05 06:42:50 +0000",
+      "hydra_chop": "2025-07-06 04:28:08 +0000",
+      "cooked_meef": "2025-07-05 07:20:36 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/tools/charm_of_keeping_2": {
+    "criteria": {
+      "has_item": "2025-07-05 06:43:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/freezing/packed_ice": {
+    "criteria": {
+      "has_result": "2025-07-05 06:46:13 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/decorations/ice_crate": {
+    "criteria": {
+      "has_ice": "2025-07-05 06:46:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-07-05 06:46:13 +0000"
     },
     "done": true
   },
@@ -10631,76 +10642,257 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+  "twilightforest:progress_merge": {
     "criteria": {
-      "has_polished_andesite": "2025-07-05 06:03:52 +0000"
+      "hydra": "2025-07-06 04:27:46 +0000",
+      "snow_queen": "2025-07-05 06:54:53 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/misc/snow_queen_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-05 06:55:11 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/alpha_yeti_banner_pattern": {
+  "twilightdelight:recipes/food/aurora_pie": {
     "criteria": {
-      "has_trophy": "2025-07-05 06:28:53 +0000"
+      "has_aurora_block": "2025-07-05 07:01:34 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/berry_torch": {
+  "twilightforest:recipes/building_blocks/wood/aurora_slab_slab": {
     "criteria": {
-      "has_item": "2025-07-05 05:48:46 +0000"
+      "has_item": "2025-07-05 07:01:34 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/torchberry_cookie": {
+  "twilightdelight:recipes/food/rainbow_ice_cream": {
     "criteria": {
-      "has_torchberries": "2025-07-05 05:48:46 +0000"
+      "has_aurora_block": "2025-07-05 07:01:34 +0000"
     },
     "done": true
   },
-  "twilightforest:progress_yeti": {
+  "twilightforest:recipes/food/food/campfired_meef": {
     "criteria": {
-      "previous_progression": "2025-07-05 06:16:31 +0000",
-      "yeti": "2025-07-05 06:28:30 +0000"
+      "has_food": "2025-07-05 07:20:01 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/combat/equipment/arctic_helmet": {
+  "twilightforest:recipes/food/food/smelted_meef": {
     "criteria": {
-      "has_item": "2025-07-05 06:26:26 +0000"
+      "has_food": "2025-07-05 07:20:01 +0000"
     },
     "done": true
   },
-  "blue_skies:recipes/building_blocks/trough": {
+  "twilightforest:recipes/food/food/smoked_meef": {
     "criteria": {
-      "has_item": "2025-07-05 06:33:51 +0000"
+      "has_food": "2025-07-05 07:20:01 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/berry_stick": {
+  "twilightdelight:recipes/food/meef_wrap": {
     "criteria": {
-      "has_torchberries": "2025-07-05 05:48:46 +0000"
+      "has_raw_meef": "2025-07-05 07:20:01 +0000"
     },
     "done": true
   },
-  "twilightdelight:recipes/food/torchberry_pie": {
+  "dungeonsdelight:recipes/food/slime_bar_from_shapeless": {
     "criteria": {
-      "has_torchberries": "2025-07-05 05:48:46 +0000"
+      "slime_ball": "2025-07-05 07:22:15 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/tools/charm_of_keeping_2": {
+  "twilightforest:recipes/misc/maze_map": {
     "criteria": {
-      "has_item": "2025-07-05 06:43:38 +0000"
+      "has_item": "2025-07-05 07:22:37 +0000"
     },
     "done": true
   },
-  "twilightforest:root": {
+  "twilightforest:recipes/misc/minoshroom_banner_pattern": {
     "criteria": {
-      "make_portal": "2025-07-05 05:46:15 +0000"
+      "has_trophy": "2025-07-05 07:30:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/snow_block": {
+  "twilightforest:recipes/building_blocks/compressed_blocks/ironwood_block": {
     "criteria": {
-      "has_snowball": "2025-07-05 06:32:18 +0000"
+      "has_item": "2025-07-05 07:32:50 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/ironwood_knife": {
+    "criteria": {
+      "has_ironwood_ingot": "2025-07-05 07:32:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/smelted_maze_stone_cracked": {
+    "criteria": {
+      "has_item": "2025-07-05 07:33:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/maze_stone/mossy_mazestone": {
+    "criteria": {
+      "has_item": "2025-07-05 07:33:05 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/misc/steeleaf_knife": {
+    "criteria": {
+      "has_steeleaf_ingot": "2025-07-05 07:36:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-07-05 07:36:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_boots": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/cooking/fiery_snakes_block": {
+    "criteria": {
+      "has_fiery_blood": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/smelted_cracked_underbrick": {
+    "criteria": {
+      "has_item": "2025-07-06 04:34:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_iron_sword": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "previous_progression": "2025-07-06 04:32:52 +0000"
+    },
+    "done": false
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:legendary_monsters_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/mossy_underbrick": {
+    "criteria": {
+      "has_item": "2025-07-06 04:34:37 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/kippers": {
+    "criteria": {
+      "has_fish": "2025-07-06 04:37:14 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:end_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_chestplate": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "twilightdelight:recipes/food/hydra_burger": {
+    "criteria": {
+      "has_hydra_chop": "2025-07-06 04:28:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/fiery_iron_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:nether_root": {
+    "criteria": {
+      "custom_test_name": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/hydra_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-06 04:28:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/gold_pile": {
+    "criteria": {
+      "has_item": "2025-07-06 04:34:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "kill_hydra": "2025-07-06 04:27:46 +0000",
+      "stroganoff": "2025-07-06 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/armor_shard_cluster": {
+    "criteria": {
+      "has_item": "2025-07-06 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/equipment/fiery_ingot_crafting": {
+    "criteria": {
+      "has_item": "2025-07-06 04:28:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-07-06 04:24:43 +0000"
     },
     "done": true
   },
