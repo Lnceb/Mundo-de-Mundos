@@ -10808,9 +10808,10 @@
   },
   "twilightforest:progress_knights": {
     "criteria": {
+      "all_knights": "2025-07-06 04:50:39 +0000",
       "previous_progression": "2025-07-06 04:32:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:recipes/combat/equipment/fiery_fiery_leggings": {
     "criteria": {
@@ -10884,6 +10885,12 @@
     },
     "done": true
   },
+  "netherexp:recipes/sanctum/lesion": {
+    "criteria": {
+      "has_item": "2025-07-06 04:56:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/combat/equipment/fiery_fiery_helmet": {
     "criteria": {
       "has_item": "2025-07-06 04:28:05 +0000"
@@ -10896,6 +10903,12 @@
     },
     "done": true
   },
+  "mypersonaldelight:recipes/food/crafting/tear_popsicle": {
+    "criteria": {
+      "has_ghast": "2025-07-06 04:56:38 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/hydra_banner_pattern": {
     "criteria": {
       "has_trophy": "2025-07-06 04:28:04 +0000"
@@ -10905,6 +10918,24 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-06 04:45:45 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/healing_quiver": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-06 04:56:38 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/healer_necklace": {
+    "criteria": {
+      "has_ghast_tear": "2025-07-06 04:56:38 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/knight_phantom_banner_pattern": {
+    "criteria": {
+      "has_trophy": "2025-07-06 04:50:58 +0000"
     },
     "done": true
   },
@@ -10926,6 +10957,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_meal": {
+    "criteria": {
+      "has_item": "2025-07-06 04:56:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_hydra": {
     "criteria": {
       "kill_hydra": "2025-07-06 04:27:46 +0000",
@@ -10944,6 +10981,12 @@
       "has_item": "2025-07-06 04:28:05 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-07-06 04:50:39 +0000"
+    },
+    "done": false
   },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
