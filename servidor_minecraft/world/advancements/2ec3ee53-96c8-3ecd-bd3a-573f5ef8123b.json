@@ -10295,7 +10295,9 @@
       "dark_planks": "2025-07-06 05:07:55 +0000",
       "encased_towerwood": "2025-07-06 05:10:33 +0000",
       "towerwood": "2025-07-06 05:13:07 +0000",
-      "dark_log": "2025-07-06 05:07:51 +0000"
+      "dark_log": "2025-07-06 05:07:51 +0000",
+      "giant_leaves": "2025-07-06 06:06:56 +0000",
+      "giant_log": "2025-07-06 06:06:46 +0000"
     },
     "done": false
   },
@@ -10806,6 +10808,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 06:01:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-06 05:29:47 +0000"
@@ -10854,6 +10862,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/giant_cobblestone_to_cobblestone": {
+    "criteria": {
+      "has_item": "2025-07-06 06:07:25 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/wood/smoked_cracked_towerwood": {
     "criteria": {
       "has_item": "2025-07-06 05:13:07 +0000"
@@ -10894,6 +10908,12 @@
   "twilightforest:recipes/redstone/wood/dark_door": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-06 06:07:25 +0000"
     },
     "done": true
   },
@@ -10993,6 +11013,18 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
+    "criteria": {
+      "has_item": "2025-07-06 06:06:46 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/giant_leaves_to_oak_leaves": {
+    "criteria": {
+      "has_item": "2025-07-06 06:06:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-07-06 04:45:45 +0000"
@@ -11041,9 +11073,22 @@
     },
     "done": true
   },
+  "twilightforest:beanstalk": {
+    "criteria": {
+      "beans": "2025-07-06 06:00:35 +0000",
+      "use_beans": "2025-07-06 06:03:19 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/redstone/wood/dark_gate": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 06:01:04 +0000"
     },
     "done": true
   },
@@ -11172,6 +11217,19 @@
     "criteria": {
       "previous_progression": "2025-07-06 04:50:39 +0000",
       "ghast": "2025-07-06 05:42:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/tools/equipment/giant_sword": {
+    "criteria": {
+      "has_item": "2025-07-06 06:07:25 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:giants": {
+    "criteria": {
+      "pickaxe": "2025-07-06 06:00:35 +0000",
+      "giant": "2025-07-06 06:04:53 +0000"
     },
     "done": true
   },

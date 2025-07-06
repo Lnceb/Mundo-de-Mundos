@@ -3652,3 +3652,9 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [06Jul2025 05:42:30.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Tears of Fire]
 [06Jul2025 05:42:30.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Ultimate Showdown]
 [06Jul2025 05:53:46.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [We Do a Little Trolling]
+[06Jul2025 06:03:19.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Jack and the Beanstalk]
+[06Jul2025 06:04:53.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [I'm on Cloud Nine]
+[06Jul2025 06:09:00.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [I Wish For More Burning]
+[06Jul2025 06:10:34.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6945, y=37, z=-15699} BlockPos{x=-6945, y=38, z=-15702}
+[06Jul2025 06:10:42.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6948, y=42, z=-15701} BlockPos{x=-6949, y=43, z=-15702}
+[06Jul2025 06:11:03.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-6953, y=51, z=-15714} BlockPos{x=-6952, y=52, z=-15715}
