@@ -33,7 +33,9 @@
       "minecraft:river": "2025-06-09 22:00:44 +0000",
       "minecraft:lukewarm_ocean": "2025-06-09 23:15:35 +0000",
       "minecraft:stony_shore": "2025-06-12 16:05:35 +0000",
+      "minecraft:snowy_plains": "2025-07-06 07:42:29 +0000",
       "minecraft:dripstone_caves": "2025-06-12 21:23:00 +0000",
+      "minecraft:swamp": "2025-07-06 07:26:14 +0000",
       "minecraft:jagged_peaks": "2025-06-12 16:07:03 +0000",
       "minecraft:forest": "2025-06-09 21:27:02 +0000",
       "minecraft:lush_caves": "2025-06-09 22:56:50 +0000",
@@ -10769,6 +10771,12 @@
     },
     "done": true
   },
+  "skilltree:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_nuggets_copper": "2025-07-06 07:35:46 +0000"
+    },
+    "done": true
+  },
   "twilightdelight:recipes/cooking/fiery_snakes_block": {
     "criteria": {
       "has_fiery_blood": "2025-07-06 04:28:05 +0000"
@@ -10903,6 +10911,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-06 07:35:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2025-07-06 05:33:59 +0000"
@@ -10975,6 +10989,12 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-06 07:28:35 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-07-06 07:02:39 +0000"
@@ -10996,6 +11016,18 @@
   "legendary_monsters:end_root": {
     "criteria": {
       "custom_test_name": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-07-06 07:24:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hidden_books": {
+    "criteria": {
+      "book": "2025-07-06 07:26:47 +0000"
     },
     "done": true
   },
@@ -11053,6 +11085,18 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-07-06 07:35:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-07-06 07:36:52 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/giant_log_to_oak_planks": {
     "criteria": {
       "has_item": "2025-07-06 06:06:46 +0000"
@@ -11080,6 +11124,12 @@
   "ice_and_fire_delight:root": {
     "criteria": {
       "root": "2025-07-06 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/copper_ring": {
+    "criteria": {
+      "has_nuggets_copper": "2025-07-06 07:35:46 +0000"
     },
     "done": true
   },
@@ -11153,6 +11203,12 @@
   "twilightforest:recipes/redstone/wood/dark_trapdoor": {
     "criteria": {
       "has_item": "2025-07-06 05:07:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-07-06 07:27:27 +0000"
     },
     "done": true
   },
@@ -11271,6 +11327,18 @@
     },
     "done": true
   },
+  "graveyard:graveyard/dead_tree": {
+    "criteria": {
+      "dead_tree": "2025-07-06 07:31:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-06 07:43:28 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/misc/material/armor_shard_cluster": {
     "criteria": {
       "has_item": "2025-07-06 04:35:53 +0000"
@@ -11295,6 +11363,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-07-06 07:28:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-07-06 07:35:46 +0000"
+    },
+    "done": true
+  },
   "twilightforest:progress_ur_ghast": {
     "criteria": {
       "previous_progression": "2025-07-06 04:50:39 +0000",
@@ -11311,6 +11391,12 @@
   "twilightforest:recipes/tools/equipment/giant_sword": {
     "criteria": {
       "has_item": "2025-07-06 06:07:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-07-06 07:35:46 +0000"
     },
     "done": true
   },
@@ -11342,6 +11428,12 @@
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-07-06 04:24:43 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "magical_eye": "2025-07-06 07:27:27 +0000"
     },
     "done": true
   },
