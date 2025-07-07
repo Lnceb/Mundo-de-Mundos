@@ -14533,3 +14533,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Jul2025 21:46:20.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 0.5960696957492644,-9.917723166325828,1.590593728909198
 [07Jul2025 21:46:50.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
 [07Jul2025 21:46:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[07Jul2025 21:49:05.952] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:49:05.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 21:54:05.944] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 21:54:05.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
