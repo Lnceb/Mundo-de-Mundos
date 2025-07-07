@@ -37,6 +37,7 @@
       "minecraft:snowy_plains": "2025-07-06 07:42:29 +0000",
       "minecraft:dripstone_caves": "2025-06-12 21:23:00 +0000",
       "minecraft:swamp": "2025-07-06 07:26:14 +0000",
+      "minecraft:grove": "2025-07-07 05:58:47 +0000",
       "minecraft:jagged_peaks": "2025-06-12 16:07:03 +0000",
       "minecraft:forest": "2025-06-09 21:27:02 +0000",
       "minecraft:lush_caves": "2025-06-09 22:56:50 +0000",
@@ -11559,6 +11560,12 @@
     },
     "done": false
   },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-07-07 06:03:34 +0000"
+    },
+    "done": true
+  },
   "takesapillage:pillager_camp": {
     "criteria": {
       "in_pillager_camp": "2025-07-07 05:46:36 +0000"
@@ -11571,6 +11578,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2025-07-07 06:00:33 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/vinemaker_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 05:52:03 +0000"
@@ -11580,6 +11593,18 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-07-07 05:47:55 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-07-07 06:05:57 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-07-07 06:04:08 +0000"
     },
     "done": true
   },

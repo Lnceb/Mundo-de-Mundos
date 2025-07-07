@@ -14730,3 +14730,85 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Jul2025 05:57:16.097] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$1(I)[Lnet/minecraft/world/item/ItemStack; to md073066$lambda$brewinandchewin$addExtraFluidContextToPick$1$9 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
 [07Jul2025 05:57:16.097] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$0(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md073066$lambda$brewinandchewin$addExtraFluidContextToPick$0$a in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
 [07Jul2025 05:57:16.104] [Server thread/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
+[07Jul2025 05:59:07.643] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-1544, y=-16, z=-3728} at Chest with:minecraft:chests/simple_dungeon
+[07Jul2025 05:59:28.088] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-1420 | 64 | -4060).
+[07Jul2025 05:59:28.091] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[07Jul2025 05:59:28.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[07Jul2025 05:59:28.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[07Jul2025 05:59:28.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 4(0) Rooms
+[07Jul2025 05:59:28.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[07Jul2025 05:59:28.094] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 5(6) Nodes and 5(0) Rooms
+[07Jul2025 05:59:28.095] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[07Jul2025 05:59:28.095] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 5(5) Nodes and 5(0) Rooms
+[07Jul2025 05:59:28.095] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[07Jul2025 05:59:28.095] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 5(4) Nodes and 6(0) Rooms
+[07Jul2025 06:00:38.471] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_citadel_keeper_loot
+[07Jul2025 06:01:07.026] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_pyromancer_tower_loot
+[07Jul2025 06:01:26.642] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 06:01:26.669] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 06:03:26.196] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-957, y=-8, z=-3539} at Chest with:minecraft:chests/simple_dungeon
+[07Jul2025 06:03:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [A Freezing Place]
+[07Jul2025 06:03:36.326] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:03:36.327] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1109.02, y=128.00, z=-3528.74], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1109.50, y=128.00, z=-3525.50] [154.52336]
+[07Jul2025 06:03:36.327] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.171875
+[07Jul2025 06:03:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:03:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1115.44, y=128.00, z=-3537.42], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1107.46, y=128.00, z=-3527.96] [153.88335]
+[07Jul2025 06:03:43.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.03125
+[07Jul2025 06:03:48.573] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:03:48.574] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1122.91, y=129.00, z=-3534.89], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1110.18, y=128.00, z=-3534.39] [153.24333]
+[07Jul2025 06:03:48.574] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.03125
+[07Jul2025 06:03:53.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:03:53.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1121.42, y=129.17, z=-3533.34], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1114.95, y=128.38, z=-3536.27] [152.36003]
+[07Jul2025 06:03:53.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.40625
+[07Jul2025 06:04:00.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:04:00.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1115.84, y=128.00, z=-3538.18], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1118.40, y=128.50, z=-3533.81] [25.112293]
+[07Jul2025 06:04:00.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.40625
+[07Jul2025 06:04:01.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:04:01.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1111.49, y=129.25, z=-3539.62], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1118.86, y=129.25, z=-3534.25] [24.472273]
+[07Jul2025 06:04:01.621] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.03125
+[07Jul2025 06:04:07.016] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-894, y=-33, z=-3621} at Chest with:minecraft:chests/simple_dungeon
+[07Jul2025 06:04:08.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [The Coldest Golem]
+[07Jul2025 06:04:09.021] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:04:09.022] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1109.45, y=128.00, z=-3536.61], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1112.13, y=128.38, z=-3536.03] [0.0]
+[07Jul2025 06:04:09.022] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.03125
+[07Jul2025 06:04:09.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:04:09.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1109.37, y=128.00, z=-3535.92], To: Frostbitten_GolemEntity['Frostbitten Golem'/5637, l='ServerLevel[world]', x=-1112.13, y=128.38, z=-3536.03] [0.0]
+[07Jul2025 06:04:09.523] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.03125
+[07Jul2025 06:04:33.158] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[07Jul2025 06:04:57.219] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-846, y=-28, z=-3467} at Sarcophagus with:graveyard:chests/crypt_loot
+[07Jul2025 06:05:47.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:05:47.606] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1113.89, y=125.00, z=-3486.32], To: ThehunterEntity['The Hunter'/7300, l='ServerLevel[world]', x=-1113.39, y=125.00, z=-3485.66] [14.59375]
+[07Jul2025 06:05:47.607] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.40625
+[07Jul2025 06:05:52.971] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:05:52.971] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1114.88, y=125.50, z=-3481.94], To: AxestromEntity['Stroms'/7359, l='ServerLevel[world]', x=-1114.95, y=125.00, z=-3482.71, removed=DISCARDED] [1.0]
+[07Jul2025 06:05:52.971] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[07Jul2025 06:05:53.520] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:05:53.520] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1112.97, y=125.00, z=-3480.68], To: AxestromEntity['Stroms'/7358, l='ServerLevel[world]', x=-1114.18, y=125.00, z=-3480.80, removed=DISCARDED] [1.0]
+[07Jul2025 06:05:53.520] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[07Jul2025 06:05:55.670] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:05:55.670] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1114.05, y=125.00, z=-3486.90], To: AxestromEntity['Stroms'/7373, l='ServerLevel[world]', x=-1112.92, y=125.00, z=-3486.34, removed=DISCARDED] [1.0]
+[07Jul2025 06:05:55.670] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[07Jul2025 06:05:56.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:05:56.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1116.95, y=125.00, z=-3485.79], To: ThewolfEntity['The Wolf'/7318, l='ServerLevel[world]', x=-1116.27, y=125.00, z=-3485.48] [6.58268]
+[07Jul2025 06:05:56.718] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.40625
+[07Jul2025 06:05:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [I'm not sugar coating it]
+[07Jul2025 06:06:26.627] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 06:06:26.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 06:06:59.266] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 06:06:59.266] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 06:06:59.267] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 06:07:06.772] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-1083, y=-5, z=-3129} at Coffin with:graveyard:chests/crypt_loot
+[07Jul2025 06:07:16.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:07:16.722] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1217.93, y=102.50, z=-3306.27], To: BabySkeletonEntity['Baby Skeleton'/7796, l='ServerLevel[world]', x=-1217.48, y=102.25, z=-3305.47] [7.453672]
+[07Jul2025 06:07:16.722] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[07Jul2025 06:07:21.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:07:21.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1219.36, y=104.00, z=-3302.15], To: FirelightNotDespawnEntity['Firelight'/7182, l='ServerLevel[world]', x=-1219.60, y=103.00, z=-3302.56] [14.4375]
+[07Jul2025 06:07:21.262] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[07Jul2025 06:08:29.439] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:08:29.439] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1218.91, y=115.50, z=-3282.41], To: KrampusHenchmanEntity['Krampus Henchman'/8374, l='ServerLevel[world]', x=-1217.95, y=115.00, z=-3282.34] [29.074688]
+[07Jul2025 06:08:29.439] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[07Jul2025 06:08:30.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[07Jul2025 06:08:30.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/55, l='ServerLevel[world]', x=-1221.28, y=115.00, z=-3282.28], To: KrampusHenchmanEntity['Krampus Henchman'/8374, l='ServerLevel[world]', x=-1220.11, y=115.00, z=-3282.49] [28.149376]
+[07Jul2025 06:08:30.074] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[07Jul2025 06:08:49.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7313, l='ServerLevel[world]', x=-1310.60, y=137.94, z=-3309.40] died, message: 'Unemployed was slain by Zombie Bruiser'
+[07Jul2025 06:09:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Icy Crown]

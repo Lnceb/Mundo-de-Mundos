@@ -2708,3 +2708,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Jul2025 05:47:12.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Lance: The difficulty has been set to Hard]
 [07Jul2025 05:47:55.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Who's the Pillager Now?]
 [07Jul2025 05:53:18.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Cover Me In Emeralds]
+[07Jul2025 06:03:34.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [A Freezing Place]
+[07Jul2025 06:04:08.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [The Coldest Golem]
+[07Jul2025 06:04:33.158] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[07Jul2025 06:05:57.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [I'm not sugar coating it]
+[07Jul2025 06:06:59.266] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 06:06:59.266] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 06:06:59.267] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 06:08:49.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7313, l='ServerLevel[world]', x=-1310.60, y=137.94, z=-3309.40] died, message: 'Unemployed was slain by Zombie Bruiser'
+[07Jul2025 06:09:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Icy Crown]
