@@ -11564,75 +11564,9 @@
     },
     "done": false
   },
-  "legendary_monsters:locate_frostbitten_temple": {
-    "criteria": {
-      "frostbitten_temple": "2025-07-07 06:03:34 +0000"
-    },
-    "done": true
-  },
-  "skyarena:difficulty_level_1": {
-    "criteria": {
-      "difficulty_level_1": "2025-07-07 06:19:45 +0000"
-    },
-    "done": true
-  },
-  "skyarena:difficulty_level_5": {
-    "criteria": {
-      "difficulty_level_5": "2025-07-07 06:32:55 +0000"
-    },
-    "done": true
-  },
   "takesapillage:pillager_camp": {
     "criteria": {
       "in_pillager_camp": "2025-07-07 05:46:36 +0000"
-    },
-    "done": true
-  },
-  "skyarena:ice_arena": {
-    "criteria": {
-      "common": "2025-07-07 06:09:00 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/corrupted_eye": {
-    "criteria": {
-      "corrupted_eye": "2025-07-07 05:53:18 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:guidetothenextworld": {
-    "criteria": {
-      "guidetothenextworld_0": "2025-07-07 06:28:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-07 06:17:49 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_brainiac": {
-    "criteria": {
-      "killed": "2025-07-07 06:34:01 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/misc/tankard": {
-    "criteria": {
-      "has_nugget": "2025-07-07 06:00:33 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_bluff": {
-    "criteria": {
-      "bluff": "2025-07-07 06:35:47 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/vinemaker_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-07 05:52:03 +0000"
     },
     "done": true
   },
@@ -11642,21 +11576,9 @@
     },
     "done": true
   },
-  "skyarena:use_altar_battle": {
+  "vinery:recipes/vinemaker_leggings": {
     "criteria": {
-      "use_altar_battle": "2025-07-07 06:09:33 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2025-07-07 06:05:57 +0000"
-    },
-    "done": true
-  },
-  "legendary_monsters:defeat_frostbitten_golem": {
-    "criteria": {
-      "frostbitten_golem": "2025-07-07 06:04:08 +0000"
+      "has_gold_ingot": "2025-07-07 05:52:03 +0000"
     },
     "done": true
   },
@@ -11669,6 +11591,132 @@
   "mynethersdelight:recipes/misc/crafting/golden_egg": {
     "criteria": {
       "has_gold_ingot": "2025-07-07 05:52:03 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-07-07 05:53:18 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/misc/tankard": {
+    "criteria": {
+      "has_nugget": "2025-07-07 06:00:33 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_frostbitten_temple": {
+    "criteria": {
+      "frostbitten_temple": "2025-07-07 06:03:34 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_frostbitten_golem": {
+    "criteria": {
+      "frostbitten_golem": "2025-07-07 06:04:08 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-07-07 06:05:57 +0000"
+    },
+    "done": true
+  },
+  "skyarena:ice_arena": {
+    "criteria": {
+      "common": "2025-07-07 06:09:00 +0000"
+    },
+    "done": true
+  },
+  "skyarena:use_altar_battle": {
+    "criteria": {
+      "use_altar_battle": "2025-07-07 06:09:33 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-07 06:17:49 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_1": {
+    "criteria": {
+      "difficulty_level_1": "2025-07-07 06:19:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-07-07 06:28:00 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_5": {
+    "criteria": {
+      "difficulty_level_5": "2025-07-07 06:32:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-07-07 06:34:01 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-07-07 06:35:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-07-07 06:39:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-07-07 06:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-07-07 06:39:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/wither/wither_bone_block": {
+    "criteria": {
+      "has_item": "2025-07-07 06:39:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/bone_cortical": {
+    "criteria": {
+      "has_item": "2025-07-07 06:39:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/bone_blocks/stacked_bones": {
+    "criteria": {
+      "has_item": "2025-07-07 06:39:42 +0000"
+    },
+    "done": true
+  },
+  "netherexp:recipes/misc/rift_armor_trim_smithing_template": {
+    "criteria": {
+      "has_coast_armor_trim_smithing_template": "2025-07-07 06:40:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-07 06:40:28 +0000"
     },
     "done": true
   },
