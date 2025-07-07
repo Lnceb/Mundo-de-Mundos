@@ -2759,3 +2759,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Jul2025 21:30:57.164] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2893ms or 57 ticks behind
 [07Jul2025 21:30:57.924] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
 [07Jul2025 21:30:57.924] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
+[07Jul2025 21:44:53.011] [Worker-Main-39/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-146, y=-11, z=-1035}
+[07Jul2025 21:44:53.013] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 21:44:53.014] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 21:44:53.014] [Worker-Main-39/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[07Jul2025 21:45:37.078] [Worker-Main-24/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=49, y=25, z=-943}
+[07Jul2025 21:46:20.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance moved too quickly! 0.5960696957492644,-9.917723166325828,1.590593728909198
+[07Jul2025 21:46:50.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
+[07Jul2025 21:46:50.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
