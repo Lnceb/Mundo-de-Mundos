@@ -2717,3 +2717,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Jul2025 06:06:59.267] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [07Jul2025 06:08:49.650] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7313, l='ServerLevel[world]', x=-1310.60, y=137.94, z=-3309.40] died, message: 'Unemployed was slain by Zombie Bruiser'
 [07Jul2025 06:09:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Icy Crown]
+[07Jul2025 06:09:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Dangerous Acquaintance]
+[07Jul2025 06:17:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [They Have a Cave Troll!]

@@ -36,6 +36,7 @@
       "minecraft:stony_shore": "2025-06-12 16:05:35 +0000",
       "minecraft:snowy_plains": "2025-07-06 07:42:29 +0000",
       "minecraft:dripstone_caves": "2025-06-12 21:23:00 +0000",
+      "minecraft:snowy_taiga": "2025-07-07 06:09:31 +0000",
       "minecraft:swamp": "2025-07-06 07:26:14 +0000",
       "minecraft:grove": "2025-07-07 05:58:47 +0000",
       "minecraft:jagged_peaks": "2025-06-12 16:07:03 +0000",
@@ -11572,6 +11573,12 @@
     },
     "done": true
   },
+  "skyarena:ice_arena": {
+    "criteria": {
+      "common": "2025-07-07 06:09:00 +0000"
+    },
+    "done": true
+  },
   "endrem:main/corrupted_eye": {
     "criteria": {
       "corrupted_eye": "2025-07-07 05:53:18 +0000"
@@ -11593,6 +11600,12 @@
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-07-07 05:47:55 +0000"
+    },
+    "done": true
+  },
+  "skyarena:use_altar_battle": {
+    "criteria": {
+      "use_altar_battle": "2025-07-07 06:09:33 +0000"
     },
     "done": true
   },
