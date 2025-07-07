@@ -2719,3 +2719,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [07Jul2025 06:09:00.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Icy Crown]
 [07Jul2025 06:09:33.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Dangerous Acquaintance]
 [07Jul2025 06:17:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [They Have a Cave Troll!]
+[07Jul2025 06:19:45.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Taste of Victory]
+[07Jul2025 06:28:00.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [The day of the Dead]
+[07Jul2025 06:32:55.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Not My First Rodeo]
+[07Jul2025 06:34:01.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Brains and Brawn]
+[07Jul2025 06:35:30.176] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/7522, l='ServerLevel[world]', x=-1262.52, y=116.00, z=-3317.32] died, message: 'Unemployed was slain by Zombie Clown'
+[07Jul2025 06:35:47.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Called Your Bluff]
+[07Jul2025 06:37:20.265] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/26248, l='ServerLevel[world]', x=-787.49, y=200.00, z=-2054.82] died, message: 'Fisherman was slain by Zombie Clown'
