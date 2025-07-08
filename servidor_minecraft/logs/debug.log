@@ -14444,3 +14444,42 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [08Jul2025 06:24:46.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
 [08Jul2025 06:24:46.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-799.35, y=69.00, z=-1807.64], To: Zombie['Zombie'/5843, l='ServerLevel[world]', x=-799.82, y=68.00, z=-1808.50] [19.476171]
 [08Jul2025 06:24:46.650] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[08Jul2025 06:26:06.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=77, z=-1817} BlockPos{x=-803, y=79, z=-1814}
+[08Jul2025 06:26:23.475] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[08Jul2025 06:26:23.476] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-805.23, y=67.00, z=-1811.60], To: Creeper['Creeper'/5960, l='ServerLevel[world]', x=-806.38, y=67.00, z=-1815.31] [18.875]
+[08Jul2025 06:26:23.476] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[08Jul2025 06:26:36.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 06:26:36.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 06:31:19.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[08Jul2025 06:31:19.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-763.23, y=70.00, z=-1834.74], To: EntityGrizzlyBear['Grizzly Bear'/270, l='ServerLevel[world]', x=-763.56, y=70.00, z=-1835.77] [53.5]
+[08Jul2025 06:31:19.296] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5
+[08Jul2025 06:31:20.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[08Jul2025 06:31:20.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-760.96, y=68.60, z=-1833.87], To: EntityGrizzlyBear['Grizzly Bear'/270, l='ServerLevel[world]', x=-762.55, y=69.23, z=-1833.85] [52.0]
+[08Jul2025 06:31:20.045] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5
+[08Jul2025 06:31:36.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 06:31:36.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 06:31:56.664] [Worker-Main-1/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 06:31:56.664] [Worker-Main-1/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 06:31:56.664] [Worker-Main-1/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mss-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 06:31:56.664] [Worker-Main-1/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 06:31:56.665] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 06:31:56.665] [Worker-Main-1/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[08Jul2025 06:31:56.665] [Worker-Main-1/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[08Jul2025 06:31:56.666] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 06:31:56.666] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 06:31:56.666] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 06:31:56.666] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 06:31:56.666] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 06:31:56.666] [Worker-Main-1/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[08Jul2025 06:31:57.864] [Worker-Main-2/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[08Jul2025 06:31:57.877] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 06:31:57.878] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 06:31:57.879] [Worker-Main-2/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 06:31:57.879] [Worker-Main-2/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[08Jul2025 06:31:57.884] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Jul2025 06:31:57.884] [Worker-Main-2/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[08Jul2025 06:31:59.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jul2025 06:31:59.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jul2025 06:31:59.107] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jul2025 06:32:31.239] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-425, y=-9, z=-1410} at Chest with:minecraft:chests/simple_dungeon
+[08Jul2025 06:33:18.248] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-305, y=-35, z=-1507} at Barrel with:graveyard:chests/great_crypt_loot

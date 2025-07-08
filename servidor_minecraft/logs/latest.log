@@ -2565,3 +2565,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [08Jul2025 05:57:14.263] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
 [08Jul2025 06:01:48.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/149, l='ServerLevel[world]', x=-704.70, y=169.00, z=-2028.70] died, message: 'Unemployed was slain by Sucker'
 [08Jul2025 06:24:33.120] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-808, y=68, z=-1816} BlockPos{x=-805, y=69, z=-1808}
+[08Jul2025 06:26:06.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-796, y=77, z=-1817} BlockPos{x=-803, y=79, z=-1814}
+[08Jul2025 06:31:59.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jul2025 06:31:59.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jul2025 06:31:59.107] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
