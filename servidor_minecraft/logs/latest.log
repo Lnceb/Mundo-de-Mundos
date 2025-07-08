@@ -2569,3 +2569,6 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [08Jul2025 06:31:59.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [08Jul2025 06:31:59.106] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [08Jul2025 06:31:59.107] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[08Jul2025 06:44:47.390] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[08Jul2025 06:45:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Yo mama so fat, she digests her kids]
+[08Jul2025 06:46:24.840] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/14562, l='ServerLevel[world]', x=-794.50, y=72.00, z=-613.50]
