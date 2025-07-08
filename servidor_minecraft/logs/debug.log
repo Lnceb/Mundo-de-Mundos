@@ -14417,3 +14417,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [08Jul2025 06:01:36.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 06:01:36.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Jul2025 06:01:48.971] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/149, l='ServerLevel[world]', x=-704.70, y=169.00, z=-2028.70] died, message: 'Unemployed was slain by Sucker'
+[08Jul2025 06:06:36.920] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 06:06:36.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 06:11:36.854] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 06:11:36.884] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 06:13:16.958] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[08Jul2025 06:13:16.958] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-777.61, y=208.00, z=-1971.53], To: TheMoonflowerEntity['The Moonflower'/3204, l='ServerLevel[world]', x=-777.96, y=208.00, z=-1970.91] [20.25]
+[08Jul2025 06:13:16.958] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[08Jul2025 06:13:18.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[08Jul2025 06:13:18.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-774.97, y=208.00, z=-1972.70], To: TheMoonflowerEntity['The Moonflower'/3205, l='ServerLevel[world]', x=-775.87, y=208.00, z=-1973.04] [19.25]
+[08Jul2025 06:13:18.257] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
