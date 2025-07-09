@@ -2649,3 +2649,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jul2025 04:11:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Rude Awakening]
 [09Jul2025 04:32:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Palette Swap]
 [09Jul2025 04:33:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Not for the Faint of Heart]
+[09Jul2025 04:49:55.953] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/24062, l='ServerLevel[world]', x=-743.12, y=193.50, z=-2091.23] died, message: 'Farmer hit the ground too hard'

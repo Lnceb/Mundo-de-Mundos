@@ -12412,6 +12412,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-09 04:05:52 +0000"
@@ -12427,6 +12433,12 @@
   "mynethersdelight:recipes/cooking/rock_soup": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-09 04:49:15 +0000"
     },
     "done": true
   },
@@ -12466,9 +12478,39 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-09 04:20:04 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-09 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
     },
     "done": true
   },
@@ -12478,9 +12520,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/magma_cake": {
     "criteria": {
       "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
     },
     "done": true
   },
@@ -12490,9 +12544,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-09 04:12:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
     },
     "done": true
   },
@@ -12505,6 +12577,12 @@
   "skyarena:difficulty_level_10": {
     "criteria": {
       "difficulty_level_10": "2025-07-09 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
     },
     "done": true
   },
