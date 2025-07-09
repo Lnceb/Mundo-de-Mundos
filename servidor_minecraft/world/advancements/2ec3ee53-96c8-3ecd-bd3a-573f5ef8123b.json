@@ -10635,6 +10635,7 @@
       "maze_wafer": "2025-07-05 06:42:50 +0000",
       "hydra_chop": "2025-07-06 04:28:08 +0000",
       "cooked_meef": "2025-07-05 07:20:36 +0000",
+      "torchberries": "2025-07-09 05:19:12 +0000",
       "experiment_115": "2025-07-06 06:59:52 +0000"
     },
     "done": false
@@ -12454,6 +12455,12 @@
     },
     "done": true
   },
+  "brewinandchewin:recipes/fermenting/kimchi": {
+    "criteria": {
+      "has_kelp": "2025-07-09 05:16:22 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/baked_cave_carrot": {
     "criteria": {
       "has_cave_carrot": "2025-07-09 05:04:43 +0000"
@@ -12616,6 +12623,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-09 05:10:51 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/detached_drawer": {
     "criteria": {
       "has_chest": "2025-07-09 05:09:41 +0000"
@@ -12625,6 +12638,12 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-09 05:10:51 +0000"
     },
     "done": true
   },
