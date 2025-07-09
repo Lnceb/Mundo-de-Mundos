@@ -12418,9 +12418,21 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_hamburger": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-09 04:05:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 05:00:42 +0000"
     },
     "done": true
   },
@@ -12439,6 +12451,18 @@
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/baked_cave_carrot": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
     },
     "done": true
   },
@@ -12478,9 +12502,27 @@
     },
     "done": true
   },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/diamond_hippogryph_armor": {
     "criteria": {
       "has_item": "2025-07-09 04:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-09 05:05:30 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
     },
     "done": true
   },
@@ -12496,9 +12538,21 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/mining_bench": {
     "criteria": {
       "has_iron_pickaxe": "2025-07-09 04:49:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-07-09 04:50:57 +0000"
     },
     "done": true
   },
@@ -12514,6 +12568,12 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot_campfire": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
   "cataclysm:kill_ender_golem": {
     "criteria": {
       "endergolem": "2025-07-09 04:32:55 +0000"
@@ -12523,6 +12583,12 @@
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
     },
     "done": true
   },
@@ -12538,9 +12604,21 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/vegan_wrap": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
     },
     "done": true
   },
@@ -12556,9 +12634,27 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/baked_cave_carrot_smoking": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/pasta_with_veggieballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
     },
     "done": true
   },
@@ -12574,6 +12670,12 @@
     },
     "done": true
   },
+  "rusticdelight:recipes/cooking/batter": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 04:56:34 +0000"
+    },
+    "done": true
+  },
   "skyarena:difficulty_level_10": {
     "criteria": {
       "difficulty_level_10": "2025-07-09 04:33:28 +0000"
@@ -12586,9 +12688,21 @@
     },
     "done": true
   },
+  "miners_delight:recipes/food/improvised_barbecue_stick": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/burn_roll": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/vegan_steak_and_potatoes": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
     },
     "done": true
   },
