@@ -2647,3 +2647,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jul2025 04:03:22.841] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4149ms or 82 ticks behind
 [09Jul2025 04:05:52.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Quaint Scribe]
 [09Jul2025 04:11:51.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Rude Awakening]
+[09Jul2025 04:32:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Palette Swap]
+[09Jul2025 04:33:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Not for the Faint of Heart]

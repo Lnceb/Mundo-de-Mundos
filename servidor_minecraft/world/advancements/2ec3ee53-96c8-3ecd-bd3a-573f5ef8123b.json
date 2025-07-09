@@ -1417,7 +1417,9 @@
       "minecraft:pillager": "2025-06-11 21:48:13 +0000",
       "minecraft:blaze": "2025-07-06 04:59:58 +0000",
       "minecraft:skeleton": "2025-06-09 23:20:12 +0000",
+      "minecraft:zoglin": "2025-07-09 04:24:03 +0000",
       "minecraft:hoglin": "2025-07-07 23:53:09 +0000",
+      "savage_and_ravage:executioner": "2025-07-09 04:26:46 +0000",
       "minecraft:vindicator": "2025-06-11 21:52:15 +0000",
       "minecraft:magma_cube": "2025-06-12 21:35:21 +0000",
       "minecraft:spider": "2025-06-11 17:43:51 +0000",
@@ -1425,6 +1427,7 @@
       "minecraft:evoker": "2025-06-11 22:27:28 +0000",
       "minecraft:slime": "2025-07-07 06:20:56 +0000",
       "minecraft:phantom": "2025-07-08 00:21:28 +0000",
+      "minecraft:zombified_piglin": "2025-07-09 04:23:27 +0000",
       "minecraft:witch": "2025-06-12 22:09:26 +0000",
       "minecraft:wither_skeleton": "2025-06-16 23:01:37 +0000",
       "minecraft:husk": "2025-06-11 06:22:09 +0000",
@@ -12414,6 +12417,24 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-09 04:05:52 +0000"
@@ -12432,6 +12453,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-09 03:55:18 +0000"
@@ -12444,6 +12471,18 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-07-09 04:12:17 +0000"
@@ -12453,6 +12492,12 @@
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-07-09 04:11:51 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 04:26:03 +0000"
     },
     "done": true
   },
