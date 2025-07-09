@@ -2661,3 +2661,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jul2025 05:27:25.836] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
 [09Jul2025 05:27:46.663] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
 [09Jul2025 05:27:47.163] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/resources/language/I18n for invalid dist DEDICATED_SERVER
+[09Jul2025 05:45:50.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Arghh, Where be Me Ship?]

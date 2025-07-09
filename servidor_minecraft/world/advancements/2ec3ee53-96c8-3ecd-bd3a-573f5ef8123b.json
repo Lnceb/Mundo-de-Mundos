@@ -12420,6 +12420,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_hamburger": {
     "criteria": {
       "has_cave_carrot": "2025-07-09 05:04:43 +0000"
@@ -12441,6 +12447,12 @@
   "mynethersdelight:recipes/misc/crafting/rock_soup": {
     "criteria": {
       "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/decorations/heating_cask": {
+    "criteria": {
+      "has_powder": "2025-07-09 05:34:43 +0000"
     },
     "done": true
   },
@@ -12492,6 +12504,12 @@
     },
     "done": true
   },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-07-09 05:45:50 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/root": {
     "criteria": {
       "inscription_table": "2025-07-09 04:05:52 +0000"
@@ -12513,6 +12531,12 @@
   "betterdeserttemples:root": {
     "criteria": {
       "always": "2025-07-09 03:55:18 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 05:42:12 +0000"
     },
     "done": true
   },
@@ -12543,6 +12567,12 @@
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 05:45:02 +0000"
     },
     "done": true
   },
@@ -12582,6 +12612,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/scarlet_cheese_from_milk": {
+    "criteria": {
+      "has_nether_wart": "2025-07-09 05:48:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-07-09 04:49:15 +0000"
@@ -12612,6 +12654,18 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-09 05:40:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/magma_cake": {
     "criteria": {
       "has_magma_cream": "2025-07-09 04:26:03 +0000"
@@ -12627,6 +12681,12 @@
   "miners_delight:recipes/food/vegan_wrap": {
     "criteria": {
       "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
     },
     "done": true
   },
@@ -12696,6 +12756,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-09 05:35:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-07-09 04:49:15 +0000"
@@ -12708,9 +12774,21 @@
     },
     "done": true
   },
+  "farmersrespite:recipes/food/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2025-07-09 05:48:23 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/strider_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 05:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-09 05:45:02 +0000"
     },
     "done": true
   },
