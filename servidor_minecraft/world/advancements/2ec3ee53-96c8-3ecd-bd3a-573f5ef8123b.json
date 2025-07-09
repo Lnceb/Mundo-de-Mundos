@@ -12426,6 +12426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-09 05:52:46 +0000"
+    },
+    "done": true
+  },
   "miners_delight:recipes/food/vegan_hamburger": {
     "criteria": {
       "has_cave_carrot": "2025-07-09 05:04:43 +0000"
@@ -12534,9 +12540,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-09 05:53:34 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/cooking/crimson_stroganoff": {
     "criteria": {
       "has_any_ingredient": "2025-07-09 05:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 05:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 05:52:46 +0000"
     },
     "done": true
   },
