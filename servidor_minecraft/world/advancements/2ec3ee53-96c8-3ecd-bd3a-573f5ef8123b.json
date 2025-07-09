@@ -1418,6 +1418,7 @@
       "minecraft:blaze": "2025-07-06 04:59:58 +0000",
       "minecraft:skeleton": "2025-06-09 23:20:12 +0000",
       "minecraft:zoglin": "2025-07-09 04:24:03 +0000",
+      "minecraft:ravager": "2025-07-09 04:38:30 +0000",
       "minecraft:hoglin": "2025-07-07 23:53:09 +0000",
       "savage_and_ravage:executioner": "2025-07-09 04:26:46 +0000",
       "minecraft:vindicator": "2025-06-11 21:52:15 +0000",
@@ -12471,6 +12472,12 @@
     },
     "done": true
   },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-09 04:32:55 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/misc/crafting/magma_cake": {
     "criteria": {
       "has_magma_cream": "2025-07-09 04:26:03 +0000"
@@ -12492,6 +12499,12 @@
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-07-09 04:11:51 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_10": {
+    "criteria": {
+      "difficulty_level_10": "2025-07-09 04:33:28 +0000"
     },
     "done": true
   },

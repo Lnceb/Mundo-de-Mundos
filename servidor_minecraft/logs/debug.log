@@ -14961,3 +14961,359 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jul2025 04:32:52.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
 [09Jul2025 04:32:55.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Palette Swap]
 [09Jul2025 04:33:28.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Not for the Faint of Heart]
+[09Jul2025 04:34:13.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:13.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1166.95, y=161.00, z=-3258.72], To: Husk['Husk'/19380, l='ServerLevel[world]', x=-1166.53, y=161.00, z=-3257.48] [18.575]
+[09Jul2025 04:34:13.545] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5
+[09Jul2025 04:34:15.624] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:15.625] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1167.36, y=161.00, z=-3260.01], To: MaggotEntity['Corpse Maggot'/19460, l='ServerLevel[world]', x=-1167.02, y=161.00, z=-3259.28] [5.8125]
+[09Jul2025 04:34:15.625] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:34:23.566] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:23.566] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1175.50, y=161.12, z=-3269.21], To: Coral_Golem_Entity['Coral Golem'/19374, l='ServerLevel[world]', x=-1172.01, y=161.00, z=-3268.76] [0.2999344]
+[09Jul2025 04:34:23.566] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.25
+[09Jul2025 04:34:26.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:26.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1178.29, y=162.25, z=-3273.93], To: Coral_Golem_Entity['Coral Golem'/19374, l='ServerLevel[world]', x=-1181.60, y=161.00, z=-3273.41] [0.0]
+[09Jul2025 04:34:26.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.4375
+[09Jul2025 04:34:30.683] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:30.683] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1178.76, y=161.80, z=-3275.31], To: MotherSpiderEntity['Spiders Mother'/19378, l='ServerLevel[world]', x=-1177.25, y=161.00, z=-3274.94] [88.875]
+[09Jul2025 04:34:30.683] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:34:34.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:34.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1188.21, y=161.12, z=-3274.88], To: MotherSpiderEntity['Spiders Mother'/19378, l='ServerLevel[world]', x=-1186.97, y=161.00, z=-3276.27] [60.6838]
+[09Jul2025 04:34:34.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:34:35.968] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:35.968] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1190.52, y=162.02, z=-3271.12], To: MotherSpiderEntity['Spiders Mother'/19378, l='ServerLevel[world]', x=-1189.00, y=161.00, z=-3271.34] [59.783802]
+[09Jul2025 04:34:35.968] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:34:38.015] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:38.015] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1194.05, y=161.00, z=-3269.92], To: MotherSpiderEntity['Spiders Mother'/19378, l='ServerLevel[world]', x=-1193.28, y=161.00, z=-3268.29] [11.893196]
+[09Jul2025 04:34:38.015] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:34:39.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:39.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1196.13, y=161.80, z=-3273.43], To: MotherSpiderEntity['Spiders Mother'/19377, l='ServerLevel[world]', x=-1194.58, y=161.00, z=-3272.92] [38.927986]
+[09Jul2025 04:34:39.365] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:34:40.521] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:40.521] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1198.35, y=162.18, z=-3276.07], To: MotherSpiderEntity['Spiders Mother'/19377, l='ServerLevel[world]', x=-1197.54, y=161.00, z=-3275.08] [11.015781]
+[09Jul2025 04:34:40.521] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:34:43.169] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:43.169] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1198.70, y=161.00, z=-3281.69], To: BabySpiderEntity['Baby Spider'/19779, l='ServerLevel[world]', x=-1198.47, y=161.00, z=-3280.76] [9.625]
+[09Jul2025 04:34:43.169] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:34:44.029] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:44.030] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1198.16, y=161.00, z=-3283.77], To: BabySpiderEntity['Baby Spider'/19746, l='ServerLevel[world]', x=-1198.31, y=161.00, z=-3282.79] [1.3414822]
+[09Jul2025 04:34:44.030] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:34:45.173] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:45.173] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1196.85, y=161.80, z=-3286.90], To: BabySpiderEntity['Baby Spider'/19780, l='ServerLevel[world]', x=-1196.51, y=161.00, z=-3286.65] [9.625]
+[09Jul2025 04:34:45.173] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:34:48.274] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:34:48.274] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1194.65, y=161.00, z=-3294.69], To: BabySpiderEntity['Baby Spider'/19877, l='ServerLevel[world]', x=-1195.10, y=161.00, z=-3293.98] [9.625]
+[09Jul2025 04:34:48.274] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:35:07.659] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:07.659] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1163.31, y=161.00, z=-3260.91], To: MaggotEntity['Corpse Maggot'/19460, l='ServerLevel[world]', x=-1162.60, y=161.00, z=-3260.60] [5.625]
+[09Jul2025 04:35:07.659] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:35:09.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 04:35:09.861] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 04:35:12.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:12.259] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1159.83, y=162.25, z=-3240.36], To: Deepling_Priest_Entity['Deepling Priest'/19379, l='ServerLevel[world]', x=-1166.51, y=161.00, z=-3242.13] [43.95]
+[09Jul2025 04:35:12.259] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[09Jul2025 04:35:13.633] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:13.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.12, y=161.42, z=-3240.18], To: Deepling_Brute_Entity['Deepling Brute'/19371, l='ServerLevel[world]', x=-1160.09, y=161.00, z=-3238.05] [58.654686]
+[09Jul2025 04:35:13.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:35:16.078] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:16.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.34, y=161.00, z=-3248.88], To: Deepling_Brute_Entity['Deepling Brute'/19371, l='ServerLevel[world]', x=-1156.54, y=161.00, z=-3241.81] [57.309372]
+[09Jul2025 04:35:16.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:35:19.509] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:19.509] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1149.92, y=161.75, z=-3253.55], To: Coral_Golem_Entity['Coral Golem'/19372, l='ServerLevel[world]', x=-1153.77, y=161.00, z=-3252.27] [13.714024]
+[09Jul2025 04:35:19.509] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.25
+[09Jul2025 04:35:22.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:22.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1152.79, y=161.00, z=-3256.75], To: Deepling_Priest_Entity['Deepling Priest'/19379, l='ServerLevel[world]', x=-1149.26, y=161.00, z=-3255.66] [42.9]
+[09Jul2025 04:35:22.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[09Jul2025 04:35:23.422] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:23.422] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1154.54, y=161.22, z=-3257.87], To: Deepling_Priest_Entity['Deepling Priest'/19379, l='ServerLevel[world]', x=-1149.62, y=161.00, z=-3255.49] [41.850002]
+[09Jul2025 04:35:23.422] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[09Jul2025 04:35:23.923] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:23.924] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.15, y=162.25, z=-3259.10], To: Deepling_Priest_Entity['Deepling Priest'/19379, l='ServerLevel[world]', x=-1150.52, y=161.00, z=-3255.91] [40.800003]
+[09Jul2025 04:35:23.924] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[09Jul2025 04:35:26.607] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:26.607] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.75, y=161.00, z=-3261.24], To: Deepling_Priest_Entity['Deepling Priest'/19379, l='ServerLevel[world]', x=-1155.29, y=161.48, z=-3259.89] [16.827]
+[09Jul2025 04:35:26.607] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5
+[09Jul2025 04:35:50.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:35:50.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1177.70, y=161.00, z=-3243.62], To: Deepling_Brute_Entity['Deepling Brute'/19369, l='ServerLevel[world]', x=-1176.61, y=161.00, z=-3243.60] [26.01098]
+[09Jul2025 04:35:50.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.625
+[09Jul2025 04:36:02.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:02.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1140.95, y=161.42, z=-3286.18], To: Coral_Golem_Entity['Coral Golem'/19373, l='ServerLevel[world]', x=-1145.25, y=161.00, z=-3286.15] [58.25095]
+[09Jul2025 04:36:02.812] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.25
+[09Jul2025 04:36:06.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:06.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.26, y=161.00, z=-3279.56], To: Coral_Golem_Entity['Coral Golem'/19373, l='ServerLevel[world]', x=-1138.48, y=161.00, z=-3282.72] [55.378372]
+[09Jul2025 04:36:06.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0625
+[09Jul2025 04:36:07.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:07.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1129.24, y=161.19, z=-3274.71], To: ZombieClownEntity['Zombie Clown'/20052, l='ServerLevel[world]', x=-1129.77, y=161.00, z=-3274.24] [23.521172]
+[09Jul2025 04:36:07.814] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[09Jul2025 04:36:14.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:14.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1132.18, y=162.02, z=-3267.95], To: Coral_Golem_Entity['Coral Golem'/19373, l='ServerLevel[world]', x=-1131.62, y=161.00, z=-3266.76] [49.643295]
+[09Jul2025 04:36:14.708] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.0625
+[09Jul2025 04:36:18.069] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:18.070] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1142.09, y=161.00, z=-3276.52], To: Amethyst_Crab_Entity['Amethyst Crab'/19375, l='ServerLevel[world]', x=-1130.79, y=161.00, z=-3274.40] [192.54875]
+[09Jul2025 04:36:18.070] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.25
+[09Jul2025 04:36:33.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:33.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1145.58, y=162.25, z=-3270.52], To: Amethyst_Crab_Entity['Amethyst Crab'/19375, l='ServerLevel[world]', x=-1141.64, y=161.00, z=-3268.54] [86.1459]
+[09Jul2025 04:36:33.557] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.046875
+[09Jul2025 04:36:57.154] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:36:57.155] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1173.33, y=161.50, z=-3303.74], To: Deepling_Brute_Entity['Deepling Brute'/19370, l='ServerLevel[world]', x=-1175.51, y=161.00, z=-3304.28] [37.56127]
+[09Jul2025 04:36:57.155] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.625
+[09Jul2025 04:37:18.518] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:18.518] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1152.74, y=161.00, z=-3284.65], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1152.71, y=161.00, z=-3286.17] [84.11605]
+[09Jul2025 04:37:18.518] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:20.227] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:20.227] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1152.70, y=161.40, z=-3278.12], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1152.45, y=161.00, z=-3279.49] [99.440544]
+[09Jul2025 04:37:20.227] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:22.272] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:22.272] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.36, y=161.00, z=-3272.74], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1153.86, y=161.00, z=-3273.12] [65.34367]
+[09Jul2025 04:37:22.272] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:24.366] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:24.366] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1160.59, y=161.80, z=-3268.24], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1159.60, y=161.00, z=-3268.67] [99.440544]
+[09Jul2025 04:37:24.366] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:25.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:25.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1165.44, y=162.03, z=-3264.62], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1164.35, y=161.00, z=-3264.81] [64.37381]
+[09Jul2025 04:37:25.974] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:37:26.267] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:26.267] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1165.12, y=161.00, z=-3264.17], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1163.92, y=161.00, z=-3265.07] [35.1279]
+[09Jul2025 04:37:26.267] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:30.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:30.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1174.66, y=161.00, z=-3265.34], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1175.50, y=161.00, z=-3265.61] [58.077187]
+[09Jul2025 04:37:30.211] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.625
+[09Jul2025 04:37:30.716] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:30.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1173.49, y=161.97, z=-3265.03], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1174.54, y=161.00, z=-3264.34] [39.51968]
+[09Jul2025 04:37:30.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:30.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:30.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1173.33, y=161.35, z=-3265.06], To: Ravager['Ravager'/21570, l='ServerLevel[world]', x=-1172.46, y=161.00, z=-3261.47] [99.0625]
+[09Jul2025 04:37:30.817] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:37:39.515] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:39.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.32, y=162.25, z=-3275.74], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1181.67, y=161.00, z=-3275.05] [69.96023]
+[09Jul2025 04:37:39.516] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:40.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:40.714] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.39, y=161.50, z=-3274.95], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1182.59, y=161.00, z=-3276.05] [79.40077]
+[09Jul2025 04:37:40.714] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:40.977] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:40.977] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.47, y=161.50, z=-3274.89], To: Ravager['Ravager'/21570, l='ServerLevel[world]', x=-1178.88, y=161.00, z=-3274.92] [79.0625]
+[09Jul2025 04:37:40.977] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:37:41.618] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:41.618] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.76, y=161.50, z=-3275.01], To: MotherSpiderEntity['Spiders Mother'/21569, l='ServerLevel[world]', x=-1181.76, y=161.00, z=-3273.55] [74.69999]
+[09Jul2025 04:37:41.618] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:37:41.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:41.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.80, y=161.50, z=-3275.04], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1182.41, y=161.00, z=-3273.80] [76.29569]
+[09Jul2025 04:37:41.721] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:37:42.424] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:42.425] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.97, y=161.50, z=-3275.34], To: Ravager['Ravager'/21570, l='ServerLevel[world]', x=-1180.27, y=161.00, z=-3274.92] [66.75]
+[09Jul2025 04:37:42.425] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.25
+[09Jul2025 04:37:42.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:42.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1183.02, y=161.50, z=-3275.54], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1181.68, y=161.00, z=-3274.98] [86.751595]
+[09Jul2025 04:37:42.963] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:43.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:43.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1183.14, y=161.50, z=-3275.72], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1182.15, y=161.00, z=-3274.58] [14.684499]
+[09Jul2025 04:37:43.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:37:47.172] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:47.172] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1186.89, y=161.00, z=-3288.45], To: BabySpiderEntity['Baby Spider'/21845, l='ServerLevel[world]', x=-1187.27, y=161.00, z=-3287.70] [9.8125]
+[09Jul2025 04:37:47.172] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:37:55.161] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:55.161] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.69, y=161.00, z=-3295.44], To: BabySpiderEntity['Baby Spider'/21844, l='ServerLevel[world]', x=-1157.17, y=161.00, z=-3296.36] [9.8125]
+[09Jul2025 04:37:55.161] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:37:55.315] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:55.315] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.02, y=161.00, z=-3295.21], To: MotherSpiderEntity['Spiders Mother'/21569, l='ServerLevel[world]', x=-1156.70, y=161.00, z=-3297.08] [65.026726]
+[09Jul2025 04:37:55.315] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:37:57.281] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_evoker_loot
+[09Jul2025 04:37:58.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:58.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.14, y=162.17, z=-3285.54], To: BabySpiderEntity['Baby Spider'/21823, l='ServerLevel[world]', x=-1157.38, y=161.42, z=-3285.32] [6.625]
+[09Jul2025 04:37:58.071] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:37:58.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:58.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.15, y=162.17, z=-3285.49], To: BabySpiderEntity['Baby Spider'/21844, l='ServerLevel[world]', x=-1157.38, y=161.42, z=-3285.32] [5.625]
+[09Jul2025 04:37:58.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:37:59.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:59.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.16, y=162.17, z=-3285.47], To: MotherSpiderEntity['Spiders Mother'/21569, l='ServerLevel[world]', x=-1157.19, y=161.00, z=-3284.99] [63.626724]
+[09Jul2025 04:37:59.079] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[09Jul2025 04:37:59.367] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:37:59.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.16, y=162.17, z=-3285.44], To: BabySpiderEntity['Baby Spider'/21845, l='ServerLevel[world]', x=-1157.38, y=161.42, z=-3285.20] [9.4375]
+[09Jul2025 04:37:59.368] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:00.771] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:00.772] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.09, y=162.17, z=-3285.35], To: MotherSpiderEntity['Spiders Mother'/21569, l='ServerLevel[world]', x=-1158.43, y=161.00, z=-3284.89] [62.726723]
+[09Jul2025 04:38:00.772] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:38:01.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:01.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.04, y=162.17, z=-3285.32], To: ScarletPersecutorEntity['Scarlet Persecutor'/21873, l='ServerLevel[world]', x=-1157.42, y=161.46, z=-3285.42] [34.0625]
+[09Jul2025 04:38:01.265] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:01.768] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:01.768] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.99, y=162.17, z=-3285.30], To: ScarletPersecutorEntity['Scarlet Persecutor'/21875, l='ServerLevel[world]', x=-1156.82, y=162.96, z=-3285.08] [34.0625]
+[09Jul2025 04:38:01.768] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:02.619] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:02.619] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.82, y=161.93, z=-3285.67], To: ScarletPersecutorEntity['Scarlet Persecutor'/21874, l='ServerLevel[world]', x=-1157.38, y=162.28, z=-3284.90] [32.0625]
+[09Jul2025 04:38:02.619] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:03.129] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:03.129] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.66, y=161.93, z=-3285.52], To: ScarletPersecutorEntity['Scarlet Persecutor'/21876, l='ServerLevel[world]', x=-1156.61, y=161.95, z=-3286.49] [23.435686]
+[09Jul2025 04:38:03.129] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:03.772] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:03.772] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.44, y=161.93, z=-3285.34], To: ScarletPersecutorEntity['Scarlet Persecutor'/21874, l='ServerLevel[world]', x=-1156.02, y=161.00, z=-3285.23] [31.125]
+[09Jul2025 04:38:03.772] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:04.062] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:04.062] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.33, y=161.93, z=-3285.35], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1157.12, y=161.00, z=-3286.35] [83.509254]
+[09Jul2025 04:38:04.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:04.263] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:04.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.26, y=161.93, z=-3285.35], To: MotherSpiderEntity['Spiders Mother'/21569, l='ServerLevel[world]', x=-1154.70, y=161.00, z=-3284.80] [61.82672]
+[09Jul2025 04:38:04.264] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:38:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.12, y=161.93, z=-3285.07], To: MotherSpiderEntity['Spiders Mother'/21569, l='ServerLevel[world]', x=-1155.93, y=161.00, z=-3285.12] [60.70172]
+[09Jul2025 04:38:05.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[09Jul2025 04:38:05.510] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:05.510] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.00, y=161.93, z=-3284.97], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1156.80, y=161.00, z=-3284.84] [93.43355]
+[09Jul2025 04:38:05.510] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:38:05.863] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:05.863] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.93, y=161.93, z=-3284.85], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1155.57, y=161.00, z=-3284.74] [20.41838]
+[09Jul2025 04:38:05.863] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:06.864] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:06.864] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.85, y=161.93, z=-3284.46], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1155.42, y=161.00, z=-3284.61] [24.862906]
+[09Jul2025 04:38:06.864] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:07.513] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:07.514] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.78, y=161.93, z=-3284.13], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1155.49, y=161.00, z=-3284.47] [99.440544]
+[09Jul2025 04:38:07.514] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:07.813] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:07.813] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.73, y=161.93, z=-3284.01], To: Ravager['Ravager'/21570, l='ServerLevel[world]', x=-1155.21, y=161.00, z=-3285.11] [37.285194]
+[09Jul2025 04:38:07.813] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:08.017] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:08.017] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.76, y=161.93, z=-3283.89], To: Vex['Vex'/22074, l='ServerLevel[world]', x=-1155.94, y=162.65, z=-3284.28] [0.3125]
+[09Jul2025 04:38:08.017] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.6875
+[09Jul2025 04:38:08.613] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:08.613] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1155.96, y=161.93, z=-3283.80], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1155.47, y=161.00, z=-3283.51] [87.186195]
+[09Jul2025 04:38:08.613] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:09.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:09.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.27, y=161.93, z=-3284.09], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1155.47, y=161.00, z=-3283.15] [99.440544]
+[09Jul2025 04:38:09.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:10.466] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:10.466] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.54, y=161.93, z=-3283.95], To: ScarletPersecutorEntity['Scarlet Persecutor'/21876, l='ServerLevel[world]', x=-1156.32, y=161.00, z=-3284.29] [15.373186]
+[09Jul2025 04:38:10.466] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:11.022] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:11.023] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1156.75, y=161.93, z=-3283.85], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1156.36, y=161.00, z=-3284.21] [97.26125]
+[09Jul2025 04:38:11.023] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:12.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:12.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1157.11, y=161.85, z=-3283.71], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1156.59, y=161.00, z=-3282.77] [99.440544]
+[09Jul2025 04:38:12.010] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:20.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:20.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1181.80, y=161.00, z=-3286.24], To: Ravager['Ravager'/21570, l='ServerLevel[world]', x=-1178.26, y=161.00, z=-3287.42] [18.972694]
+[09Jul2025 04:38:20.373] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 2.25
+[09Jul2025 04:38:21.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:21.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1188.76, y=162.10, z=-3279.70], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1173.08, y=161.00, z=-3280.75] [39.731873]
+[09Jul2025 04:38:21.773] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:38:23.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:23.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1192.38, y=161.00, z=-3279.25], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1190.91, y=161.00, z=-3279.07] [99.440544]
+[09Jul2025 04:38:23.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:29.135] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:29.136] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1192.02, y=161.00, z=-3293.80], To: BabySpiderEntity['Baby Spider'/22435, l='ServerLevel[world]', x=-1191.56, y=161.00, z=-3292.94] [9.8125]
+[09Jul2025 04:38:29.136] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.1875
+[09Jul2025 04:38:29.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:29.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1191.64, y=161.00, z=-3294.03], To: BabySpiderEntity['Baby Spider'/22353, l='ServerLevel[world]', x=-1191.82, y=161.00, z=-3294.99] [9.625]
+[09Jul2025 04:38:29.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:30.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:30.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1190.85, y=161.00, z=-3292.11], To: BabySpiderEntity['Baby Spider'/22258, l='ServerLevel[world]', x=-1191.49, y=161.00, z=-3292.88] [9.625]
+[09Jul2025 04:38:30.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:30.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:30.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1190.56, y=161.00, z=-3291.96], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1191.22, y=161.00, z=-3293.03] [99.60742]
+[09Jul2025 04:38:30.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:31.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:31.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1187.73, y=161.00, z=-3290.13], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1188.35, y=161.00, z=-3291.48] [99.440544]
+[09Jul2025 04:38:31.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:33.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:33.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1185.01, y=161.00, z=-3283.45], To: BabySpiderEntity['Baby Spider'/22435, l='ServerLevel[world]', x=-1185.41, y=161.00, z=-3284.11] [9.4375]
+[09Jul2025 04:38:33.317] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:34.475] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:34.475] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1182.90, y=161.00, z=-3281.91], To: BabySpiderEntity['Baby Spider'/22436, l='ServerLevel[world]', x=-1183.32, y=161.00, z=-3282.79] [9.625]
+[09Jul2025 04:38:34.475] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:35.478] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:35.478] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1180.97, y=161.00, z=-3280.91], To: BabySpiderEntity['Baby Spider'/22436, l='ServerLevel[world]', x=-1180.77, y=161.00, z=-3281.55] [9.25]
+[09Jul2025 04:38:35.478] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:35.709] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:35.709] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1180.81, y=161.25, z=-3280.60], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1181.81, y=161.00, z=-3281.81] [66.67007]
+[09Jul2025 04:38:35.709] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:36.214] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:36.214] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1180.11, y=161.00, z=-3280.14], To: BabySpiderEntity['Baby Spider'/22493, l='ServerLevel[world]', x=-1180.15, y=161.00, z=-3279.27] [9.625]
+[09Jul2025 04:38:36.214] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:37.842] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:37.842] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1176.17, y=161.00, z=-3283.14], To: BabySpiderEntity['Baby Spider'/22493, l='ServerLevel[world]', x=-1177.16, y=161.00, z=-3282.79] [9.25]
+[09Jul2025 04:38:37.842] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:39.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:39.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1172.29, y=161.00, z=-3284.05], To: Vex['Vex'/22072, l='ServerLevel[world]', x=-1172.63, y=162.62, z=-3283.63] [0.5]
+[09Jul2025 04:38:39.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5
+[09Jul2025 04:38:40.565] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:40.565] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1172.93, y=161.00, z=-3288.42], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1176.22, y=161.00, z=-3284.15] [96.655594]
+[09Jul2025 04:38:40.565] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:38:44.409] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:44.410] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1166.53, y=161.31, z=-3291.69], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1167.03, y=161.00, z=-3292.96] [99.76867]
+[09Jul2025 04:38:44.410] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.5625
+[09Jul2025 04:38:46.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:46.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1161.79, y=161.12, z=-3287.79], To: BabySpiderEntity['Baby Spider'/22492, l='ServerLevel[world]', x=-1162.14, y=161.00, z=-3288.23] [9.625]
+[09Jul2025 04:38:46.166] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:47.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:47.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1159.08, y=161.00, z=-3287.87], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1158.92, y=161.00, z=-3287.85] [18.293274]
+[09Jul2025 04:38:47.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:49.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:49.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1158.70, y=161.00, z=-3291.16], To: LifestealerTrueFormEntity['Lifestealer'/21573, l='ServerLevel[world]', x=-1159.24, y=161.00, z=-3290.01] [22.73382]
+[09Jul2025 04:38:49.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:38:51.565] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:51.565] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1152.69, y=161.00, z=-3296.74], To: BabySpiderEntity['Baby Spider'/22492, l='ServerLevel[world]', x=-1153.63, y=161.00, z=-3296.33] [4.0]
+[09Jul2025 04:38:51.565] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[09Jul2025 04:38:54.163] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:54.163] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1149.18, y=161.00, z=-3298.48], To: ScarletPersecutorEntity['Scarlet Persecutor'/21873, l='ServerLevel[world]', x=-1149.54, y=161.00, z=-3297.79] [1.4460316]
+[09Jul2025 04:38:54.163] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[09Jul2025 04:38:54.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:54.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1149.11, y=161.00, z=-3298.54], To: ScarletPersecutorEntity['Scarlet Persecutor'/21873, l='ServerLevel[world]', x=-1149.16, y=161.00, z=-3298.67] [0.5085316]
+[09Jul2025 04:38:54.258] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:38:54.709] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:38:54.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1148.75, y=161.00, z=-3298.44], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1152.13, y=161.00, z=-3296.41] [71.53836]
+[09Jul2025 04:38:54.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:06.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:06.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1138.77, y=162.18, z=-3270.38], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1139.76, y=161.00, z=-3270.54] [75.978905]
+[09Jul2025 04:39:06.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:39:08.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:08.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1134.53, y=162.31, z=-3266.45], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1134.15, y=161.00, z=-3267.25] [33.434456]
+[09Jul2025 04:39:08.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:39:12.008] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:12.009] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.06, y=161.00, z=-3261.29], To: DireHoundLeaderEntity['Dire Hound Leader'/21567, l='ServerLevel[world]', x=-1132.34, y=161.00, z=-3260.01] [94.125]
+[09Jul2025 04:39:12.009] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:13.758] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:13.758] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1130.75, y=161.42, z=-3264.41], To: LifestealerTrueFormEntity['Lifestealer'/21572, l='ServerLevel[world]', x=-1131.98, y=161.00, z=-3263.64] [11.312434]
+[09Jul2025 04:39:13.759] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[09Jul2025 04:39:19.956] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:19.956] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1132.00, y=161.00, z=-3276.28], To: ScarletPersecutorEntity['Scarlet Persecutor'/21874, l='ServerLevel[world]', x=-1131.68, y=161.00, z=-3275.38] [4.980876]
+[09Jul2025 04:39:19.956] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:39:20.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:20.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1132.00, y=161.00, z=-3276.33], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1134.62, y=161.00, z=-3285.45] [38.38656]
+[09Jul2025 04:39:20.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:23.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:23.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1132.85, y=161.00, z=-3276.87], To: DireHoundLeaderEntity['Dire Hound Leader'/21567, l='ServerLevel[world]', x=-1132.28, y=161.00, z=-3275.94] [82.25]
+[09Jul2025 04:39:23.660] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:24.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:24.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1132.95, y=161.00, z=-3276.93], To: ScarletPersecutorEntity['Scarlet Persecutor'/21874, l='ServerLevel[world]', x=-1132.56, y=161.67, z=-3276.30] [0.04337597]
+[09Jul2025 04:39:24.710] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:39:25.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:25.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.02, y=161.00, z=-3276.96], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1140.64, y=161.00, z=-3283.29] [37.041245]
+[09Jul2025 04:39:25.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:26.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:26.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.30, y=161.00, z=-3276.97], To: LifestealerTrueFormEntity['Lifestealer'/21574, l='ServerLevel[world]', x=-1133.23, y=161.00, z=-3275.76] [15.792801]
+[09Jul2025 04:39:26.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[09Jul2025 04:39:27.470] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:27.470] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.46, y=161.00, z=-3277.08], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1137.95, y=161.00, z=-3283.66] [35.69593]
+[09Jul2025 04:39:27.470] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:28.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:28.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.63, y=161.00, z=-3277.17], To: DireHoundLeaderEntity['Dire Hound Leader'/21567, l='ServerLevel[world]', x=-1132.86, y=161.00, z=-3276.85] [78.45]
+[09Jul2025 04:39:28.658] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[09Jul2025 04:39:29.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:29.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.76, y=161.00, z=-3277.40], To: DreadHoundEntity['Dread Hound'/23073, l='ServerLevel[world]', x=-1134.52, y=161.00, z=-3276.59] [16.25]
+[09Jul2025 04:39:29.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:39:29.716] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:29.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1133.47, y=161.20, z=-3277.89], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1134.84, y=161.00, z=-3285.34] [35.04085]
+[09Jul2025 04:39:29.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
+[09Jul2025 04:39:30.662] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:30.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1132.76, y=161.00, z=-3277.35], To: DireHoundLeaderEntity['Dire Hound Leader'/21567, l='ServerLevel[world]', x=-1133.14, y=161.00, z=-3276.54] [56.57799]
+[09Jul2025 04:39:30.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:33.008] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:33.008] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1136.34, y=161.00, z=-3273.11], To: DireHoundLeaderEntity['Dire Hound Leader'/21567, l='ServerLevel[world]', x=-1134.93, y=161.00, z=-3272.92] [38.449295]
+[09Jul2025 04:39:33.008] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:41.440] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:41.440] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1138.30, y=161.00, z=-3267.41], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1136.49, y=161.00, z=-3279.60] [33.695538]
+[09Jul2025 04:39:41.440] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.875
+[09Jul2025 04:39:45.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 04:39:45.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1138.61, y=161.00, z=-3267.19], To: Deepling_Brute_Entity['Deepling Brute'/21571, l='ServerLevel[world]', x=-1135.18, y=161.00, z=-3276.24] [33.695538]
+[09Jul2025 04:39:45.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[09Jul2025 04:40:09.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 04:40:09.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
