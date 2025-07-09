@@ -15389,3 +15389,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jul2025 06:15:09.853] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jul2025 06:20:09.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 06:20:09.845] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 06:25:09.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 06:25:09.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 06:28:06.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 06:28:06.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-766.84, y=204.00, z=-2001.41], To: KrampusHenchmanEntity['Krampus Henchman'/36319, l='ServerLevel[world]', x=-766.73, y=204.00, z=-2002.66] [29.38875]
+[09Jul2025 06:28:06.464] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[09Jul2025 06:28:09.107] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[09Jul2025 06:28:09.107] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-769.01, y=204.00, z=-2001.80], To: KrampusHenchmanEntity['Krampus Henchman'/36318, l='ServerLevel[world]', x=-767.77, y=204.00, z=-2001.57] [4.739788]
+[09Jul2025 06:28:09.107] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[09Jul2025 06:30:09.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 06:30:09.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
