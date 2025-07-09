@@ -15381,3 +15381,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [09Jul2025 06:01:07.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-774.91, y=208.00, z=-1977.36], To: ThehunterEntity['The Hunter'/31794, l='ServerLevel[world]', x=-774.16, y=208.00, z=-1976.72] [15.0625]
 [09Jul2025 06:01:07.713] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.9375
 [09Jul2025 06:01:49.759] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/24000, l='ServerLevel[world]', x=-765.89, y=202.00, z=-2044.44] died, message: 'Toolsmith was slain by The Moonflower'
+[09Jul2025 06:05:09.839] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 06:05:09.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 06:10:09.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 06:10:09.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
