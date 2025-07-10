@@ -2248,3 +2248,8 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jul2025 06:29:16.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-722, y=192, z=-2062} BlockPos{x=-722, y=191, z=-2062}
 [10Jul2025 06:29:24.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-723, y=193, z=-2049} BlockPos{x=-723, y=192, z=-2049}
 [10Jul2025 06:29:24.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-722, y=193, z=-2050} BlockPos{x=-722, y=192, z=-2049}
+[10Jul2025 06:47:51.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [The Cave That Time Forgot]
+[10Jul2025 06:52:26.719] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[10Jul2025 06:52:26.719] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[10Jul2025 06:52:26.720] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[10Jul2025 06:54:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Need A Map?]

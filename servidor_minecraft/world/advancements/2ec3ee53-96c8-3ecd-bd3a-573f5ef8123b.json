@@ -12871,5 +12871,11 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-07-10 06:47:51 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -14697,3 +14697,80 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jul2025 06:29:24.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-722, y=193, z=-2050} BlockPos{x=-722, y=192, z=-2049}
 [10Jul2025 06:34:11.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jul2025 06:34:11.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:39:11.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 06:39:11.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:44:11.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 06:44:11.490] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:47:29.166] [Server thread/DEBUG] [mixin/]: Mixing FrogAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.FrogAi
+[10Jul2025 06:47:29.190] [Server thread/DEBUG] [mixin/]: Mixing ShootTongueMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.ShootTongue
+[10Jul2025 06:47:51.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [The Cave That Time Forgot]
+[10Jul2025 06:48:32.995] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:48:32.995] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1329.06, y=45.00, z=-2528.95], To: Skeleton['Skeleton'/14006, l='ServerLevel[world]', x=-1329.70, y=45.40, z=-2532.55] [0.0]
+[10Jul2025 06:48:32.995] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[10Jul2025 06:48:34.955] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:48:34.955] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1327.65, y=45.00, z=-2535.44], To: Spider['Spider'/14093, l='ServerLevel[world]', x=-1327.00, y=45.00, z=-2537.34] [15.625]
+[10Jul2025 06:48:34.955] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.375
+[10Jul2025 06:49:11.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 06:49:11.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:49:19.659] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 06:49:19.661] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_jungle_loot
+[10Jul2025 06:50:05.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 06:50:05.959] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_jungle_loot
+[10Jul2025 06:50:42.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:50:42.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1337.29, y=45.00, z=-2503.81], To: Skeleton['Skeleton'/15372, l='ServerLevel[world]', x=-1336.49, y=45.00, z=-2504.77] [19.35875]
+[10Jul2025 06:50:42.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.75
+[10Jul2025 06:51:21.625] [Worker-Main-33/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mss-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[10Jul2025 06:51:21.626] [Worker-Main-33/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:21.629] [Worker-Main-33/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[10Jul2025 06:51:25.459] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:51:25.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1363.84, y=45.00, z=-2529.03], To: Stray['Stray'/15881, l='ServerLevel[world]', x=-1362.78, y=45.00, z=-2531.01] [18.95]
+[10Jul2025 06:51:25.460] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[10Jul2025 06:51:26.613] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:entities/additional_stray_loot
+[10Jul2025 06:51:28.054] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 06:51:28.054] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_jungle_loot
+[10Jul2025 06:52:26.719] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[10Jul2025 06:52:26.719] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[10Jul2025 06:52:26.720] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[10Jul2025 06:53:41.751] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 06:54:11.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 06:54:11.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:54:27.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 06:54:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Need A Map?]
+[10Jul2025 06:55:09.205] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[10Jul2025 06:55:35.061] [Worker-Main-88/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[10Jul2025 06:55:35.069] [Worker-Main-88/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Jul2025 06:55:35.070] [Worker-Main-88/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Jul2025 06:55:35.070] [Worker-Main-88/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[10Jul2025 06:55:35.070] [Worker-Main-88/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[10Jul2025 06:55:35.075] [Worker-Main-88/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[10Jul2025 06:55:35.075] [Worker-Main-88/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[10Jul2025 06:55:42.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:55:42.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1386.78, y=36.00, z=-2447.80], To: Skeleton['Skeleton'/17558, l='ServerLevel[world]', x=-1392.79, y=36.00, z=-2448.54] [2.8978148]
+[10Jul2025 06:55:42.104] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[10Jul2025 06:55:45.210] [Worker-Main-33/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[10Jul2025 06:56:02.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:56:02.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1391.51, y=36.00, z=-2451.33], To: Skeleton['Skeleton'/17815, l='ServerLevel[world]', x=-1393.66, y=36.00, z=-2446.90] [13.015056]
+[10Jul2025 06:56:02.251] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5187501
+[10Jul2025 06:56:35.600] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:56:35.600] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1397.82, y=36.00, z=-2475.61], To: Skeleton['Skeleton'/18243, l='ServerLevel[world]', x=-1398.55, y=36.00, z=-2475.34] [19.30595]
+[10Jul2025 06:56:35.601] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.3125
+[10Jul2025 06:56:36.757] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[10Jul2025 06:56:36.757] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/1270, l='ServerLevel[world]', x=-1397.94, y=36.00, z=-2473.64], To: Skeleton['Skeleton'/18242, l='ServerLevel[world]', x=-1399.48, y=36.00, z=-2476.26] [19.25975]
+[10Jul2025 06:56:36.757] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.125
+[10Jul2025 06:57:39.104] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
