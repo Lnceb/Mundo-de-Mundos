@@ -2253,3 +2253,10 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jul2025 06:52:26.719] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [10Jul2025 06:52:26.720] [Worker-Main-73/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [10Jul2025 06:54:34.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Need A Map?]
+[10Jul2025 07:19:19.126] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[10Jul2025 07:23:15.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Life Finds A Way]
+[10Jul2025 07:23:55.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Town of Bedrock]
+[10Jul2025 07:27:39.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[10Jul2025 07:27:57.234] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2461ms or 49 ticks behind
+[10Jul2025 07:28:22.624] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[10Jul2025 07:28:53.325] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
