@@ -2234,3 +2234,13 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jul2025 05:30:23.676] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityMoth from class dev.itsmeow.whisperwoods.imdlib.entity.util.EntityTypeContainerContainable
 [10Jul2025 05:36:35.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lance lost connection: Disconnected
 [10Jul2025 05:36:35.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance left the game
+[10Jul2025 05:46:51.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Lance[/127.116.120.48:39633] logged in with entity id 1270 at (-780.3000000119209, 205.0, -2001.528011449009)
+[10Jul2025 05:46:51.974] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Lance
+[10Jul2025 05:46:51.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Lance
+[10Jul2025 05:46:51.975] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Lance
+[10Jul2025 05:46:51.976] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Lance
+[10Jul2025 05:46:51.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Lance
+[10Jul2025 05:46:51.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Lance
+[10Jul2025 05:46:51.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
+[10Jul2025 05:46:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
+[10Jul2025 05:46:52.042] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
