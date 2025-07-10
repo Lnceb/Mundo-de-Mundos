@@ -2166,6 +2166,7 @@
       "glow_berries": "2025-06-16 21:43:38 +0000",
       "sweet_berries": "2025-06-12 21:02:46 +0000",
       "rice": "2025-06-09 23:24:56 +0000",
+      "kelp": "2025-07-09 06:30:56 +0000",
       "sugar_cane": "2025-07-05 05:52:19 +0000",
       "potato": "2025-06-12 15:04:47 +0000"
     },
@@ -12414,27 +12415,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
+  "betterdeserttemples:root": {
     "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/magma_cream": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
-    "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-07-09 05:52:46 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/vegan_hamburger": {
-    "criteria": {
-      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+      "always": "2025-07-09 03:55:18 +0000"
     },
     "done": true
   },
@@ -12444,81 +12427,9 @@
     },
     "done": true
   },
-  "bosses_of_mass_destruction:recipes/void_lily": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-09 05:00:42 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/rock_soup": {
-    "criteria": {
-      "has_magma_cream": "2025-07-09 04:26:03 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/decorations/heating_cask": {
-    "criteria": {
-      "has_powder": "2025-07-09 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/rock_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 04:26:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
-    "criteria": {
-      "has_spruce_trapdoor": "2025-07-09 06:06:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "brewinandchewin:recipes/fermenting/kimchi": {
-    "criteria": {
-      "has_kelp": "2025-07-09 05:16:22 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/baked_cave_carrot": {
-    "criteria": {
-      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/cave_carrots_from_crate": {
-    "criteria": {
-      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
-    "criteria": {
-      "has_magma_cream": "2025-07-09 04:26:03 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/make_inscription_table": {
     "criteria": {
       "inscription_table": "2025-07-09 04:05:52 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 05:26:33 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/black_eye": {
-    "criteria": {
-      "black_eye": "2025-07-09 05:45:50 +0000"
     },
     "done": true
   },
@@ -12528,87 +12439,27 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_frostmaw": {
+    "criteria": {
+      "frostmaw": "2025-07-09 04:11:51 +0000"
+    },
+    "done": true
+  },
   "brewinandchewin:recipes/decorations/keg": {
     "criteria": {
       "has_honeycomb": "2025-07-09 04:12:17 +0000"
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+      "has_honeycomb": "2025-07-09 04:12:17 +0000"
     },
     "done": true
   },
-  "betterdeserttemples:root": {
+  "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
-      "always": "2025-07-09 03:55:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
-    "criteria": {
-      "has_wild_armor_trim_smithing_template": "2025-07-09 05:53:34 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 05:42:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-09 05:53:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-09 05:52:46 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
-    "criteria": {
-      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/raw_iron": {
-    "criteria": {
-      "has_raw_iron_block": "2025-07-09 05:05:30 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/controller_slave": {
-    "criteria": {
-      "has_chest": "2025-07-09 05:09:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-07-09 05:45:02 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/twisted_ghasta": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 05:26:33 +0000"
+      "has_honeycomb": "2025-07-09 04:12:17 +0000"
     },
     "done": true
   },
@@ -12618,9 +12469,129 @@
     },
     "done": true
   },
-  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
     "criteria": {
-      "has_chest": "2025-07-09 05:09:41 +0000"
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 04:26:03 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ender_golem": {
+    "criteria": {
+      "endergolem": "2025-07-09 04:32:55 +0000"
+    },
+    "done": true
+  },
+  "skyarena:difficulty_level_10": {
+    "criteria": {
+      "difficulty_level_10": "2025-07-09 04:33:28 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-07-09 04:49:17 +0000"
     },
     "done": true
   },
@@ -12636,27 +12607,39 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_flute": {
+  "rusticdelight:recipes/cooking/batter": {
     "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
+      "has_any_ingredient": "2025-07-09 04:56:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/fire_charge": {
+  "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
-      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+      "has_amethyst_shard": "2025-07-09 05:00:42 +0000"
     },
     "done": true
   },
-  "brewinandchewin:recipes/fermenting/scarlet_cheese_from_milk": {
+  "miners_delight:recipes/food/vegan_hamburger": {
     "criteria": {
-      "has_nether_wart": "2025-07-09 05:48:23 +0000"
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/misc/nest": {
+  "miners_delight:recipes/food/baked_cave_carrot": {
     "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/cave_carrots_from_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/building_blocks/cave_carrot_crate": {
+    "criteria": {
+      "has_cave_carrot": "2025-07-09 05:04:43 +0000"
     },
     "done": true
   },
@@ -12666,99 +12649,9 @@
     },
     "done": true
   },
-  "cataclysm:kill_ender_golem": {
-    "criteria": {
-      "endergolem": "2025-07-09 04:32:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/upgrade_template": {
-    "criteria": {
-      "has_chest": "2025-07-09 05:09:41 +0000"
-    },
-    "done": true
-  },
-  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
-    "criteria": {
-      "has_netherite_scrap": "2025-07-09 05:40:45 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/misc/crafting/magma_cake": {
-    "criteria": {
-      "has_magma_cream": "2025-07-09 04:26:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/food/vegan_wrap": {
     "criteria": {
       "has_cave_carrot": "2025-07-09 05:04:43 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/combat/fiery_quiver": {
-    "criteria": {
-      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/magma_block": {
-    "criteria": {
-      "has_magma_cream": "2025-07-09 04:26:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-07-09 05:10:51 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/detached_drawer": {
-    "criteria": {
-      "has_chest": "2025-07-09 05:09:41 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
-    "criteria": {
-      "has_iron_knife": "2025-07-09 05:10:51 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-07-09 05:23:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-07-09 04:12:17 +0000"
     },
     "done": true
   },
@@ -12774,81 +12667,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "storagedrawers:recipes/storagedrawers/controller": {
-    "criteria": {
-      "has_chest": "2025-07-09 05:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-07-09 05:35:13 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_frostmaw": {
-    "criteria": {
-      "frostmaw": "2025-07-09 04:11:51 +0000"
-    },
-    "done": true
-  },
-  "farmersrespite:recipes/food/nether_wart_sourdough": {
-    "criteria": {
-      "has_wart": "2025-07-09 05:48:23 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/strider_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 05:26:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
-    "criteria": {
-      "has_eye_armor_trim_smithing_template": "2025-07-09 05:45:02 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/cooking/batter": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 04:56:34 +0000"
-    },
-    "done": true
-  },
-  "skyarena:difficulty_level_10": {
-    "criteria": {
-      "difficulty_level_10": "2025-07-09 04:33:28 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-07-09 04:49:15 +0000"
-    },
-    "done": true
-  },
   "miners_delight:recipes/food/improvised_barbecue_stick": {
     "criteria": {
       "has_cave_carrot": "2025-07-09 05:04:43 +0000"
-    },
-    "done": true
-  },
-  "mynethersdelight:recipes/cooking/burn_roll": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-09 04:26:03 +0000"
     },
     "done": true
   },
@@ -12858,9 +12679,195 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "minecraft:recipes/misc/raw_iron": {
     "criteria": {
-      "has_honeycomb": "2025-07-09 04:12:17 +0000"
+      "has_raw_iron_block": "2025-07-09 05:05:30 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller_slave": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/compacting_drawers": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/upgrade_template": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/detached_drawer": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/controller": {
+    "criteria": {
+      "has_chest": "2025-07-09 05:09:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-09 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/iron_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_iron_knife": "2025-07-09 05:10:51 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/kimchi": {
+    "criteria": {
+      "has_kelp": "2025-07-09 05:16:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-07-09 05:23:53 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 05:26:33 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/twisted_ghasta": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 05:26:33 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 05:26:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/decorations/heating_cask": {
+    "criteria": {
+      "has_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-07-09 05:34:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-09 05:35:13 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-07-09 05:40:45 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/crimson_stroganoff": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-09 05:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 05:45:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-07-09 05:45:02 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-07-09 05:45:50 +0000"
+    },
+    "done": true
+  },
+  "brewinandchewin:recipes/fermenting/scarlet_cheese_from_milk": {
+    "criteria": {
+      "has_nether_wart": "2025-07-09 05:48:23 +0000"
+    },
+    "done": true
+  },
+  "farmersrespite:recipes/food/nether_wart_sourdough": {
+    "criteria": {
+      "has_wart": "2025-07-09 05:48:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-07-09 05:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 05:52:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-07-09 05:53:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-09 05:53:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-07-09 06:06:36 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-07-10 05:35:28 +0000"
     },
     "done": true
   },
