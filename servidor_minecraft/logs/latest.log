@@ -2244,3 +2244,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [10Jul2025 05:46:51.981] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Lance
 [10Jul2025 05:46:52.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance joined the game
 [10Jul2025 05:46:52.042] [Server thread/INFO] [Jade/]: Syncing config to Lance (2ec3ee53-96c8-3ecd-bd3a-573f5ef8123b)
+[10Jul2025 06:04:37.792] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/1300, l='ServerLevel[world]', x=-763.10, y=204.00, z=-2011.50] died, message: 'Nitwit was slain by Door Knight'
+[10Jul2025 06:29:16.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-722, y=192, z=-2062} BlockPos{x=-722, y=191, z=-2062}
+[10Jul2025 06:29:24.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-723, y=193, z=-2049} BlockPos{x=-723, y=192, z=-2049}
+[10Jul2025 06:29:24.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-722, y=193, z=-2050} BlockPos{x=-722, y=192, z=-2049}
