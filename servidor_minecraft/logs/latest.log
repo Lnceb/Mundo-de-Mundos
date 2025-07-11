@@ -2265,3 +2265,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jul2025 07:26:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Just a Flesh Wound]
 [11Jul2025 07:31:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Yellow Brick Road]
 [11Jul2025 07:32:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Carbonated Swim]
+[11Jul2025 07:37:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Dungeon Delving]
+[11Jul2025 07:38:02.539] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/33822, l='ServerLevel[world]', x=-2215.76, y=74.00, z=-2190.50] died, message: 'Golem Healer was shot by Stymphalian Bird'
+[11Jul2025 07:38:02.540] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/33822, l='ServerLevel[world]', x=-2215.76, y=74.00, z=-2190.50] died: Golem Healer was shot by Stymphalian Bird
+[11Jul2025 07:39:01.101] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/33272, l='ServerLevel[world]', x=-2228.93, y=73.00, z=-2189.75] died, message: 'Unemployed was shot by Stymphalian Bird'
+[11Jul2025 07:40:47.442] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/34311, l='ServerLevel[world]', x=-2240.46, y=68.00, z=-2168.96] died, message: 'Golem Healer was shot by Stymphalian Bird'
+[11Jul2025 07:40:47.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/34311, l='ServerLevel[world]', x=-2240.46, y=68.00, z=-2168.96] died: Golem Healer was shot by Stymphalian Bird
+[11Jul2025 07:41:15.678] [Worker-Main-74/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 07:41:15.678] [Worker-Main-74/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 07:41:20.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [I Found the Coin Slot]
+[11Jul2025 07:43:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Oh Little Town of Gingerbread]
+[11Jul2025 07:44:52.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Choc-o-Block]
+[11Jul2025 07:46:06.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Caniac No More]
+[11Jul2025 07:46:41.087] [Worker-Main-60/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
