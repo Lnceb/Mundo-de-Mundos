@@ -2259,3 +2259,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jul2025 07:06:25.651] [Worker-Main-63/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
 [11Jul2025 07:09:27.254] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/22351, l='ServerLevel[world]', x=-1930.51, y=75.05, z=-2309.89] died: Fisk of the Sand was slain by Lance
 [11Jul2025 07:11:58.812] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[11Jul2025 07:18:21.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [How long's this been here?]
+[11Jul2025 07:18:23.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Magery]
+[11Jul2025 07:25:21.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Pure Imagination]
+[11Jul2025 07:26:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Just a Flesh Wound]

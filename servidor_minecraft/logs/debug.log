@@ -16511,3 +16511,149 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jul2025 07:15:58.731] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2055.81, y=19.00, z=-2452.67], To: Skeleton['Skeleton'/25615, l='ServerLevel[world]', x=-2055.08, y=18.00, z=-2451.70]
 [11Jul2025 07:16:11.656] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
 [11Jul2025 07:16:11.656] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2062.38, y=19.00, z=-2455.21], To: Skeleton['Skeleton'/25617, l='ServerLevel[world]', x=-2061.27, y=19.00, z=-2456.57]
+[11Jul2025 07:16:36.592] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:16:36.593] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2078.29, y=18.69, z=-2435.36], To: Zombie['Zombie'/25561, l='ServerLevel[world]', x=-2078.46, y=18.80, z=-2436.62]
+[11Jul2025 07:16:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:16:39.544] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2076.15, y=18.00, z=-2448.02], To: Creeper['Creeper'/26067, l='ServerLevel[world]', x=-2075.43, y=18.00, z=-2449.68]
+[11Jul2025 07:16:41.496] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Jul2025 07:17:10.782] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:17:10.782] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2092.27, y=19.00, z=-2456.73], To: Skeleton['Skeleton'/26312, l='ServerLevel[world]', x=-2093.98, y=19.00, z=-2456.50]
+[11Jul2025 07:17:15.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 07:17:15.644] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 07:17:51.388] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Jul2025 07:18:21.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [How long's this been here?]
+[11Jul2025 07:18:23.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Magery]
+[11Jul2025 07:18:56.992] [Worker-Main-63/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-2255, y=-15, z=-2720} at Sarcophagus with:graveyard:chests/crypt_loot
+[11Jul2025 07:19:00.169] [Worker-Main-75/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-1933, y=-16, z=-2726} at Coffin with:graveyard:chests/crypt_loot
+[11Jul2025 07:21:42.744] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:21:42.744] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2080.84, y=18.00, z=-2430.45], To: SkeletonCreeper['Skeleton Creeper'/27420, l='ServerLevel[world]', x=-2082.23, y=18.00, z=-2429.42]
+[11Jul2025 07:21:45.085] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:21:45.086] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2083.19, y=18.00, z=-2426.46], To: SkeletonCreeper['Skeleton Creeper'/27611, l='ServerLevel[world]', x=-2081.42, y=18.00, z=-2425.75]
+[11Jul2025 07:21:46.159] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:21:46.159] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2081.26, y=18.00, z=-2425.57], To: SkeletonCreeper['Skeleton Creeper'/27611, l='ServerLevel[world]', x=-2075.85, y=18.00, z=-2425.30] [0.35096395]
+[11Jul2025 07:21:46.159] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.225
+[11Jul2025 07:21:53.485] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:21:53.485] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2084.70, y=14.00, z=-2426.57], To: CaveSpider['Cave Spider'/28407, l='ServerLevel[world]', x=-2083.65, y=14.00, z=-2427.61]
+[11Jul2025 07:21:55.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:21:55.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2082.22, y=14.00, z=-2428.91], To: CaveSpider['Cave Spider'/28407, l='ServerLevel[world]', x=-2080.93, y=14.00, z=-2429.46]
+[11Jul2025 07:21:55.135] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[11Jul2025 07:21:55.686] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Jul2025 07:22:15.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 07:22:15.578] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 07:22:41.486] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:22:41.487] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2068.49, y=14.00, z=-2452.43], To: CaveSpider['Cave Spider'/28562, l='ServerLevel[world]', x=-2069.25, y=14.00, z=-2452.48]
+[11Jul2025 07:22:43.082] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:43.082] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2068.40, y=14.00, z=-2452.43], To: CaveSpider['Cave Spider'/28561, l='ServerLevel[world]', x=-2069.49, y=14.00, z=-2451.97] [11.65]
+[11Jul2025 07:22:43.082] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:43.633] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:22:43.633] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2068.30, y=14.00, z=-2452.46], To: CaveSpider['Cave Spider'/28561, l='ServerLevel[world]', x=-2068.91, y=14.00, z=-2452.13]
+[11Jul2025 07:22:43.634] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[11Jul2025 07:22:43.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:22:43.635] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2068.30, y=14.00, z=-2452.46], To: CaveSpider['Cave Spider'/28562, l='ServerLevel[world]', x=-2068.65, y=14.00, z=-2452.84]
+[11Jul2025 07:22:43.636] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[11Jul2025 07:22:47.092] [Server thread/DEBUG] [mixin/]: Mixing MapDecorationMixin from alexscaves.mixins.json into net.minecraft.world.level.saveddata.maps.MapDecoration
+[11Jul2025 07:22:47.402] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Jul2025 07:22:51.831] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:51.831] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2071.16, y=14.00, z=-2455.30], To: CaveSpider['Cave Spider'/28670, l='ServerLevel[world]', x=-2072.02, y=14.00, z=-2454.22] [11.72]
+[11Jul2025 07:22:51.831] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:52.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:52.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2070.83, y=14.00, z=-2455.69], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2071.68, y=14.27, z=-2455.65] [11.65]
+[11Jul2025 07:22:52.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:53.783] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:53.783] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.72, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.47, y=14.00, z=-2455.58] [10.65]
+[11Jul2025 07:22:53.783] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:54.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:54.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.25, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2069.67, y=14.00, z=-2455.39] [9.65]
+[11Jul2025 07:22:54.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:55.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:55.781] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [8.65]
+[11Jul2025 07:22:55.781] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:56.786] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:56.786] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [7.6499996]
+[11Jul2025 07:22:56.786] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:57.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:57.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [6.6499996]
+[11Jul2025 07:22:57.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:22:58.784] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:22:58.785] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [5.6499996]
+[11Jul2025 07:22:58.785] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:23:00.779] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:23:00.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [3.6499996]
+[11Jul2025 07:23:00.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:23:01.778] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:23:01.778] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [2.6499996]
+[11Jul2025 07:23:01.778] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:23:03.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:23:03.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28671, l='ServerLevel[world]', x=-2070.04, y=14.00, z=-2455.35] [0.6499996]
+[11Jul2025 07:23:03.780] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:23:03.837] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[11Jul2025 07:23:04.828] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:23:04.828] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28670, l='ServerLevel[world]', x=-2069.14, y=14.00, z=-2454.91] [1.8500007]
+[11Jul2025 07:23:04.828] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[11Jul2025 07:23:05.983] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:23:05.983] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2069.11, y=14.00, z=-2455.70], To: CaveSpider['Cave Spider'/28670, l='ServerLevel[world]', x=-2069.14, y=14.00, z=-2454.91]
+[11Jul2025 07:23:05.985] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:entities/additional_spider_loot
+[11Jul2025 07:24:41.585] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2193, y=0, z=-2158}
+[11Jul2025 07:24:41.586] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2223, y=2, z=-2160}
+[11Jul2025 07:24:41.587] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2215, y=-12, z=-2165}
+[11Jul2025 07:24:41.621] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2223, y=2, z=-2160}
+[11Jul2025 07:24:41.622] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2215, y=-12, z=-2165}
+[11Jul2025 07:24:41.623] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2241, y=2, z=-2160}
+[11Jul2025 07:24:41.653] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2241, y=2, z=-2160}
+[11Jul2025 07:24:41.654] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2240, y=2, z=-2165}
+[11Jul2025 07:24:41.730] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2241, y=2, z=-2160}
+[11Jul2025 07:25:02.005] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-2540 | 33 | -2092).
+[11Jul2025 07:25:02.005] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 10(0) Nodes and 5(0) Rooms
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 9(3) Nodes and 5(0) Rooms
+[11Jul2025 07:25:02.006] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[11Jul2025 07:25:02.007] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[11Jul2025 07:25:12.605] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2192, y=2, z=-2176}
+[11Jul2025 07:25:12.609] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2164, y=2, z=-2147}
+[11Jul2025 07:25:12.609] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=13, z=-2147}
+[11Jul2025 07:25:12.610] [Worker-Main-71/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2196, y=2, z=-2140}
+[11Jul2025 07:25:12.628] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2193, y=0, z=-2158}
+[11Jul2025 07:25:12.628] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2223, y=2, z=-2160}
+[11Jul2025 07:25:12.629] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2206, y=2, z=-2159}
+[11Jul2025 07:25:12.629] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2196, y=2, z=-2140}
+[11Jul2025 07:25:12.914] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2223, y=2, z=-2160}
+[11Jul2025 07:25:12.914] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2206, y=2, z=-2159}
+[11Jul2025 07:25:12.915] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2241, y=2, z=-2160}
+[11Jul2025 07:25:12.915] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2220, y=2, z=-2140}
+[11Jul2025 07:25:13.049] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2241, y=2, z=-2160}
+[11Jul2025 07:25:13.049] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2230, y=2, z=-2159}
+[11Jul2025 07:25:13.086] [Worker-Main-72/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2241, y=2, z=-2160}
+[11Jul2025 07:25:13.086] [Worker-Main-72/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2230, y=2, z=-2159}
+[11Jul2025 07:25:18.688] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2164, y=2, z=-2147}
+[11Jul2025 07:25:18.689] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=13, z=-2147}
+[11Jul2025 07:25:18.690] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2202, y=2, z=-2135}
+[11Jul2025 07:25:18.690] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2190, y=15, z=-2134}
+[11Jul2025 07:25:18.691] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=2, z=-2134}
+[11Jul2025 07:25:18.691] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2196, y=2, z=-2140}
+[11Jul2025 07:25:18.707] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2202, y=2, z=-2135}
+[11Jul2025 07:25:18.707] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=2, z=-2134}
+[11Jul2025 07:25:18.708] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2196, y=2, z=-2140}
+[11Jul2025 07:25:18.708] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2220, y=2, z=-2135}
+[11Jul2025 07:25:18.729] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2220, y=2, z=-2135}
+[11Jul2025 07:25:18.729] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2210, y=2, z=-2134}
+[11Jul2025 07:25:18.730] [Worker-Main-75/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2220, y=2, z=-2140}
+[11Jul2025 07:25:21.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Pure Imagination]
+[11Jul2025 07:25:40.636] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:25:40.637] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2112.26, y=26.00, z=-2342.96], To: EntityWroughtnaut['Ferrous Wroughtnaut'/23267, l='ServerLevel[world]', x=-2111.05, y=26.00, z=-2344.48]
+[11Jul2025 07:25:43.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:25:43.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2114.32, y=28.69, z=-2346.84], To: EntityWroughtnaut['Ferrous Wroughtnaut'/23267, l='ServerLevel[world]', x=-2110.73, y=26.00, z=-2344.44] [11.878]
+[11Jul2025 07:25:43.120] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.1499999
+[11Jul2025 07:25:49.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:25:49.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2107.70, y=27.88, z=-2346.89], To: EntityWroughtnaut['Ferrous Wroughtnaut'/23267, l='ServerLevel[world]', x=-2111.35, y=26.00, z=-2345.06] [11.878]
+[11Jul2025 07:25:49.920] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 5.25
+[11Jul2025 07:26:01.417] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:26:01.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2110.40, y=26.00, z=-2345.00], To: EntityWroughtnaut['Ferrous Wroughtnaut'/23267, l='ServerLevel[world]', x=-2111.37, y=26.00, z=-2346.49] [11.878]
+[11Jul2025 07:26:01.418] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 5.25
+[11Jul2025 07:26:16.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:26:16.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.97, y=26.00, z=-2345.09], To: EntityWroughtnaut['Ferrous Wroughtnaut'/23267, l='ServerLevel[world]', x=-2111.85, y=26.00, z=-2345.38]
+[11Jul2025 07:26:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Just a Flesh Wound]
