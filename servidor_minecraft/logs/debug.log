@@ -16657,3 +16657,207 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jul2025 07:26:16.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
 [11Jul2025 07:26:16.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.97, y=26.00, z=-2345.09], To: EntityWroughtnaut['Ferrous Wroughtnaut'/23267, l='ServerLevel[world]', x=-2111.85, y=26.00, z=-2345.38]
 [11Jul2025 07:26:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Just a Flesh Wound]
+[11Jul2025 07:27:15.557] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 07:27:15.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 07:27:30.580] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:27:30.580] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.79, y=26.00, z=-2346.93], To: Creeper['Creeper'/29279, l='ServerLevel[world]', x=-2112.48, y=26.00, z=-2344.59] [16.85]
+[11Jul2025 07:27:30.580] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 3.1499999
+[11Jul2025 07:29:02.635] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2190, y=15, z=-2134}
+[11Jul2025 07:29:02.636] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=2, z=-2134}
+[11Jul2025 07:29:02.636] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2191, y=15, z=-2116}
+[11Jul2025 07:29:02.637] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=15, z=-2127}
+[11Jul2025 07:29:02.638] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2191, y=15, z=-2117}
+[11Jul2025 07:29:02.638] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2174, y=21, z=-2114}
+[11Jul2025 07:29:02.638] [Worker-Main-74/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=21, z=-2115}
+[11Jul2025 07:29:02.648] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=15, z=-2127}
+[11Jul2025 07:29:02.648] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2174, y=21, z=-2114}
+[11Jul2025 07:29:02.649] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2184, y=21, z=-2115}
+[11Jul2025 07:29:02.661] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2185, y=2, z=-2134}
+[11Jul2025 07:29:02.661] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2191, y=15, z=-2117}
+[11Jul2025 07:29:08.790] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:08.790] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2109.15, y=18.00, z=-2326.36], To: GreaterEndermiteeEntity['Adult Endermite'/30701, l='ServerLevel[world]', x=-2109.15, y=18.61, z=-2325.12]
+[11Jul2025 07:29:10.736] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:10.737] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2109.35, y=17.00, z=-2326.42], To: GreaterEndermiteeEntity['Adult Endermite'/30701, l='ServerLevel[world]', x=-2109.32, y=17.77, z=-2325.72]
+[11Jul2025 07:29:15.047] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:15.048] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2109.93, y=18.00, z=-2324.18], To: GreaterEndermiteeEntity['Adult Endermite'/30702, l='ServerLevel[world]', x=-2109.50, y=18.00, z=-2322.89]
+[11Jul2025 07:29:17.395] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2186, y=21, z=-2108}
+[11Jul2025 07:29:17.396] [Worker-Main-68/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2174, y=21, z=-2114}
+[11Jul2025 07:29:17.409] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2191, y=15, z=-2116}
+[11Jul2025 07:29:17.410] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2187, y=28, z=-2091}
+[11Jul2025 07:29:17.410] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2186, y=21, z=-2108}
+[11Jul2025 07:29:17.412] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2192, y=28, z=-2098}
+[11Jul2025 07:29:17.413] [Worker-Main-63/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2174, y=21, z=-2114}
+[11Jul2025 07:29:17.444] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2192, y=28, z=-2098}
+[11Jul2025 07:29:17.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:17.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.41, y=18.00, z=-2318.44], To: SkeletonVillager['Skeleton Villager'/29620, l='ServerLevel[world]', x=-2109.57, y=18.00, z=-2315.66] [19.3]
+[11Jul2025 07:29:17.465] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[11Jul2025 07:29:17.472] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:17.472] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.41, y=18.00, z=-2318.44], To: SkeletonVillager['Skeleton Villager'/29620, l='ServerLevel[world]', x=-2109.57, y=18.00, z=-2315.66]
+[11Jul2025 07:29:17.844] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:17.844] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.56, y=18.60, z=-2317.75], To: SkeletonVillager['Skeleton Villager'/29620, l='ServerLevel[world]', x=-2111.85, y=18.88, z=-2315.24]
+[11Jul2025 07:29:19.783] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:19.783] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2112.91, y=18.00, z=-2314.43], To: GreaterEndermiteeEntity['Adult Endermite'/30702, l='ServerLevel[world]', x=-2112.27, y=18.00, z=-2314.41] [11.069695]
+[11Jul2025 07:29:19.783] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[11Jul2025 07:29:19.891] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:19.892] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2112.73, y=18.00, z=-2314.30], To: GreaterEndermiteeEntity['Adult Endermite'/30702, l='ServerLevel[world]', x=-2112.87, y=18.00, z=-2314.48]
+[11Jul2025 07:29:20.791] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_generic_loot
+[11Jul2025 07:29:32.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:32.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2112.21, y=18.00, z=-2314.62], To: GreaterEndermiteeEntity['Adult Endermite'/30868, l='ServerLevel[world]', x=-2112.33, y=18.00, z=-2315.54] [29.31036]
+[11Jul2025 07:29:32.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[11Jul2025 07:29:34.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:34.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.70, y=18.00, z=-2314.30], To: GreaterEndermiteeEntity['Adult Endermite'/30867, l='ServerLevel[world]', x=-2113.63, y=18.00, z=-2315.24] [29.13795]
+[11Jul2025 07:29:34.336] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[11Jul2025 07:29:35.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:35.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.70, y=18.00, z=-2314.30], To: GreaterEndermiteeEntity['Adult Endermite'/30868, l='ServerLevel[world]', x=-2112.89, y=18.00, z=-2314.30] [28.44831]
+[11Jul2025 07:29:35.634] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[11Jul2025 07:29:36.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:36.534] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.70, y=18.00, z=-2314.30], To: GreaterEndermiteeEntity['Adult Endermite'/30867, l='ServerLevel[world]', x=-2113.62, y=18.00, z=-2315.13]
+[11Jul2025 07:29:36.645] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:36.645] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.70, y=18.00, z=-2314.30], To: GreaterEndermiteeEntity['Adult Endermite'/30868, l='ServerLevel[world]', x=-2112.78, y=18.00, z=-2314.30] [27.586262]
+[11Jul2025 07:29:36.645] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[11Jul2025 07:29:36.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:36.738] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.70, y=18.00, z=-2314.30], To: GreaterEndermiteeEntity['Adult Endermite'/30867, l='ServerLevel[world]', x=-2112.21, y=19.09, z=-2316.87]
+[11Jul2025 07:29:36.937] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:36.938] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.70, y=18.54, z=-2314.43], To: GreaterEndermiteeEntity['Adult Endermite'/30868, l='ServerLevel[world]', x=-2113.04, y=18.00, z=-2314.37]
+[11Jul2025 07:29:37.935] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:37.935] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.56, y=18.00, z=-2316.35], To: GreaterEndermiteeEntity['Adult Endermite'/30867, l='ServerLevel[world]', x=-2112.53, y=18.00, z=-2315.47]
+[11Jul2025 07:29:39.739] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:39.739] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2113.62, y=18.00, z=-2315.71], To: GreaterEndermiteeEntity['Adult Endermite'/30868, l='ServerLevel[world]', x=-2112.90, y=18.00, z=-2315.01]
+[11Jul2025 07:29:49.434] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:49.434] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.76, y=18.00, z=-2315.65], To: GreaterEndermiteeEntity['Adult Endermite'/30923, l='ServerLevel[world]', x=-2108.96, y=18.00, z=-2316.67]
+[11Jul2025 07:29:49.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:49.435] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.76, y=18.00, z=-2315.65], To: GreaterEndermiteeEntity['Adult Endermite'/30924, l='ServerLevel[world]', x=-2109.83, y=18.00, z=-2317.32]
+[11Jul2025 07:29:49.936] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:29:49.936] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.68, y=18.00, z=-2315.45], To: GreaterEndermiteeEntity['Adult Endermite'/30925, l='ServerLevel[world]', x=-2109.65, y=18.00, z=-2315.51] [29.31036]
+[11Jul2025 07:29:49.936] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.05
+[11Jul2025 07:29:50.034] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:50.035] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.68, y=18.00, z=-2315.45], To: GreaterEndermiteeEntity['Adult Endermite'/30925, l='ServerLevel[world]', x=-2108.97, y=18.00, z=-2315.51]
+[11Jul2025 07:29:51.338] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:51.338] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.88, y=18.00, z=-2315.41], To: GreaterEndermiteeEntity['Adult Endermite'/30925, l='ServerLevel[world]', x=-2109.12, y=18.00, z=-2315.50]
+[11Jul2025 07:29:51.340] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:51.340] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.88, y=18.00, z=-2315.41], To: GreaterEndermiteeEntity['Adult Endermite'/30924, l='ServerLevel[world]', x=-2108.73, y=18.00, z=-2316.87]
+[11Jul2025 07:29:52.090] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:52.091] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2107.82, y=18.00, z=-2314.61], To: GreaterEndermiteeEntity['Adult Endermite'/30923, l='ServerLevel[world]', x=-2107.57, y=18.00, z=-2315.52]
+[11Jul2025 07:29:52.093] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:52.093] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2107.82, y=18.00, z=-2314.61], To: GreaterEndermiteeEntity['Adult Endermite'/30924, l='ServerLevel[world]', x=-2108.67, y=18.00, z=-2316.82]
+[11Jul2025 07:29:53.040] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:29:53.040] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2108.31, y=18.00, z=-2315.99], To: GreaterEndermiteeEntity['Adult Endermite'/30924, l='ServerLevel[world]', x=-2108.61, y=18.00, z=-2316.81]
+[11Jul2025 07:30:24.287] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:30:24.288] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2110.48, y=18.00, z=-2318.93], To: GreaterEndermiteeEntity['Adult Endermite'/31104, l='ServerLevel[world]', x=-2111.60, y=18.00, z=-2318.56]
+[11Jul2025 07:30:25.233] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:30:25.233] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2111.57, y=18.00, z=-2317.84], To: GreaterEndermiteeEntity['Adult Endermite'/31104, l='ServerLevel[world]', x=-2112.54, y=18.00, z=-2317.42]
+[11Jul2025 07:31:02.751] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:02.752] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:02.895] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:02.896] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:03.074] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-2362 | 14 | -2336)
+[11Jul2025 07:31:03.075] [Worker-Main-77/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-2362 | 14 | -2336)
+[11Jul2025 07:31:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Yellow Brick Road]
+[11Jul2025 07:31:08.914] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:31:08.915] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2146.39, y=-3.00, z=-2344.96], To: TheMoonflowerEntity['The Moonflower'/30942, l='ServerLevel[world]', x=-2145.58, y=-3.00, z=-2345.06] [14.3]
+[11Jul2025 07:31:08.915] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[11Jul2025 07:31:09.331] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:31:09.331] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2146.40, y=-2.72, z=-2345.44], To: TheMoonflowerEntity['The Moonflower'/30943, l='ServerLevel[world]', x=-2145.94, y=-3.00, z=-2344.92]
+[11Jul2025 07:31:09.742] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:31:09.743] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2147.68, y=-3.00, z=-2345.51], To: TheMoonflowerEntity['The Moonflower'/30942, l='ServerLevel[world]', x=-2146.91, y=-3.00, z=-2345.04]
+[11Jul2025 07:31:10.057] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:31:10.058] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2147.90, y=-3.00, z=-2345.60], To: TheMoonflowerEntity['The Moonflower'/30942, l='ServerLevel[world]', x=-2143.62, y=-2.37, z=-2342.41]
+[11Jul2025 07:31:10.746] [Worker-Main-60/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-2356, y=92, z=-2407} at Barrel with:minecraft:chests/simple_dungeon
+[11Jul2025 07:31:11.432] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:11.432] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:11.859] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:11.860] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:11.860] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:11.860] [Worker-Main-63/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:11.909] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:11.909] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:11.910] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-2363 | 14 | -2331)
+[11Jul2025 07:31:11.910] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-2363 | 14 | -2331)
+[11Jul2025 07:31:11.910] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-2368 | 14 | -2332)
+[11Jul2025 07:31:11.910] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-2368 | 14 | -2332)
+[11Jul2025 07:31:11.910] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-2362 | 14 | -2336)
+[11Jul2025 07:31:11.911] [Worker-Main-68/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room_2 with rotation NONE at (-2362 | 14 | -2336)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-2364 | 14 | -2359)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-2364 | 14 | -2359)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-2354 | 14 | -2358)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (-2354 | 14 | -2358)
+[11Jul2025 07:31:13.008] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2359 | 14 | -2359)
+[11Jul2025 07:31:13.009] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2359 | 14 | -2359)
+[11Jul2025 07:31:13.009] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:13.009] [Worker-Main-72/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation NONE at (-2353 | 14 | -2363)
+[11Jul2025 07:31:50.796] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-2381 | 50 | -2322)
+[11Jul2025 07:31:50.796] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-2381 | 50 | -2322)
+[11Jul2025 07:31:50.796] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2386 | 50 | -2323)
+[11Jul2025 07:31:50.796] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2386 | 50 | -2323)
+[11Jul2025 07:31:50.796] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:50.800] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:50.800] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (-2390 | 31 | -2310)
+[11Jul2025 07:31:50.801] [Worker-Main-74/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (-2390 | 31 | -2310)
+[11Jul2025 07:31:50.837] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-2384 | 38 | -2304)
+[11Jul2025 07:31:50.838] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation NONE at (-2384 | 38 | -2304)
+[11Jul2025 07:31:50.838] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (-2390 | 31 | -2310)
+[11Jul2025 07:31:50.838] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation NONE at (-2390 | 31 | -2310)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2377 | 50 | -2342)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2377 | 50 | -2342)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-2381 | 50 | -2322)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation CLOCKWISE_180 at (-2381 | 50 | -2322)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-2375 | 50 | -2328)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/node_connector with rotation COUNTERCLOCKWISE_90 at (-2375 | 50 | -2328)
+[11Jul2025 07:31:51.283] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-2375 | 50 | -2333)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation CLOCKWISE_90 at (-2375 | 50 | -2333)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2386 | 50 | -2323)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2386 | 50 | -2323)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room with rotation CLOCKWISE_90 at (-2379 | 50 | -2326)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (-2383 | 14 | -2332)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/chest with rotation NONE at (-2383 | 14 | -2332)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-2383 | 14 | -2327)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/variant with rotation CLOCKWISE_180 at (-2383 | 14 | -2327)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/corridor/corridor with rotation NONE at (-2386 | 14 | -2332)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/corridor/corridor with rotation NONE at (-2386 | 14 | -2332)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2377 | 14 | -2333)
+[11Jul2025 07:31:51.284] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/room/empty_room with rotation NONE at (-2377 | 14 | -2333)
+[11Jul2025 07:31:51.549] [Worker-Main-69/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-2390 | 41 | -2265)
+[11Jul2025 07:31:51.550] [Worker-Main-69/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-2390 | 41 | -2265)
+[11Jul2025 07:31:51.589] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2377 | 50 | -2342)
+[11Jul2025 07:31:51.591] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (-2377 | 50 | -2342)
+[11Jul2025 07:31:51.591] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:51.592] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:51.638] [Worker-Main-75/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/room_2 with rotation NONE at (-2390 | 41 | -2265)
+[11Jul2025 07:31:51.639] [Worker-Main-75/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/room_2 with rotation NONE at (-2390 | 41 | -2265)
+[11Jul2025 07:31:51.718] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (-2375 | 21 | -2358)
+[11Jul2025 07:31:51.718] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/flat with rotation NONE at (-2375 | 21 | -2358)
+[11Jul2025 07:31:51.718] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2386 | 14 | -2359)
+[11Jul2025 07:31:51.718] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-2386 | 14 | -2359)
+[11Jul2025 07:31:51.718] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:51.719] [Worker-Main-60/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation NONE at (-2381 | 14 | -2364)
+[11Jul2025 07:31:54.682] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[11Jul2025 07:31:54.682] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2164.14, y=-6.59, z=-2332.85], To: TherodEntity['The Rod'/31512, l='ServerLevel[world]', x=-2164.46, y=-7.63, z=-2333.17] [33.775]
+[11Jul2025 07:31:54.682] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.225
+[11Jul2025 07:31:59.309] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:31:59.309] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2168.30, y=-14.00, z=-2327.48], To: TherodEntity['The Rod'/31512, l='ServerLevel[world]', x=-2166.75, y=-13.00, z=-2328.80]
+[11Jul2025 07:32:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Carbonated Swim]
+[11Jul2025 07:32:15.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 07:32:15.589] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 07:32:47.549] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:32:47.550] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2155.42, y=-3.00, z=-2345.67], To: ThesmokerEntity['The Wheezer'/31907, l='ServerLevel[world]', x=-2155.78, y=-3.00, z=-2344.79]
+[11Jul2025 07:32:57.984] [Worker-Main-72/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-2308, y=-28, z=-2606} at Chest with:minecraft:chests/simple_dungeon
+[11Jul2025 07:33:09.040] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:33:09.041] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2162.36, y=-4.00, z=-2374.04], To: BomberEntity['The Bomber'/30888, l='ServerLevel[world]', x=-2163.33, y=-4.00, z=-2375.18]
+[11Jul2025 07:33:09.688] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[11Jul2025 07:33:09.689] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/419, l='ServerLevel[world]', x=-2160.76, y=-4.00, z=-2374.79], To: BomberEntity['The Bomber'/30888, l='ServerLevel[world]', x=-2162.42, y=-3.68, z=-2374.43]
+[11Jul2025 07:36:41.751] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2186, y=21, z=-2108}
+[11Jul2025 07:36:41.752] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2186, y=21, z=-2083}
+[11Jul2025 07:36:41.752] [Worker-Main-70/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2198, y=21, z=-2084}
+[11Jul2025 07:36:41.764] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2187, y=28, z=-2091}
+[11Jul2025 07:36:41.765] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2186, y=21, z=-2108}
+[11Jul2025 07:36:41.766] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2191, y=28, z=-2090}
+[11Jul2025 07:36:41.766] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2192, y=28, z=-2072}
+[11Jul2025 07:36:41.766] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2186, y=21, z=-2083}
+[11Jul2025 07:36:41.767] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2198, y=21, z=-2084}
+[11Jul2025 07:36:41.768] [Worker-Main-60/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2200, y=21, z=-2091}
+[11Jul2025 07:36:41.791] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2192, y=28, z=-2072}
+[11Jul2025 07:36:41.792] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2198, y=21, z=-2084}
+[11Jul2025 07:36:41.792] [Worker-Main-69/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: IndividualTerrainStructurePoolElement.place: BlockPos{x=-2200, y=21, z=-2091}

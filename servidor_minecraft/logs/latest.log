@@ -2263,3 +2263,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [11Jul2025 07:18:23.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Magery]
 [11Jul2025 07:25:21.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Pure Imagination]
 [11Jul2025 07:26:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Just a Flesh Wound]
+[11Jul2025 07:31:08.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Yellow Brick Road]
+[11Jul2025 07:32:04.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Carbonated Swim]
