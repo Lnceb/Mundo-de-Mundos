@@ -25,6 +25,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-12 05:32:08 +0000",
       "minecraft:deep_ocean": "2025-06-11 21:24:51 +0000",
       "minecraft:frozen_river": "2025-07-06 07:47:40 +0000",
       "minecraft:sunflower_plains": "2025-06-09 22:21:54 +0000",
@@ -40,10 +41,14 @@
       "minecraft:swamp": "2025-07-06 07:26:14 +0000",
       "minecraft:grove": "2025-07-07 05:58:47 +0000",
       "minecraft:jagged_peaks": "2025-06-12 16:07:03 +0000",
+      "minecraft:cold_ocean": "2025-07-12 06:00:15 +0000",
       "minecraft:forest": "2025-06-09 21:27:02 +0000",
       "minecraft:lush_caves": "2025-06-09 22:56:50 +0000",
+      "minecraft:frozen_ocean": "2025-07-12 05:31:09 +0000",
       "minecraft:jungle": "2025-06-09 22:38:59 +0000",
       "minecraft:ocean": "2025-06-09 22:57:11 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-12 05:32:23 +0000",
+      "minecraft:snowy_beach": "2025-07-12 05:31:06 +0000",
       "minecraft:windswept_savanna": "2025-06-09 22:10:07 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-06-10 22:05:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-12 16:03:47 +0000",
@@ -13119,6 +13124,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-07-12 05:06:17 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-07-12 05:12:30 +0000"
@@ -13131,12 +13142,6 @@
     },
     "done": true
   },
-  "castle_in_the_sky:trade": {
-    "criteria": {
-      "traded": "2025-07-12 05:13:20 +0000"
-    },
-    "done": true
-  },
   "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-07-12 05:12:30 +0000"
@@ -13146,12 +13151,6 @@
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
     "criteria": {
       "has_item": "2025-07-12 05:12:30 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/caramel": {
-    "criteria": {
-      "mussel": "2025-07-12 05:06:17 +0000"
     },
     "done": true
   },
@@ -13176,6 +13175,54 @@
   "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
     "criteria": {
       "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-07-12 05:13:20 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_grape_seeds": "2025-07-12 05:27:33 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/cooking/cooking_oil": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-12 05:28:05 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/misc/cotton_seeds_bag_from_cotton_seeds": {
+    "criteria": {
+      "has_cotton_seeds": "2025-07-12 05:28:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-12 05:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-12 05:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-12 05:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_chiseled_quartz_block": "2025-07-12 05:55:37 +0000"
     },
     "done": true
   },
