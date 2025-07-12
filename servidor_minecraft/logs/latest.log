@@ -2243,3 +2243,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 22:58:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Sweet Sweet Speeding Up]
 [12Jul2025 23:00:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Tree Stars!!!]
 [12Jul2025 23:07:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Strike upon thee]
+[12Jul2025 23:08:55.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind

@@ -14441,3 +14441,30 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 23:07:27.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
 [12Jul2025 23:07:27.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.50, y=-24.00, z=-2591.35], To: TheMoonflowerEntity['The Moonflower'/8408, l='ServerLevel[world]', x=-1377.64, y=-24.59, z=-2590.54]
 [12Jul2025 23:07:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Strike upon thee]
+[12Jul2025 23:08:14.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:08:14.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1375.71, y=-2.00, z=-2571.18], To: SuckerEntity['Sucker'/8700, l='ServerLevel[world]', x=-1375.90, y=-0.27, z=-2571.39] [14.3]
+[12Jul2025 23:08:14.442] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:08:15.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:08:15.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1374.88, y=-2.00, z=-2570.01], To: SuckerEntity['Sucker'/8700, l='ServerLevel[world]', x=-1374.78, y=-0.31, z=-2570.05] [13.6]
+[12Jul2025 23:08:15.217] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:08:19.039] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:08:19.040] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1374.30, y=-2.00, z=-2570.70], To: SuckerEntity['Sucker'/8700, l='ServerLevel[world]', x=-1374.30, y=-0.48, z=-2570.70] [12.900001]
+[12Jul2025 23:08:19.040] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:08:19.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:08:19.046] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1374.30, y=-2.00, z=-2570.70], To: SuckerEntity['Sucker'/8700, l='ServerLevel[world]', x=-1374.30, y=-0.47, z=-2570.70]
+[12Jul2025 23:08:22.206] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:08:22.206] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1375.03, y=-2.00, z=-2570.13], To: SuckerEntity['Sucker'/8690, l='ServerLevel[world]', x=-1375.50, y=-0.59, z=-2570.70] [14.3]
+[12Jul2025 23:08:22.206] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:08:24.729] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:08:24.730] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1376.01, y=-4.37, z=-2570.34], To: SuckerEntity['Sucker'/8690, l='ServerLevel[world]', x=-1376.30, y=-4.40, z=-2571.18]
+[12Jul2025 23:08:29.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:08:29.073] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:08:33.925] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 23:08:46.902] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 23:08:55.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[12Jul2025 23:13:32.313] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:13:32.347] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:14:39.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 23:14:40.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 23:14:42.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 23:16:08.375] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
