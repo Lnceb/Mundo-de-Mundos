@@ -14468,3 +14468,121 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 23:14:40.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [12Jul2025 23:14:42.207] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [12Jul2025 23:16:08.375] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 23:18:22.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:18:32.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:18:32.394] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:19:39.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:19:41.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:20:15.276] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:20:15.277] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2240.82, y=-14.00, z=-2186.42], To: ThesmokerEntity['The Wheezer'/12345, l='ServerLevel[world]', x=-2239.80, y=-14.00, z=-2187.58]
+[12Jul2025 23:20:16.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:20:16.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2248.39, y=-11.72, z=-2183.63], To: BomberEntity['The Bomber'/12700, l='ServerLevel[world]', x=-2248.68, y=-13.00, z=-2183.27]
+[12Jul2025 23:20:21.793] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betteroceanmonuments.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.794] [Worker-Main-34/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.794] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterjungletemples.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.794] [Worker-Main-34/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mss-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.794] [Worker-Main-34/DEBUG] [mixin/]: Mixing ChunkRegionAccessor from graveyard-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.794] [Worker-Main-34/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.795] [Worker-Main-34/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[12Jul2025 23:20:21.795] [Worker-Main-34/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:21.796] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[12Jul2025 23:20:22.441] [Worker-Main-10/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[12Jul2025 23:20:22.452] [Worker-Main-34/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Jul2025 23:20:22.453] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Jul2025 23:20:22.454] [Worker-Main-34/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[12Jul2025 23:20:22.454] [Worker-Main-34/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[12Jul2025 23:20:22.459] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[12Jul2025 23:20:22.459] [Worker-Main-34/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[12Jul2025 23:20:24.055] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[12Jul2025 23:20:24.055] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[12Jul2025 23:20:24.056] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[12Jul2025 23:20:39.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[12Jul2025 23:20:52.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/12496, l='ServerLevel[world]', x=-2269.49, y=63.00, z=-2090.66] died, message: 'Golem Healer was slain by The Wheezer'
+[12Jul2025 23:20:52.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/12496, l='ServerLevel[world]', x=-2269.49, y=63.00, z=-2090.66] died: Golem Healer was slain by The Wheezer
+[12Jul2025 23:21:08.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/14033, l='ServerLevel[world]', x=-2274.99, y=63.88, z=-2088.92] died, message: 'Golem Healer was slain by The Wheezer'
+[12Jul2025 23:21:08.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/14033, l='ServerLevel[world]', x=-2274.99, y=63.88, z=-2088.92] died: Golem Healer was slain by The Wheezer
+[12Jul2025 23:21:09.887] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:21:09.887] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2300.27, y=-22.72, z=-2171.07], To: GumbeeperEntity['Gumbeeper'/13644, l='ServerLevel[world]', x=-2295.84, y=-24.00, z=-2177.80] [13.4022]
+[12Jul2025 23:21:09.887] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:21:11.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:21:11.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2297.99, y=-24.00, z=-2174.01], To: GumbeeperEntity['Gumbeeper'/13644, l='ServerLevel[world]', x=-2297.14, y=-25.00, z=-2177.48] [12.8043995]
+[12Jul2025 23:21:11.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:21:11.416] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:21:11.416] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2296.97, y=-23.72, z=-2174.98], To: GumbeeperEntity['Gumbeeper'/13644, l='ServerLevel[world]', x=-2297.38, y=-25.00, z=-2177.76]
+[12Jul2025 23:21:17.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:21:17.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2298.26, y=-23.37, z=-2178.89], To: GumbeeperEntity['Gumbeeper'/14040, l='ServerLevel[world]', x=-2290.61, y=-24.00, z=-2183.03] [12.4022]
+[12Jul2025 23:21:17.084] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:21:18.392] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:21:18.393] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2295.47, y=-25.00, z=-2180.38], To: GumbeeperEntity['Gumbeeper'/14040, l='ServerLevel[world]', x=-2291.92, y=-25.00, z=-2183.03] [11.8043995]
+[12Jul2025 23:21:18.393] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:21:19.331] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:21:19.331] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2293.72, y=-25.00, z=-2181.74], To: GumbeeperEntity['Gumbeeper'/14040, l='ServerLevel[world]', x=-2291.88, y=-25.00, z=-2184.38]
+[12Jul2025 23:21:23.779] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:21:23.779] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2291.55, y=-25.00, z=-2183.56], To: ThespitterEntity['The Spitter'/14101, l='ServerLevel[world]', x=-2292.53, y=-25.00, z=-2183.75]
+[12Jul2025 23:21:35.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:21:35.492] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:21:35.492] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2262.63, y=-25.00, z=-2202.67], To: ThesmokerEntity['The Wheezer'/14599, l='ServerLevel[world]', x=-2262.01, y=-26.00, z=-2204.47]
+[12Jul2025 23:21:44.484] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:21:44.485] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2232.07, y=-13.15, z=-2203.35], To: GumbeeperEntity['Gumbeeper'/14528, l='ServerLevel[world]', x=-2235.62, y=-16.00, z=-2197.34] [13.4022]
+[12Jul2025 23:21:44.485] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:21:47.432] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:21:47.432] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2235.62, y=-15.00, z=-2202.92], To: GumbeeperEntity['Gumbeeper'/14528, l='ServerLevel[world]', x=-2236.68, y=-16.00, z=-2200.79]
+[12Jul2025 23:22:42.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:22:42.763] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2182.97, y=-15.00, z=-2369.23], To: TheswarmerEntity['The Swarmer'/15849, l='ServerLevel[world]', x=-2184.98, y=-15.00, z=-2368.98]
+[12Jul2025 23:22:45.117] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:22:45.117] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2181.36, y=-14.00, z=-2373.30], To: TheswarmerEntity['The Swarmer'/15849, l='ServerLevel[world]', x=-2182.29, y=-14.00, z=-2373.47]
+[12Jul2025 23:22:45.969] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:22:45.970] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2180.89, y=-14.00, z=-2372.54], To: Bee['Bee'/16467, l='ServerLevel[world]', x=-2182.85, y=-14.34, z=-2372.24]
+[12Jul2025 23:23:32.417] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:23:32.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:23:49.578] [Worker-Main-55/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[12Jul2025 23:24:48.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:24:48.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2319.45, y=-15.00, z=-2307.33], To: GummyBearEntity['Gummy Bear'/17711, l='ServerLevel[world]', x=-2317.08, y=-15.00, z=-2305.82] [35.3]
+[12Jul2025 23:24:48.073] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:24:48.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:24:48.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2320.21, y=-15.00, z=-2308.65], To: GummyBearEntity['Gummy Bear'/17711, l='ServerLevel[world]', x=-2318.81, y=-15.00, z=-2306.73] [34.6]
+[12Jul2025 23:24:48.777] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:24:49.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:24:49.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2322.04, y=-15.00, z=-2308.37], To: GummyBearEntity['Gummy Bear'/17711, l='ServerLevel[world]', x=-2319.76, y=-15.00, z=-2307.78] [33.899998]
+[12Jul2025 23:24:49.370] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:24:49.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:24:49.536] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2322.31, y=-15.00, z=-2307.80], To: GummyBearEntity['Gummy Bear'/17711, l='ServerLevel[world]', x=-2319.84, y=-15.00, z=-2307.86]
+[12Jul2025 23:24:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [The Dark (Chocolate) Tower]
+[12Jul2025 23:25:18.567] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:25:18.567] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2368.20, y=-25.00, z=-2196.01], To: TheMoonflowerEntity['The Moonflower'/17901, l='ServerLevel[world]', x=-2367.46, y=-25.00, z=-2196.44] [18.3]
+[12Jul2025 23:25:18.567] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:25:20.511] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:25:20.511] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2368.94, y=-24.20, z=-2195.22], To: TheMoonflowerEntity['The Moonflower'/17901, l='ServerLevel[world]', x=-2369.59, y=-25.00, z=-2195.40]
+[12Jul2025 23:25:34.331] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:25:34.331] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2389.91, y=-13.00, z=-2161.80], To: GumbeeperEntity['Gumbeeper'/18202, l='ServerLevel[world]', x=-2391.67, y=-13.00, z=-2163.49]
+[12Jul2025 23:25:56.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:25:56.186] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2362.57, y=-19.00, z=-2137.69], To: GumbeeperEntity['Gumbeeper'/19189, l='ServerLevel[world]', x=-2363.40, y=-19.00, z=-2135.37]
+[12Jul2025 23:26:30.561] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:26:30.561] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2419.20, y=-24.00, z=-2120.85], To: ThehorrorsEntity['The Horrors'/19903, l='ServerLevel[world]', x=-2418.38, y=-24.00, z=-2120.21]
+[12Jul2025 23:27:01.445] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:27:01.446] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2502.41, y=-25.00, z=-2097.39], To: TherodEntity['The Rod'/20458, l='ServerLevel[world]', x=-2503.65, y=-25.00, z=-2095.50]
+[12Jul2025 23:27:24.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:27:24.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2557.80, y=-14.00, z=-2012.23], To: CaniacEntity['Caniac'/20929, l='ServerLevel[world]', x=-2556.12, y=-14.00, z=-2012.75] [37.65]
+[12Jul2025 23:27:24.450] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[12Jul2025 23:27:24.761] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:27:24.761] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2557.39, y=-13.69, z=-2011.51], To: CaniacEntity['Caniac'/20929, l='ServerLevel[world]', x=-2556.62, y=-14.00, z=-2012.41]
+[12Jul2025 23:27:26.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:27:26.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2555.68, y=-14.00, z=-2013.98], To: CaniacEntity['Caniac'/20929, l='ServerLevel[world]', x=-2556.29, y=-14.00, z=-2012.47] [9.583502]
+[12Jul2025 23:27:26.249] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.525
+[12Jul2025 23:27:27.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:27:27.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2556.78, y=-14.00, z=-2017.31], To: CaniacEntity['Caniac'/20929, l='ServerLevel[world]', x=-2555.84, y=-14.00, z=-2015.11] [9.233501]
+[12Jul2025 23:27:27.750] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.35
+[12Jul2025 23:27:28.567] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:27:28.567] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2557.76, y=-14.00, z=-2019.02], To: CaniacEntity['Caniac'/20929, l='ServerLevel[world]', x=-2557.95, y=-14.00, z=-2018.02]
+[12Jul2025 23:27:30.109] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:27:30.109] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-2557.95, y=-14.00, z=-2018.51], To: TheMoonflowerEntity['The Moonflower'/21003, l='ServerLevel[world]', x=-2556.88, y=-12.79, z=-2017.35]

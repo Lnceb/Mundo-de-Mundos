@@ -2244,3 +2244,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 23:00:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Tree Stars!!!]
 [12Jul2025 23:07:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Strike upon thee]
 [12Jul2025 23:08:55.741] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3306ms or 66 ticks behind
+[12Jul2025 23:18:22.739] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:19:39.088] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:19:41.738] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:20:24.055] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[12Jul2025 23:20:24.055] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[12Jul2025 23:20:24.056] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[12Jul2025 23:20:39.697] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class dev.itsmeow.whisperwoods.entity.EntityZotzpyre from class dev.itsmeow.whisperwoods.imdlib.entity.EntityTypeContainer
+[12Jul2025 23:20:52.154] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/12496, l='ServerLevel[world]', x=-2269.49, y=63.00, z=-2090.66] died, message: 'Golem Healer was slain by The Wheezer'
+[12Jul2025 23:20:52.157] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/12496, l='ServerLevel[world]', x=-2269.49, y=63.00, z=-2090.66] died: Golem Healer was slain by The Wheezer
+[12Jul2025 23:21:08.271] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/14033, l='ServerLevel[world]', x=-2274.99, y=63.88, z=-2088.92] died, message: 'Golem Healer was slain by The Wheezer'
+[12Jul2025 23:21:08.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/14033, l='ServerLevel[world]', x=-2274.99, y=63.88, z=-2088.92] died: Golem Healer was slain by The Wheezer
+[12Jul2025 23:21:35.300] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity arphex:moth_shadow_clone but it was marked as removed already
+[12Jul2025 23:24:59.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [The Dark (Chocolate) Tower]
