@@ -2239,3 +2239,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 22:54:34.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=98, z=-328} BlockPos{x=-164, y=95, z=-322}
 [12Jul2025 22:54:34.205] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=98, z=-328} BlockPos{x=-164, y=95, z=-322}
 [12Jul2025 22:54:34.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-182, y=98, z=-328} BlockPos{x=-164, y=95, z=-322}
+[12Jul2025 22:58:20.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Tis the Season]
+[12Jul2025 22:58:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Sweet Sweet Speeding Up]
+[12Jul2025 23:00:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Tree Stars!!!]
+[12Jul2025 23:07:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Strike upon thee]

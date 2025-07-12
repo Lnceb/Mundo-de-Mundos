@@ -14283,3 +14283,161 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 22:55:18.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-128.62, y=43.80, z=-299.86], To: Piglin['Piglin'/1640, l='ServerLevel[world]', x=-131.00, y=42.00, z=-297.82]
 [12Jul2025 22:56:14.665] [Server thread/DEBUG] [mixin/]: Mixing FrogAiMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.FrogAi
 [12Jul2025 22:56:14.691] [Server thread/DEBUG] [mixin/]: Mixing ShootTongueMixin from domesticationinnovation.mixins.json into net.minecraft.world.entity.animal.frog.ShootTongue
+[12Jul2025 22:58:20.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Tis the Season]
+[12Jul2025 22:58:20.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has reached the goal [Sweet Sweet Speeding Up]
+[12Jul2025 22:58:29.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 22:58:29.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 22:58:36.049] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 22:58:36.049] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1348.48, y=36.00, z=-2448.27], To: TheMoonflowerEntity['The Moonflower'/2599, l='ServerLevel[world]', x=-1348.47, y=36.00, z=-2449.05] [24.3]
+[12Jul2025 22:58:36.049] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 22:58:36.382] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 22:58:36.382] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1349.03, y=36.58, z=-2447.80], To: TheMoonflowerEntity['The Moonflower'/2599, l='ServerLevel[world]', x=-1348.40, y=36.00, z=-2447.32]
+[12Jul2025 22:58:38.463] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 22:58:38.463] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1348.29, y=36.00, z=-2448.92], To: TheMoonflowerEntity['The Moonflower'/2599, l='ServerLevel[world]', x=-1348.15, y=36.00, z=-2448.28]
+[12Jul2025 23:00:07.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Tree Stars!!!]
+[12Jul2025 23:00:35.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:00:35.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1395.48, y=-29.00, z=-2416.71], To: ThebidyEntity['The Bidy'/4966, l='ServerLevel[world]', x=-1396.35, y=-28.82, z=-2417.40, removed=DISCARDED] [3.0]
+[12Jul2025 23:00:35.559] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[12Jul2025 23:00:38.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:00:38.583] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1395.46, y=-29.00, z=-2416.74], To: TheMoonflowerEntity['The Moonflower'/4729, l='ServerLevel[world]', x=-1395.59, y=-31.00, z=-2417.38]
+[12Jul2025 23:00:47.863] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:00:47.863] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1394.85, y=-29.00, z=-2416.98], To: BomberEntity['The Bomber'/5239, l='ServerLevel[world]', x=-1395.37, y=-30.77, z=-2417.70]
+[12Jul2025 23:02:44.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:02:44.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1394.34, y=-30.00, z=-2416.30], To: TheMoonflowerEntity['The Moonflower'/6303, l='ServerLevel[world]', x=-1394.57, y=-30.00, z=-2417.10] [23.3]
+[12Jul2025 23:02:44.414] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:02:46.864] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:02:46.864] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1393.91, y=-30.00, z=-2416.30], To: TheMoonflowerEntity['The Moonflower'/6303, l='ServerLevel[world]', x=-1393.20, y=-30.00, z=-2416.35] [20.599998]
+[12Jul2025 23:02:46.864] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:02:47.133] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:02:47.134] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1394.24, y=-30.00, z=-2416.30], To: TheMoonflowerEntity['The Moonflower'/6303, l='ServerLevel[world]', x=-1393.20, y=-30.00, z=-2416.35]
+[12Jul2025 23:02:53.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:02:53.063] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.71, y=-33.00, z=-2422.83], To: ThesmokerEntity['The Wheezer'/6273, l='ServerLevel[world]', x=-1402.55, y=-32.00, z=-2422.49]
+[12Jul2025 23:03:29.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 23:03:29.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Mixing KegStackedContentsRecipePickerMixin from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$10(I)[Lnet/minecraft/world/item/crafting/Ingredient; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$10$0 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$9(Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry;)Lnet/minecraft/world/item/crafting/Ingredient; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$9$1 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$8(I)[Lnet/minecraft/world/item/ItemStack; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$8$2 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$7(Lumpaz/brewinandchewin/common/crafting/KegFermentingRecipe;ILnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry;)Z to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$7$3 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$6(Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$6$4 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$5(Lumpaz/brewinandchewin/common/crafting/KegFermentingRecipe;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$5$5 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$4(I)[Lnet/minecraft/world/item/ItemStack; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$4$6 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$3(Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Lumpaz/brewinandchewin/common/block/entity/container/KegStackedContents$PouringEntry; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$3$7 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$2(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$2$8 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$1(I)[Lnet/minecraft/world/item/ItemStack; to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$1$9 in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.567] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$brewinandchewin$addExtraFluidContextToPick$0(Lnet/minecraftforge/fluids/capability/templates/FluidTank;Lumpaz/brewinandchewin/common/crafting/KegPouringRecipe;)Z to md43c93f$lambda$brewinandchewin$addExtraFluidContextToPick$0$a in brewinandchewin.mixins.json:KegStackedContentsRecipePickerMixin
+[12Jul2025 23:03:43.573] [Server thread/DEBUG] [mixin/]: Mixing StackedContentsRecipePickerAccessor from brewinandchewin.mixins.json into net.minecraft.world.entity.player.StackedContents$RecipePicker
+[12Jul2025 23:04:03.122] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:04:03.122] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1419.21, y=-25.00, z=-2449.12], To: BomberEntity['The Bomber'/6411, l='ServerLevel[world]', x=-1420.33, y=-24.46, z=-2450.32]
+[12Jul2025 23:04:50.148] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:04:50.148] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1398.26, y=-31.56, z=-2551.78], To: TheMoonflowerEntity['The Moonflower'/6547, l='ServerLevel[world]', x=-1398.07, y=-31.56, z=-2550.97] [24.3]
+[12Jul2025 23:04:50.148] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:04:51.568] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:04:51.568] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1398.51, y=-32.00, z=-2552.83], To: TheMoonflowerEntity['The Moonflower'/6547, l='ServerLevel[world]', x=-1398.55, y=-31.56, z=-2552.17]
+[12Jul2025 23:04:54.147] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:04:54.147] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1398.51, y=-31.56, z=-2551.39], To: ThehunterEntity['The Hunter'/6572, l='ServerLevel[world]', x=-1397.58, y=-32.00, z=-2551.27] [15.125]
+[12Jul2025 23:04:54.147] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.875
+[12Jul2025 23:04:55.171] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:04:55.171] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1400.21, y=-32.00, z=-2551.47], To: ThehunterEntity['The Hunter'/6572, l='ServerLevel[world]', x=-1395.58, y=-32.00, z=-2552.69]
+[12Jul2025 23:05:01.714] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:01.714] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1396.99, y=-32.00, z=-2550.86], To: ThespitterEntity['The Spitter'/6406, l='ServerLevel[world]', x=-1396.31, y=-32.00, z=-2549.65]
+[12Jul2025 23:05:01.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:01.717] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1396.99, y=-32.00, z=-2550.86], To: ThebidyEntity['The Bidy'/5516, l='ServerLevel[world]', x=-1395.90, y=-32.00, z=-2548.60]
+[12Jul2025 23:05:03.129] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:03.129] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1397.50, y=-32.00, z=-2551.14], To: TheheavyEntity['The Heavy'/7435, l='ServerLevel[world]', x=-1396.46, y=-32.00, z=-2552.19]
+[12Jul2025 23:05:10.469] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:10.470] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.94, y=-32.00, z=-2552.73], To: BomberEntity['The Bomber'/6069, l='ServerLevel[world]', x=-1399.48, y=-31.65, z=-2551.54]
+[12Jul2025 23:05:10.472] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:10.472] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.94, y=-32.00, z=-2552.73], To: BomberEntity['The Bomber'/6693, l='ServerLevel[world]', x=-1398.09, y=-32.00, z=-2552.36]
+[12Jul2025 23:05:13.612] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:13.612] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1400.41, y=-32.00, z=-2551.99], To: BomberEntity['The Bomber'/6712, l='ServerLevel[world]', x=-1400.57, y=-32.00, z=-2549.59]
+[12Jul2025 23:05:14.412] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:05:14.412] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1400.42, y=-32.00, z=-2551.79], To: ThebidyupsideEntity['The Upside Bidy'/7560, l='ServerLevel[world]', x=-1400.11, y=-32.00, z=-2550.67, removed=DISCARDED] [6.0]
+[12Jul2025 23:05:14.413] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[12Jul2025 23:05:20.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:20.164] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1398.16, y=-32.00, z=-2554.16], To: TheheavyEntity['The Heavy'/7435, l='ServerLevel[world]', x=-1396.29, y=-35.00, z=-2554.38]
+[12Jul2025 23:05:20.167] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:20.167] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1398.16, y=-32.00, z=-2554.16], To: ThebidyEntity['The Bidy'/7592, l='ServerLevel[world]', x=-1397.73, y=-33.00, z=-2555.96]
+[12Jul2025 23:05:24.758] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:05:24.758] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.06, y=-29.42, z=-2553.98], To: SuckerEntity['Sucker'/7281, l='ServerLevel[world]', x=-1398.55, y=-27.69, z=-2554.08] [14.3]
+[12Jul2025 23:05:24.758] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:05:25.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:05:25.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.07, y=-28.62, z=-2553.66], To: SuckerEntity['Sucker'/7281, l='ServerLevel[world]', x=-1398.51, y=-27.74, z=-2553.61] [13.6]
+[12Jul2025 23:05:25.256] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:05:29.058] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:29.058] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1400.70, y=-25.00, z=-2552.66], To: SuckerEntity['Sucker'/7281, l='ServerLevel[world]', x=-1400.70, y=-27.36, z=-2552.55]
+[12Jul2025 23:05:29.061] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:29.061] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1400.70, y=-25.00, z=-2552.66], To: SuckerEntity['Sucker'/7174, l='ServerLevel[world]', x=-1400.70, y=-27.38, z=-2552.76]
+[12Jul2025 23:05:39.018] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:39.018] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.51, y=-28.50, z=-2553.57], To: Zombie['Zombie'/7054, l='ServerLevel[world]', x=-1399.27, y=-32.00, z=-2552.67]
+[12Jul2025 23:05:43.318] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:43.318] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.59, y=-28.50, z=-2553.39], To: ThesmokerEntity['The Wheezer'/5996, l='ServerLevel[world]', x=-1398.83, y=-31.56, z=-2551.47]
+[12Jul2025 23:05:45.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:05:45.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.29, y=-28.50, z=-2553.08], To: SuckerEntity['Sucker'/7156, l='ServerLevel[world]', x=-1399.23, y=-27.36, z=-2552.56] [7.3]
+[12Jul2025 23:05:45.800] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:05:51.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:05:51.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.96, y=-27.70, z=-2553.79], To: SuckerEntity['Sucker'/7156, l='ServerLevel[world]', x=-1399.07, y=-29.00, z=-2553.78]
+[12Jul2025 23:06:03.861] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:03.862] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.08, y=-28.50, z=-2553.08], To: ThesmokerEntity['The Wheezer'/6713, l='ServerLevel[world]', x=-1398.70, y=-31.56, z=-2552.08]
+[12Jul2025 23:06:05.253] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:06:05.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.08, y=-28.50, z=-2553.08], To: SuckerEntity['Sucker'/7167, l='ServerLevel[world]', x=-1399.08, y=-27.24, z=-2553.24] [7.3]
+[12Jul2025 23:06:05.254] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:06:05.325] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:05.326] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.08, y=-28.50, z=-2553.08], To: Zombie['Zombie'/7051, l='ServerLevel[world]', x=-1398.51, y=-31.56, z=-2551.75]
+[12Jul2025 23:06:05.749] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:06:05.749] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1399.08, y=-28.07, z=-2551.93], To: SuckerEntity['Sucker'/7167, l='ServerLevel[world]', x=-1399.30, y=-27.21, z=-2552.37] [6.6000004]
+[12Jul2025 23:06:05.749] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:06:07.214] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:06:07.215] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1396.53, y=-32.00, z=-2546.86], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1396.70, y=-32.00, z=-2547.84] [119.70852]
+[12Jul2025 23:06:07.215] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:06:10.949] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:06:10.949] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.18, y=-27.08, z=-2547.53], To: SuckerEntity['Sucker'/7167, l='ServerLevel[world]', x=-1388.20, y=-26.26, z=-2547.72] [5.9000006]
+[12Jul2025 23:06:10.949] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.7
+[12Jul2025 23:06:11.109] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:11.109] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.28, y=-27.38, z=-2547.56], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1387.33, y=-28.75, z=-2545.98]
+[12Jul2025 23:06:11.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:11.110] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.28, y=-27.38, z=-2547.56], To: SuckerEntity['Sucker'/7167, l='ServerLevel[world]', x=-1388.44, y=-26.25, z=-2547.34]
+[12Jul2025 23:06:11.663] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:11.664] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.37, y=-27.38, z=-2546.70], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1387.23, y=-29.00, z=-2546.18]
+[12Jul2025 23:06:11.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:11.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.37, y=-27.38, z=-2546.70], To: Zombie['Zombie'/7053, l='ServerLevel[world]', x=-1388.89, y=-30.00, z=-2547.29]
+[12Jul2025 23:06:12.213] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:12.214] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.27, y=-27.38, z=-2547.03], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1387.23, y=-29.00, z=-2546.18]
+[12Jul2025 23:06:12.758] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:12.759] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1387.98, y=-27.00, z=-2547.34], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1387.23, y=-29.00, z=-2546.18]
+[12Jul2025 23:06:13.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:06:13.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1387.91, y=-27.00, z=-2547.59], To: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1387.91, y=-27.00, z=-2547.59] [45.610703]
+[12Jul2025 23:06:13.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.0849999
+[12Jul2025 23:06:13.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:13.007] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1387.91, y=-27.00, z=-2547.59], To: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1387.91, y=-27.00, z=-2547.59]
+[12Jul2025 23:06:13.358] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:13.358] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.37, y=-27.23, z=-2548.10], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1387.23, y=-29.00, z=-2546.18]
+[12Jul2025 23:06:13.959] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:13.959] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.32, y=-27.38, z=-2548.10], To: TheheavyEntity['The Heavy'/7706, l='ServerLevel[world]', x=-1387.86, y=-29.08, z=-2546.42]
+[12Jul2025 23:06:13.961] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:13.962] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.32, y=-27.38, z=-2548.10], To: ThebidyupsideEntity['The Upside Bidy'/7648, l='ServerLevel[world]', x=-1387.35, y=-29.25, z=-2546.52]
+[12Jul2025 23:06:18.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:18.517] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1386.88, y=-27.38, z=-2547.46], To: ThebidyEntity['The Bidy'/7640, l='ServerLevel[world]', x=-1386.26, y=-29.00, z=-2547.43]
+[12Jul2025 23:06:33.567] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:33.568] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1388.68, y=-28.97, z=-2546.96], To: ThebidyupsideEntity['The Upside Bidy'/7977, l='ServerLevel[world]', x=-1388.35, y=-30.00, z=-2546.32]
+[12Jul2025 23:06:54.982] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:06:54.982] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.73, y=-24.00, z=-2591.49], To: TheMoonflowerEntity['The Moonflower'/8159, l='ServerLevel[world]', x=-1378.11, y=-27.00, z=-2590.50]
+[12Jul2025 23:07:01.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:07:01.179] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.68, y=-24.00, z=-2591.72], To: ThehunterEntity['The Hunter'/8225, l='ServerLevel[world]', x=-1377.95, y=-26.76, z=-2592.01]
+[12Jul2025 23:07:01.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:07:01.762] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.68, y=-24.00, z=-2591.72], To: SlavemanEntity['The Royal'/8223, l='ServerLevel[world]', x=-1377.29, y=-27.23, z=-2590.48]
+[12Jul2025 23:07:01.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:07:01.765] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.68, y=-24.00, z=-2591.72], To: ThehunterEntity['The Hunter'/8226, l='ServerLevel[world]', x=-1377.95, y=-26.09, z=-2591.08]
+[12Jul2025 23:07:05.225] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:07:05.225] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.62, y=-24.00, z=-2591.48], To: BomberEntity['The Bomber'/7971, l='ServerLevel[world]', x=-1376.73, y=-26.00, z=-2588.72, removed=DISCARDED] [35.0]
+[12Jul2025 23:07:05.225] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[12Jul2025 23:07:14.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 23:07:14.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1376.75, y=-24.38, z=-2592.49], To: BomberEntity['The Bomber'/8188, l='ServerLevel[world]', x=-1379.42, y=-27.00, z=-2590.20, removed=DISCARDED] [34.0]
+[12Jul2025 23:07:14.471] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.0
+[12Jul2025 23:07:17.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:07:17.552] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.37, y=-24.00, z=-2591.76], To: ThehunterEntity['The Hunter'/8224, l='ServerLevel[world]', x=-1378.41, y=-27.00, z=-2590.52]
+[12Jul2025 23:07:20.670] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:07:20.670] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.30, y=-24.00, z=-2591.97], To: TheMoonflowerEntity['The Moonflower'/8222, l='ServerLevel[world]', x=-1377.64, y=-26.61, z=-2590.90]
+[12Jul2025 23:07:27.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 23:07:27.819] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-1377.50, y=-24.00, z=-2591.35], To: TheMoonflowerEntity['The Moonflower'/8408, l='ServerLevel[world]', x=-1377.64, y=-24.59, z=-2590.54]
+[12Jul2025 23:07:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has completed the challenge [Strike upon thee]
