@@ -14441,3 +14441,47 @@ Caused by: java.io.IOException: Invalid tag id: 26
 [12Jul2025 05:09:12.401] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [12Jul2025 05:09:18.399] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
 [12Jul2025 05:09:26.395] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[12Jul2025 05:11:36.147] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-762, y=-18, z=-2591} at Sarcophagus with:graveyard:chests/crypt_loot
+[12Jul2025 05:13:18.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:13:18.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:13:20.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [There is a Castle on a Cloud]
+[12Jul2025 05:14:42.395] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-667, y=-19, z=-2666} at Chest with:graveyard:chests/crypt_loot
+[12Jul2025 05:14:48.514] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (-556 | 47 | -2940).
+[12Jul2025 05:14:48.514] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 5(0) Rooms
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 6(0) Nodes and 4(0) Rooms
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 12(0) Nodes and 5(0) Rooms
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 10(0) Nodes and 4(0) Rooms
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[12Jul2025 05:14:48.515] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 9(0) Nodes and 4(0) Rooms
+[12Jul2025 05:15:20.989] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-672, y=-2, z=-2801} at Chest with:minecraft:chests/simple_dungeon
+[12Jul2025 05:16:14.726] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:16:14.726] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-866.12, y=74.00, z=-2670.67], To: EntityWisp['Wisp'/5937, l='ServerLevel[world]', x=-866.38, y=74.31, z=-2673.50]
+[12Jul2025 05:17:30.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 05:17:30.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-900.54, y=67.00, z=-2705.70], To: PyromancerEntity['Pyromancer'/6013, l='ServerLevel[world]', x=-897.84, y=67.06, z=-2700.60] [59.056606]
+[12Jul2025 05:17:30.667] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 1.5939
+[12Jul2025 05:18:00.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6752, l='ServerLevel[world]', x=-840.91, y=69.39, z=-2880.01]
+[12Jul2025 05:18:00.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6753, l='ServerLevel[world]', x=-838.78, y=68.83, z=-2880.03]
+[12Jul2025 05:18:00.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6758, l='ServerLevel[world]', x=-839.01, y=68.97, z=-2880.02]
+[12Jul2025 05:18:00.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6759, l='ServerLevel[world]', x=-837.35, y=68.69, z=-2880.22]
+[12Jul2025 05:18:18.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 05:18:18.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 05:20:55.862] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply alshanex_familiars:chests/additional_pyromancer_tower_loot
+[12Jul2025 05:21:23.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[12Jul2025 05:21:23.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-898.69, y=78.00, z=-2732.52], To: DreadHoundEntity['Dread Hound'/8137, l='ServerLevel[world]', x=-897.70, y=78.00, z=-2732.80] [16.125]
+[12Jul2025 05:21:23.453] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.875
+[12Jul2025 05:21:23.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:21:23.665] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-898.98, y=78.00, z=-2733.32], To: DreadHoundEntity['Dread Hound'/8137, l='ServerLevel[world]', x=-898.52, y=78.00, z=-2732.26]
+[12Jul2025 05:21:44.865] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:21:44.866] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-880.27, y=74.00, z=-2815.69], To: SiameseSkeletonsEntity['Siamese Skeletons'/8083, l='ServerLevel[world]', x=-880.70, y=73.42, z=-2814.70]
+[12Jul2025 05:21:45.674] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:21:45.674] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-880.29, y=74.00, z=-2816.02], To: SiameseSkeletonsrightEntity['Siamese Skeleton'/8545, l='ServerLevel[world]', x=-880.50, y=73.00, z=-2814.50]
+[12Jul2025 05:21:45.678] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:21:45.678] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-880.29, y=74.00, z=-2816.02], To: SiameseSkeletonsleftEntity['Siamese Skeleton'/8546, l='ServerLevel[world]', x=-880.50, y=73.00, z=-2814.50]
+[12Jul2025 05:21:47.458] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:21:47.458] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-879.42, y=74.80, z=-2813.05], To: SiameseSkeletonsleftEntity['Siamese Skeleton'/8546, l='ServerLevel[world]', x=-880.46, y=73.42, z=-2813.55]
+[12Jul2025 05:21:49.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[12Jul2025 05:21:49.908] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/45, l='ServerLevel[world]', x=-878.19, y=73.00, z=-2808.69], To: TheimmortalEntity['The Immortal'/8598, l='ServerLevel[world]', x=-879.25, y=73.00, z=-2809.40]

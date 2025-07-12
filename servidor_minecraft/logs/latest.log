@@ -2297,3 +2297,8 @@ Caused by: java.io.IOException: Invalid tag id: 26
 	at net.minecraft.nbt.TagType$1.m_7300_(TagType.java:56) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
 	at net.minecraft.nbt.CompoundTag.m_128413_(CompoundTag.java:474) ~[server-1.20.1-20230612.114412-srg.jar%23393!/:?]
 	... 45 more
+[12Jul2025 05:13:20.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [There is a Castle on a Cloud]
+[12Jul2025 05:18:00.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6752, l='ServerLevel[world]', x=-840.91, y=69.39, z=-2880.01]
+[12Jul2025 05:18:00.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6753, l='ServerLevel[world]', x=-838.78, y=68.83, z=-2880.03]
+[12Jul2025 05:18:00.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6758, l='ServerLevel[world]', x=-839.01, y=68.97, z=-2880.02]
+[12Jul2025 05:18:00.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/6759, l='ServerLevel[world]', x=-837.35, y=68.69, z=-2880.22]

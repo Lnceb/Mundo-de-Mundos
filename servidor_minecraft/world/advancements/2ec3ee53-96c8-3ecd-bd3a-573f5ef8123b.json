@@ -13119,9 +13119,63 @@
     },
     "done": true
   },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_wall": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "castle_in_the_sky:trade": {
+    "criteria": {
+      "traded": "2025-07-12 05:13:20 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/chiseled_turquoise_stonebrick_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/caramel": {
     "criteria": {
       "mussel": "2025-07-12 05:06:17 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab_stonecutting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/cracked_turquoise_stonebrick_from_smelting_turquoise_stonebrick": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_stairs": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/building_blocks/turquoise_stonebrick_slab": {
+    "criteria": {
+      "has_item": "2025-07-12 05:12:30 +0000"
     },
     "done": true
   },
