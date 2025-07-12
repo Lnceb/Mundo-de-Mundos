@@ -4426,3 +4426,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [12Jul2025 23:33:28.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [12Jul2025 23:33:28.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [12Jul2025 23:33:28.044] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
+[12Jul2025 23:52:53.295] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cat['Walas'/28893, l='ServerLevel[world]', x=-779.50, y=203.30, z=-1983.50] died: Walas drowned

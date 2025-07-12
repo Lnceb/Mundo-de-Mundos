@@ -13529,6 +13529,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_advanced_jukebox_upgrade_from_backpack_advanced_jukebox_upgrade": {
+    "criteria": {
+      "has_backpack_upgrade": "2025-07-12 23:44:14 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/tree_star": {
     "criteria": {
       "tree_star": "2025-07-12 23:00:07 +0000"
