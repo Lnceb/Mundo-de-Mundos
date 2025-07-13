@@ -3574,3 +3574,5 @@
 [13Jul2025 02:31:36.210] [Worker-Main-180/WARN] [net.minecraft.world.level.levelgen.heightproviders.VeryBiasedToBottomHeight/]: Empty height range: biased[0 above bottom-194 below top inner: 8]
 [13Jul2025 02:33:04.198] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/73034, l='ServerLevel[world]', x=-757.55, y=149.00, z=-1933.13] died, message: 'Golem Healer was slain by Sucker'
 [13Jul2025 02:33:04.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/73034, l='ServerLevel[world]', x=-757.55, y=149.00, z=-1933.13] died: Golem Healer was slain by Sucker
+[13Jul2025 02:42:32.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lance has made the advancement [Fishy Business]
+[13Jul2025 02:55:05.847] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cat['Walas'/79032, l='ServerLevel[world]', x=-779.49, y=203.30, z=-1983.49] died: Walas drowned
