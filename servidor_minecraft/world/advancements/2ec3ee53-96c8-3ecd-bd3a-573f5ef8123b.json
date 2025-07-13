@@ -13589,6 +13589,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/misc/storage_link": {
+    "criteria": {
+      "has_repeater": "2025-07-13 01:33:21 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/eat_candy_cane": {
     "criteria": {
       "eat_candy_cane": "2025-07-12 22:58:20 +0000"

@@ -17154,3 +17154,29 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [13Jul2025 01:28:34.226] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-791.75, y=172.00, z=-1969.76], To: ThehunterEntity['The Hunter'/54461, l='ServerLevel[world]', x=-791.36, y=170.62, z=-1969.38]
 [13Jul2025 01:28:51.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [13Jul2025 01:28:51.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:31:52.200] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[13Jul2025 01:31:54.201] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[13Jul2025 01:31:55.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Removing Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[13Jul2025 01:31:56.204] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Adding Tarot Modifier: the_hermit - AttributeModifier{amount=10.0, operation=ADDITION, name='Tarot Card', id=3c5d062d-8d16-3406-96d4-140f80a14729}
+[13Jul2025 01:33:51.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 01:33:51.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jul2025 01:36:25.700] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: justice - Returning damage
+[13Jul2025 01:36:25.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-787.07, y=172.00, z=-1976.15], To: DreadHoundEntity['Dread Hound'/57718, l='ServerLevel[world]', x=-786.74, y=172.00, z=-1977.05] [16.125]
+[13Jul2025 01:36:25.701] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: Amount: 0.875
+[13Jul2025 01:36:26.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:26.108] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-786.31, y=172.11, z=-1976.37], To: DreadHoundEntity['Dread Hound'/57718, l='ServerLevel[world]', x=-786.51, y=172.00, z=-1976.20]
+[13Jul2025 01:36:26.307] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:26.307] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-786.34, y=172.00, z=-1975.30], To: DreadHoundEntity['Dread Hound'/57718, l='ServerLevel[world]', x=-786.96, y=173.09, z=-1978.42]
+[13Jul2025 01:36:27.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:27.575] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-787.65, y=172.00, z=-1972.85], To: DreadHoundEntity['Dread Hound'/57719, l='ServerLevel[world]', x=-787.63, y=172.00, z=-1974.96]
+[13Jul2025 01:36:27.806] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:27.806] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-788.38, y=172.00, z=-1972.14], To: DreadHoundEntity['Dread Hound'/57721, l='ServerLevel[world]', x=-789.09, y=172.02, z=-1973.55]
+[13Jul2025 01:36:28.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:28.907] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-792.07, y=171.00, z=-1972.57], To: ZombieBruiserEntity['Zombie Bruiser'/57786, l='ServerLevel[world]', x=-789.59, y=171.00, z=-1973.43]
+[13Jul2025 01:36:29.809] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:29.809] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-792.70, y=171.00, z=-1972.27], To: DreadHoundEntity['Dread Hound'/57721, l='ServerLevel[world]', x=-791.91, y=171.00, z=-1973.77]
+[13Jul2025 01:36:30.405] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: the_devil - Inflict weakness
+[13Jul2025 01:36:30.405] [Server thread/DEBUG] [shiroroku.tarotcards.TarotCards/]: From: ServerPlayer['Lance'/46, l='ServerLevel[world]', x=-793.33, y=171.00, z=-1972.33], To: ZombieBruiserEntity['Zombie Bruiser'/57786, l='ServerLevel[world]', x=-791.37, y=171.00, z=-1972.73]
+[13Jul2025 01:37:23.750] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Cat['Walas'/54818, l='ServerLevel[world]', x=-793.69, y=206.00, z=-1974.05] died: Walas was slain by The Hunter
+[13Jul2025 01:38:51.841] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jul2025 01:38:51.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
